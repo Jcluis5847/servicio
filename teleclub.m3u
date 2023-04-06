@@ -39,8 +39,6 @@ http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantil", Cartoonito 
 http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantil", Gogoplay TV 
-http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantil", CARTOON NETWORK LATINO 1 
 http://tv.teleclub.xyz/stream/Infantil/CN_LA/index.m3u8 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantil", CARTOON NETWORK LATINO 2 
