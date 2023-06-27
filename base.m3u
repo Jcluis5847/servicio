@@ -11,27 +11,27 @@ https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo .png?itok=gzTn1Jjd", IP
+#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd", IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022% 29.svg/1200px-Canal_26_logo_%282022%29.svg.png", CANAL 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477726445690568711/Qb1flBsT_400x400.jpg", CRÓNICA HD
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24 -logo2019.png", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/america- tv.png", AMÉRICA HD
+#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/america-tv.png", AMÉRICA HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television- publica.png" , TV PUBLICA
+#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" , TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el- nueve.png", CANAL 9
+#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-nueve.png", CANAL 9
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el- trece.png", CANAL 13
+#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/el-trece.png", CANAL 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/net- tv.png" , NET TV
+#EXTINF:-1 tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/net-tv.png" , NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/telemax.png", TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b864000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro. png", CANAL ENCUENTRO
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro.png", CANAL ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/tec.png" , TECTV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8 
@@ -63,26 +63,12 @@ http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png", Cartoonito 
 http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png", CNN en Español 
-http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png", CNN 
-http://tv.teleclub.xyz/envivo/Mundo/CNN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png", Glitz 
-http://tv.teleclub.xyz/envivo/Mundo/GLITZ/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png", RT en Español 
-http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png", TruTV 
 http://tv.teleclub.xyz/envivo/Mundo/TRUTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQOOHA2.png", MasChic 
-http://tv.teleclub.xyz/envivo/Mundo/MASCHIC/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png", 
-Lifetime http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png", Lifetime 
+http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png", ADN40 
 http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN 
-http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe 
-http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg", HolaTV 
 http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png", Las Estrellas 
@@ -133,12 +119,8 @@ http://tv.teleclub.xyz/envivo/Cultura/TLC/index.m3u8
 http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png", Distrito Comedia 
 http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fCegFzr.png", Love Nature 
-http://tv.teleclub.xyz/envivo/Cultura/LOVE_NATURE/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TLNovelas
 http://tv.teleclub.xyz/envivo/Cultura/TLNovelas/index.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" , Love Nature 4K 
-http://tv.teleclub.xyz/envivo/Cultura/LOVENATURE_4K/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" , Star Channel 
 http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" , Universal TV 
@@ -294,7 +276,7 @@ http://tv.teleclub.xyz/envivo/Deportes/MZ_SPORTSCR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png" , Fox Sports Premium 
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Espn_deportes.svg" , ESPN Deportes http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png", PlayBoy HD 
+#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/11/Playboy-logo.png", PlayBoy HD 
 http://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png", VENUS HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png", VENUS HD 
 http://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8
