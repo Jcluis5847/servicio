@@ -292,7 +292,7 @@ http://tv.teleclub.xyz/envivo/Deportes/MZ_SPORTSCR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png" , Fox Sports Premium 
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Espn_deportes.svg" , ESPN Deportes http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="XXX", PlayBoy HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png", PlayBoy HD 
 http://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="XXX", VENUS HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png", VENUS HD 
 http://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8
