@@ -1,4 +1,14 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JQp1zsJ.jpg",Canal 8 Mar del Plata
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg", CANAL 2 MAR DEL PLATA
+https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
+#EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855", CANAL 6 MAR DEL PLATA
+https://panel.dattalive.com:443/8166/8166/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" , Canal 41 XFN MAR DEL PLATA
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png",CANAL 79 MAR DEL PLATA
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg", Cartoon Network 
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg", Disney Channel 
@@ -11,24 +21,42 @@ http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
 http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg", Nick Jr 
 http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png", Tooncast http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png", Bitme http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png", Cartoonito http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png", CNN en Español http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png", CNN http://tv.teleclub.xyz/envivo/Mundo/CNN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png", Glitz http://tv.teleclub.xyz/envivo/Mundo/GLITZ/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png", RT en Español http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png", TruTV http://tv.teleclub.xyz/envivo/Mundo/TRUTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQOOHA2.png", MasChic http://tv.teleclub.xyz/envivo/Mundo/MASCHIC/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png", Lifetime http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png", ADN40 http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg", HolaTV http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png", Las Estrellas http://tv.teleclub.xyz/envivo/Mundo/LAS_ESTRELLAS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png", Canal E! http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png", Caracol TV http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png", Telemundo http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png", Tooncast 
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png", Bitme 
+http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png", Cartoonito 
+http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png", CNN en Español 
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png", CNN 
+http://tv.teleclub.xyz/envivo/Mundo/CNN/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png", Glitz 
+http://tv.teleclub.xyz/envivo/Mundo/GLITZ/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png", RT en Español 
+http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png", TruTV 
+http://tv.teleclub.xyz/envivo/Mundo/TRUTV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQOOHA2.png", MasChic 
+http://tv.teleclub.xyz/envivo/Mundo/MASCHIC/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png", 
+Lifetime http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png", ADN40 
+http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png", RCN 
+http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe 
+http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg", HolaTV 
+http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png", Las Estrellas 
+http://tv.teleclub.xyz/envivo/Mundo/LAS_ESTRELLAS/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png", Canal E! 
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png", Caracol TV 
+http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png", Telemundo 
+http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png", Azteca7 http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/sCMrEpW.png", Univision http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png", Antena 3 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8 
