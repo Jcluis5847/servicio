@@ -224,10 +224,6 @@ http://tv.teleclub.xyz/envivo/Musica/RETRO_PLUS_2/index.m3u8
 http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_CCP_RADIO/index.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" , EnerGeek Radio 
 http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_RADIO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" , TUDN 
-http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" , Afizzionados 
-http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" , Claro Sports 
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" , GolTV 
@@ -240,44 +236,24 @@ http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8 
 EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" , GolPeru 
 http://tv.teleclub.xyz/envivo/Deportes/GOLPERU/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN MX 
-http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN 2 MX 
-http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN 3 MX 
-http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg", Fox Sports MX 
-http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports 2 MX 
-http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports 3 MX 
-http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_MX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN Sur 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN 2 Sur 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN 2
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN 3 Sur 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN 3
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports Sur 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports 2 Sur 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports 2
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports 3 Sur 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports 3
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" , Bein Sports 
-http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" , Win Sports 
-http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" , Win Sports + 
-http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN Extra 
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_EXTRA/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" , TyC Sports 
 http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEQHphW.jpg" , WWE & WWF 
 http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yTaEw8U.png" , ESPN 4 
-http://tv.teleclub.xyz/envivo/Deportes/ESPN4/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29l9xsm.png" , DAZN 
 http://tv.teleclub.xyz/envivo/Deportes/DAZN/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" , DirecTV Sports (ARG) 
@@ -286,16 +262,23 @@ http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_ARG/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/RM_TV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" , Manchester United TV
 http://tv.teleclub.xyz/envivo/Deportes/MAN_UNITEDTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" , NFL Channel 
-http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" , Adrenalina Sports Network 
-http://tv.teleclub.xyz/envivo/Deportes/ADRENALINA/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c62d925b201bdb9d034e4d582d62abf2.png" , MZ Sports CR 
-http://tv.teleclub.xyz/envivo/Deportes/MZ_SPORTSCR/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png" , Fox Sports Premium 
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Espn_deportes.svg" , ESPN Deportes 
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8 
+#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/news/t/the-super-/the-super-mario-bros-movie-poster-features-all-of-our-favori_xhvn.jpg" , Mario Bross: La pelicula
+https://brunochanrio.github.io/Listas-IPTV/super-mario-bros-la-pelicula.m3u
+#EXTINF:-1 tvg-logo="https://real.cuevana3.nu/wp-content/uploads/2023/02/k6E1f3XvTq0sa02nUykPCwFKsBx-200x300.jpg" , At Midnight
+https://861519980.tapecontent.net/radosgw/KAp9Ky4JjKTj1J/gIutaL_MbWyGbhGRiew7_CBjugdW5jkcTi5JxHj3B-F_lvJcVDsYsHKim4wbHVGBmvDId6G1TDxLDHdjrpmrp965cPMRetsZ8qzCVEJflIr-S3eiqP-RzQ03qqNm2UA_b5H_wkIzHbARASqsvA8NDrT4klqolZ_emzx8t8KKssBCuak1B13ALXt1QZ6MquHiDUvhM0mkAeCqlG1cFYvB8B1Ame8EuRNQ-oYQw6Rp8bKEqrouRYAW_h1DsrygBZLCqWj7a9G9PrV4YvyQwMaXlQdfkj93OglQwCA-V84S4rOVMyCfkn4wut9D8hPgSbAQPA0vJqtx0Ck3PUeT/At+Midnight.2023.1080p.dual-lat.cinecalidad.run.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://real.cuevana3.nu/wp-content/uploads/2023/02/k6E1f3XvTq0sa02nUykPCwFKsBx-200x300.jpg" , Batman: La Perdición que llegó a Ciudad Gótica
+
+#EXTINF:-1 tvg-logo="https://real.cuevana3.nu/wp-content/uploads/2023/04/peter-pan-y-wendy-200x300.jpg" , Peter Pan y Wendy
+
+#EXTINF:-1 tvg-logo="https://cuevana3.eu/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3P9QvWVN02Etn4kYGC702WVoXEb.jpg&w=256&q=75" , Rápidos y furiosos X
+https://ff2c01ca1f17f54ca6ec2738e2d1addba9cb75d9ac26166c403eafa-apidata.googleusercontent.com/download/storage/v1/b/zzttv2/o/cmc%2F179634--308f32d4-b0e2-43b8-84a1-ef4814dde635--hdym--1350626-google_storage?jk=AYvHSRGMwbSzDg-fpG1i2Euk5Il1znT-rabhTzSB6zqFfALoDT_x9uLXSp0CqpGgDnwY4IrqCzmkynJjcN7rlHAl2Og98Sh4fopNg2NysZHivlTbPZ5XBNE87fT2mOCp2NWqc4PZikMumtta0jfaYtZVxUyv0L0mOZts275LoB9xHQMFD4sAR1xhE45H7tOJy3zdMgMYFzgULb5MS42TNg2l4GoujDEn8kTxZ3NiiOxV3xinWSEKvMTVhnpfYI1Pb9fnpPjWlex7IRm13snVsg1N8SwLF8FLXg4vhTFlVRPJ5SLICRpXTk3HfkGZY-OFiiGbfgCfTmmycWoe0Hl5ECM5K8jzu9Svcsoxe5rlKGfjaigiWS5yK7n4Kar-EGxz_RuK3LrMrmjMx3HPod3KPEO6187Tt9GQizkx2efHYMN05pdyDE5b_WuZqiOK0D-ShS_Qu4U0Pl8lbdVldNMxmPDdtzcmA0AFN3SCIAz7Fywi9AHTTeEF0SSiYUJEjgKn0Im1VFxuj4nNUifSwNPrjm3UpI0HuGjXb9MTk6OUORRMVWR1IlfrzZQThNhm9QASpn1nTiDhJA_NaFU5vht2OeaPun503ABXuvwsiAJ6RlJhpE-CzVRUu17M9ApIu3qPJRzcFq6cYeiDrpUps3QGCzo8hHLkOjdeau61EzuCpmL-rdv5No9LGeMKeidUNhwy1VZZMdeqvF0OAX28Ts4GlFO8y7-wXkJRdbbVtWV89tWhxZVzK3v1aHCjDRAb2KQqkQrrzzH_kc_LHUeuwk5hH-bmYaiarhxPU3ld5ut_nxH4kWiLbndFUa_Ox8xfEWuenz2-2EfNqU3zkCzZAzs92ZqPWI8HGLAgEW14wn4wwm2stvRaUovA1OwTvRP1CKM-G0jmDG_NxeQk3_e2fLuKBEJp47UShtQvAS9sbgNgtlspI16rQFO1Cj_RLXzuSgK9KJYWt6bLwKHPZ1EUF51BII5oThxVeSYcriMalli9YCNonzumkI80DyGmBA_3Lv59kE6XODBJxUR-fX-db5cSkLwzdJj1EhgY1cNzAktLtoHM3wCFDwfMv4pJquI7f9KV4w15qLhDgEibaSEvsiYSSdt9tAlwsH2amxmspqG5EC7T8lSHh6YznrbfqxCTHb8qzT2fGxoCF5WtFhdO4DjhqE1VlS-04krAFbhU1PxYur3LytLnCnVyTlpNToBs480gYJKuVdS0QOGlIiycW6qkYIMJZAnHFNH8wStWk9XyhdYYmTulF_Bi48udiGON3D4LqZE-P2cELUs&isca=1
+
+
+
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/11/Playboy-logo.png", PlayBoy HD 
 https://cdncentury-playboyhd.zolechamedia.net/vs1107-3010.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png", VENUS HD 
