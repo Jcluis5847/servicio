@@ -292,9 +292,8 @@ http://tv.teleclub.xyz/envivo/Deportes/ADRENALINA/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/MZ_SPORTSCR/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png" , Fox Sports Premium 
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Espn_deportes.svg" , ESPN Deportes http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8 
-#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/news/t/the-super-/the-super-mario-bros-movie-poster-features-all-of-our-favori_xhvn.jpg" , Mario Bross La pelicula 2023
-https://brunochanrio.github.io/Listas-IPTV/super-mario-bros-la-pelicula.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Espn_deportes.svg" , ESPN Deportes 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/11/Playboy-logo.png", PlayBoy HD 
 https://cdncentury-playboyhd.zolechamedia.net/vs1107-3004.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png", VENUS HD 
