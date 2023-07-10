@@ -294,8 +294,6 @@ http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" , Directv + 
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8 
-EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" , GolPeru 
-http://tv.teleclub.xyz/envivo/Deportes/GOLPERU/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN 2
