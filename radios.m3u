@@ -11,3 +11,5 @@ https://streaming01.shockmedia.com.ar:10586/stream
 http://compactofm.hopto.org:7040/stream.mp3
 #EXTINF:-1 105.5 Los 40 Principales
 https://24083.live.streamtheworld.com/LOS40_ARGENTINA_SC
+#EXTINF:-1 101.1 La 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
