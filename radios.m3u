@@ -1,3 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 Radio Mixer Zone
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
+#EXTINF:-1 La 97.3 Siempre
+https://streaming01.shockmedia.com.ar:10586/stream
+#EXTINF:-1 La 97.7 Compacto
+http://compactofm.hopto.org:7040/stream.mp3
