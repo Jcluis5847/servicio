@@ -285,7 +285,7 @@ https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" , LA 100 CON VOS 99.9
 https://g4.mc-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 #EXTINF:-1 tvg-logo="https://la97.com.ar/wp-content/uploads/2019/10/cropped-logoweb.png" , LA 97 Siempre 97.3
-https://streaming01.shockmedia.com.ar:10586/stream
+https://streaming01.shockmedia.com.ar:10586/;
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" , Claro Sports 
