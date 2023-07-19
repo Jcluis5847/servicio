@@ -291,7 +291,7 @@ https://fm999.info/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" , Claro Sports 
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" , TNT Sport
-https://cdn.tutelehd.sx/live/ST0702f116dc3b277.m3u8
+http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" , GolTV 
 http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" , Directv 
