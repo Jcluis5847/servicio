@@ -156,6 +156,8 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" , AXN 
 http://tv.teleclub.xyz/envivo/Entretenimiento/AXN/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jylQ77z.png", Alerta Aeropuerto 
+http://tv.teleclub.xyz/envivo/24_7/ALERTA_AEROPUERTO/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png",Los archivos del FBI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png",Misterios sin Resolver
