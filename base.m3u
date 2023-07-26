@@ -286,6 +286,8 @@ https://g4.mc-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cien
 https://streaming01.shockmedia.com.ar:10586/;
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZtjQ1Yf.png", Liga 1 Max 
+http://tv.teleclub.xyz/envivo/Deportes/LIGA1_MAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" , Claro Sports 
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" , TNT Sport
