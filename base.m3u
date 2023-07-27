@@ -299,7 +299,9 @@ http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png", Directv 2 
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" , Directv + 
-http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8 
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" , DirecTV Sports
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_ARG/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" , ESPN 2
@@ -322,8 +324,6 @@ http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29l9xsm.png" , DAZN 
 http://tv.teleclub.xyz/envivo/Deportes/DAZN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" , DirecTV Sports (ARG) 
-http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_ARG/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvNnvA9.png" , Real Madrid TV (ES) 
 http://tv.teleclub.xyz/envivo/Deportes/RM_TV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" , Manchester United TV
