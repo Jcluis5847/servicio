@@ -318,6 +318,8 @@ http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" , Fox Sports 3
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png" , Fox Sports Premium 
+http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" , TyC Sports 
 http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEQHphW.jpg" , WWE & WWF 
@@ -328,8 +330,6 @@ http://tv.teleclub.xyz/envivo/Deportes/DAZN/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/RM_TV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" , Manchester United TV
 http://tv.teleclub.xyz/envivo/Deportes/MAN_UNITEDTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png" , Fox Sports Premium 
-http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/barbie-1690257194.png" group-title="OnDemand",Barbie
 https://ff625a396adfa2aa04c3192f4dfa2aea502d48c1af2c87c5aa7674d-apidata.googleusercontent.com/download/storage/v1/b/zzttv2/o/cmc%2F190188--c1faeb04-0337-462e-8a68-7ff5cd71df78--jzrr--1474461-google_storage?jk=AYvHSRGqbO3wyqqDkz_WWYn4BAJfzLG0uYlmTqSYsUae9-EKuWbapo3q7xPHd0TIaTFV-zKMIW-oDaCdOGJwUvqvCA76UedMyBi6VJjFSNEk2l0uVoo0FQq8_YqxAciLtUrqFvNdggyDgLaIbOxoN6cyx9VFctRSr1Fao_38sFXeDKVIPLPapb_DwTrMb4Qv0z5lEQeV4E-atDFYPCR2s4bLtzldqxMIr5yghqfy2Oo1n6-eZoYjSLDESW66iBbupgi7RqZ70c9WT-vFxXAcjEQJmi8TCqvpwE1R-ZFZ155p7fk2iFg3UxUv4akso4i0Hia8GISnJdMoprB_p0d8J0aC0_SreuwFjijh3D9WnvqQcPeM5bKZGE4UF6PKhpE5lxhmbHxGVZGjFZmzRWW02KnVjVq3_Zz3tf1D9hz8GVt33lZ7NBYbWzSVhn8qn971t4GbEoo9CXIh-5zUDLPghWC7pukf0Wsiar5Zj6jCKMcUqgKN2f6D6yl6YxAWwyu6HGNpm3w9mVpJg14WML2CStFHO_B-tIvAlBFXp7VhBdKbuiYY5nhqUYD8idXLqUUKhQtwpkUpq50NY2NtaJFvtoUS3QNgNvgoGqsxeWIRURm4mMqpyGcYkThgr-m5OfEjvpxFzwU-7QisgteFHXM6Nr3X_fF5JBLbwhw3ixrixQtagAPzwRiQKIQc2FdLUrR8HKb3SpVplKZqQXn4a7XTyue2HTG-XR8PRV6i5aaKSPajAfKgNogxc7GlsI8_5FzhhKcuUkYRQdE480G6LJr1qyvp9qTe5-ZVfnhGyns4B-Ihrc-qk3H0cQTZM7wb76-Et9beowzdEplCFVpO-xrxaD5O6r71-XTy99tze5ZkpvREblWOBpYGjiJEnrPVCY57N3RfITx-J5-OhXO7x7BNuC5M8dIKFexCQE86OjiPul1VMj_SErUa0mENWUuHX-rJ8O4-NyYe4ZH2DnwFOfRpzK7KN7k0pXUwp7--szPkYjMXm_NsWRw_Pzo-ghCp3H9f17yYKrDoqGFqQ9jWKAJy6HQeo1TYkp2T1uER9Dp1CurZsqcL0CH6aN1XBxzINB7RpwEYmchnxRYSSiEoqaD5TOCIzkz_TlCGDiq_VH6lX9TYABLjBDXe_9vbUlfP2i4R8NGL_tAJ0ZafvyUEcJGsm4uRK6xFv63DxXbC4oXZJAUQnunSDz7QcbhcicknNhS13Rc1zOTLvJK8nxaKLrFkAcT0Aw93n062wJuU6k6SookgvJrYhCA7-O7Jr1XX3UlJMLuVezhh&isca=1
 #EXTINF:-1 tvg-logo="https://vvw.cuevana3.nu/wp-content/uploads/2023/07/83sGKvCv2T2CulYbd40Aeduc7n2-200x300.jpg" group-title="OnDemand",Misión: Imposible – Sentencia mortal parte uno
