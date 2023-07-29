@@ -278,6 +278,8 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AEWTY4d.jpeg", Los 40 Principales 91.1 FM
 https://22823.live.streamtheworld.com/LOS40_ARGENTINA_SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCQxAgo.png", KLA 91.7 FM
+https://streamconex.com:8104/stream?1590659519873
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A3TDRHM.png", Radio Disney 94.3 FM
 https://24383.live.streamtheworld.com/DISNEY_ARG_BA_SC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nafuj3s.png", Rock & Pop FM 95.9 FM
@@ -286,6 +288,10 @@ https://26683.live.streamtheworld.com/ROCKANDPOPAAC_SC
 https://26353.live.streamtheworld.com/AM790_56AAC.aac?dist=clarin_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=6312086f-4027-44dd-8719-4a3a95044b0c
 #EXTINF:-1 tvg-logo="https://la97.com.ar/wp-content/uploads/2019/10/cropped-logoweb.png" , LA 97 Siempre 97.3 FM
 https://streaming01.shockmedia.com.ar:10586/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev5QWle.jpeg" , LA 97 Compacto 97.7 FM
+http://compactofm.hopto.org:7040/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLxb5H.png", Radio Brisas 98.5 FM
+https://radio.ecolan.com:8443/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT7S4ap.png", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lskEghd.png" , LA 100 CON VOS 99.9 FM
@@ -296,6 +302,8 @@ https://strcdn.klm99.com:10991/planetmdp
 https://26503.live.streamtheworld.com/FM999_56AAC.aac?dist=la100_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=3a7d536a-7e16-43d4-c6fe-5b19f1fcf378
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P754JIl.png" , Acqua 102.7 FM
 https://strcdn.klm99.com:10990/acquamdp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNs005J.png" ,Radio 10 105.5 FM
+https://stream-154.zeno.fm/4r530f2a9f0uv?zs=M4ZPtnJ8QIyJUn7m5aDqgA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZtjQ1Yf.png", Liga 1 Max 
 http://tv.teleclub.xyz/envivo/Deportes/LIGA1_MAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN
