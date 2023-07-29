@@ -292,11 +292,11 @@ http://tv.teleclub.xyz/envivo/Deportes/LIGA1_MAX/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png", Afizzionados
 http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" , Claro Sports 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yo3nPE.png" , Claro Sports 
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" , TNT Sport
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" , GolTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXJ2bQb.png" , GolTV 
 http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" , Directv 
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
@@ -324,7 +324,7 @@ http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnnmH9e.png" , Fox Sports 3
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png" , Fox Sports Premium 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wH9tXka.png" , Fox Sports Premium 
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" , TyC Sports 
 http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8 
