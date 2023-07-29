@@ -276,17 +276,19 @@ https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png", Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nafuj3s.png", Rock & Pop FM 95.9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEWTY4d.jpeg", Los 40 Principales 91.1 FM
+https://22823.live.streamtheworld.com/LOS40_ARGENTINA_SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nafuj3s.png", Rock & Pop FM 95.9 FM
 https://26683.live.streamtheworld.com/ROCKANDPOPAAC_SC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WXjCCxg.png", RADIO MITRE
 https://g2.vxral-hor.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/MITREHD-10002_720p.m3u8
-#EXTINF:-1 tvg-logo="https://la97.com.ar/wp-content/uploads/2019/10/cropped-logoweb.png" , LA 97 Siempre 97.3
+#EXTINF:-1 tvg-logo="https://la97.com.ar/wp-content/uploads/2019/10/cropped-logoweb.png" , LA 97 Siempre 97.3 FM
 https://streaming01.shockmedia.com.ar:10586/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT7S4ap.png", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lskEghd.png" , LA 100 CON VOS 99.9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lskEghd.png" , LA 100 CON VOS 99.9 FM
 https://g4.mc-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKqqg31.png" , RADIO LATINA FM 101.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKqqg31.png" , RADIO LATINA FM 101.1 FM
 https://26503.live.streamtheworld.com/FM999_56AAC.aac?dist=la100_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=3a7d536a-7e16-43d4-c6fe-5b19f1fcf378
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZtjQ1Yf.png", Liga 1 Max 
 http://tv.teleclub.xyz/envivo/Deportes/LIGA1_MAX/index.m3u8
