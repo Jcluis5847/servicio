@@ -264,17 +264,17 @@ https://qwest-classic-plex.amagi.tv/playlist.m3u8
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/317qcmP-7GL.jpg", QWEST MIX
 https://qwest-mix-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1024035969358553094/NaTy9l1M_400x400.jpg", Stingray Holiday Hits
+#EXTINF:-1 tvg-logo="https://imgur.com/a/mIEWP6W", Stingray Holiday Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1024035969358553094/NaTy9l1M_400x400.jpg", Stingray Flashback 70s
+#EXTINF:-1 tvg-logo="https://imgur.com/a/mIEWP6W", Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1024035969358553094/NaTy9l1M_400x400.jpg", Stingray Pop Adult
+#EXTINF:-1 tvg-logo="https://imgur.com/a/mIEWP6W", Stingray Pop Adult
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1024035969358553094/NaTy9l1M_400x400.jpg", Stingray Rock Alternative
+#EXTINF:-1 tvg-logo="https://imgur.com/a/mIEWP6W", Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1024035969358553094/NaTy9l1M_400x400.jpg", Stingray Today's Latin Pop
+#EXTINF:-1 tvg-logo="https://imgur.com/a/mIEWP6W", Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1024035969358553094/NaTy9l1M_400x400.jpg", Stingray Urban Beats
+#EXTINF:-1 tvg-logo="https://imgur.com/a/mIEWP6W", Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg", RADIO MITRE
 https://g2.vxral-hor.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/MITREHD-10002_720p.m3u8
