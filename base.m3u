@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png" , NET TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTtJ3Lu.png" , NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EpKCIs.png", AMÉRICA HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -234,75 +234,75 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_CRIME/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0qhNqu.png" , Universal Comedy 
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" , MTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="MUSICA", MTV 
 http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" , MTV Hits 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="MUSICA", MTV Hits 
 http://tv.teleclub.xyz/envivo/Musica/MTV_HITS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" , MTV Live 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="MUSICA", MTV Live 
 http://tv.teleclub.xyz/envivo/Musica/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" , MTV Classic 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="MUSICA", MTV Classic 
 http://tv.teleclub.xyz/envivo/Musica/MTV_CLASSIC/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ddaqvnR.png" , Bandamax 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddaqvnR.png" group-title="MUSICA", Bandamax 
 http://tv.teleclub.xyz/envivo/Musica/BANDAMAX/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" , Nick Music 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="MUSICA", Nick Music 
 http://tv.teleclub.xyz/envivo/Musica/NICK_MUSIC/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" , Retro Plus 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="MUSICA", Retro Plus 1 
 http://tv.teleclub.xyz/envivo/Musica/RETRO_PLUS_1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" , Retro Plus 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="MUSICA", Retro Plus 2 
 http://tv.teleclub.xyz/envivo/Musica/RETRO_PLUS_2/index.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/imgs/CCPRadio.jpg", CCP Radio 
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/imgs/CCPRadio.jpg" group-title="MUSICA", CCP Radio 
 http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_CCP_RADIO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" , EnerGeek Radio 
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="MUSICA", EnerGeek Radio 
 http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_RADIO/index.m3u8 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png",Conciertos por Stingray
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MUSICA",Conciertos por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",Karaoke por Stingray
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA",Karaoke por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPIuLIk.png", QWEST CLASSIC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPIuLIk.png" group-title="MUSICA", QWEST CLASSIC
 https://qwest-classic-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPIuLIk.png", QWEST JAZZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPIuLIk.png" group-title="MUSICA", QWEST JAZZ
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPIuLIk.png", QWEST MIX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPIuLIk.png" group-title="MUSICA", QWEST MIX
 https://qwest-mix-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png", Stingray Holiday Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png" group-title="MUSICA", Stingray Holiday Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png", Stingray Flashback 70s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png" group-title="MUSICA", Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png", Stingray Pop Adult
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png" group-title="MUSICA", Stingray Pop Adult
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png", Stingray Rock Alternative
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png" group-title="MUSICA", Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png", Stingray Today's Latin Pop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png" group-title="MUSICA", Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png", Stingray Urban Beats
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png" group-title="MUSICA", Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AEWTY4d.jpeg", Los 40 Principales 91.1 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEWTY4d.jpeg" group-title="RADIOS", Los 40 Principales 91.1 FM
 https://22823.live.streamtheworld.com/LOS40_ARGENTINA_SC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uCQxAgo.png", KLA 91.7 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCQxAgo.png" group-title="RADIOS", KLA 91.7 FM
 https://streamconex.com:8104/stream?1590659519873
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A3TDRHM.png", Radio Disney 94.3 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3TDRHM.png" group-title="RADIOS", Radio Disney 94.3 FM
 https://24383.live.streamtheworld.com/DISNEY_ARG_BA_SC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nafuj3s.png", Rock & Pop FM 95.9 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nafuj3s.png" group-title="RADIOS", Rock & Pop FM 95.9 FM
 https://26683.live.streamtheworld.com/ROCKANDPOPAAC_SC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WXjCCxg.png", RADIO MITRE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXjCCxg.png" group-title="RADIOS", RADIO MITRE
 https://26353.live.streamtheworld.com/AM790_56AAC.aac?dist=clarin_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=6312086f-4027-44dd-8719-4a3a95044b0c
-#EXTINF:-1 tvg-logo="https://la97.com.ar/wp-content/uploads/2019/10/cropped-logoweb.png" , LA 97 Siempre 97.3 FM
+#EXTINF:-1 tvg-logo="https://la97.com.ar/wp-content/uploads/2019/10/cropped-logoweb.png" group-title="RADIOS", LA 97 Siempre 97.3 FM
 https://streaming01.shockmedia.com.ar:10586/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ev5QWle.jpeg" , LA 97 Compacto 97.7 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev5QWle.jpeg" group-title="RADIOS", LA 97 Compacto 97.7 FM
 http://compactofm.hopto.org:7040/stream.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLxb5H.png", Radio Brisas 98.5 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLxb5H.png" group-title="RADIOS", Radio Brisas 98.5 FM
 https://radio.ecolan.com:8443/stream.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zT7S4ap.png", FM 99.9 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zT7S4ap.png" group-title="RADIOS", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lskEghd.png" , LA 100 CON VOS 99.9 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lskEghd.png" group-title="RADIOS", LA 100 CON VOS 99.9 FM
 https://01.solumedia.com.ar:8712/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVVQviy.jpeg", Planet Music 101.1 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVVQviy.jpeg" group-title="RADIOS", Planet Music 101.1 FM
 https://strcdn.klm99.com:10991/planetmdp
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKqqg31.png" , RADIO LATINA FM 101.1 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKqqg31.png" group-title="RADIOS", RADIO LATINA FM 101.1 FM
 https://26503.live.streamtheworld.com/FM999_56AAC.aac?dist=la100_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=3a7d536a-7e16-43d4-c6fe-5b19f1fcf378
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P754JIl.png" , Acqua 102.7 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P754JIl.png" group-title="RADIOS", Acqua 102.7 FM
 https://strcdn.klm99.com:10990/acquamdp
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNs005J.png" ,Radio 10 105.5 FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNs005J.png" group-title="RADIOS",Radio 10 105.5 FM
 https://stream-154.zeno.fm/4r530f2a9f0uv?zs=M4ZPtnJ8QIyJUn7m5aDqgA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZtjQ1Yf.png", Liga 1 Max 
 http://tv.teleclub.xyz/envivo/Deportes/LIGA1_MAX/index.m3u8
