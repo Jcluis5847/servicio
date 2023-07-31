@@ -304,55 +304,55 @@ https://26503.live.streamtheworld.com/FM999_56AAC.aac?dist=la100_webplayer&autop
 https://strcdn.klm99.com:10990/acquamdp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNs005J.png" group-title="RADIOS",Radio 10 105.5 FM
 https://stream-154.zeno.fm/4r530f2a9f0uv?zs=M4ZPtnJ8QIyJUn7m5aDqgA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZtjQ1Yf.png", Liga 1 Max 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZtjQ1Yf.png" group-title="DEPORTES", Liga 1 Max 
 http://tv.teleclub.xyz/envivo/Deportes/LIGA1_MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png", TUDN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="DEPORTES", TUDN
 http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png", Afizzionados
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="DEPORTES", Afizzionados
 http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yo3nPE.png" , Claro Sports 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yo3nPE.png" group-title="DEPORTES", Claro Sports 
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" , TNT Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT Sport
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXJ2bQb.png" , GolTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXJ2bQb.png" group-title="DEPORTES", GolTV 
 http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" , Directv 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", Directv 
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r3vms8X.png", Directv 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r3vms8X.png" group-title="DEPORTES", Directv 2 
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mSe31sY.png" , Directv + 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSe31sY.png" group-title="DEPORTES", Directv + 
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mSe31sY.png" , DirecTV Sports+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSe31sY.png" group-title="DEPORTES", DirecTV Sports+
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_ARG/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmtfrDM.png" , ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmtfrDM.png" group-title="DEPORTES", ESPN
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6cNQ5u9.png" , ESPN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6cNQ5u9.png" group-title="DEPORTES", ESPN 2
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LzHOF9w.png" , ESPN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LzHOF9w.png" group-title="DEPORTES", ESPN 3
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bpx2t61.png" , ESPN Extra 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bpx2t61.png" group-title="DEPORTES", ESPN Extra 
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_EXTRA/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmtfrDM.png" , ESPN Deportes 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmtfrDM.png" group-title="DEPORTES", ESPN Deportes 
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oaBDhrm.png", ESPN Premium 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaBDhrm.png" group-title="DEPORTES", ESPN Premium 
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_PREMIUM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2mDlS59.png" , Fox Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2mDlS59.png" group-title="DEPORTES", Fox Sports
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w2YSy0m.png" , Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2YSy0m.png" group-title="DEPORTES", Fox Sports 2
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnnmH9e.png" , Fox Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnnmH9e.png" group-title="DEPORTES", Fox Sports 3
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFTFGUP.png" , Fox Sports Premium 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFTFGUP.png" group-title="DEPORTES", Fox Sports Premium 
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" , TyC Sports 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="DEPORTES", TyC Sports 
 http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEQHphW.jpg" , WWE & WWF 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEQHphW.jpg" group-title="DEPORTES", WWE & WWF 
 http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29l9xsm.png" , DAZN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29l9xsm.png" group-title="DEPORTES", DAZN 
 http://tv.teleclub.xyz/envivo/Deportes/DAZN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FvNnvA9.png" , Real Madrid TV (ES) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvNnvA9.png" group-title="DEPORTES", Real Madrid TV (ES) 
 http://tv.teleclub.xyz/envivo/Deportes/RM_TV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" , Manchester United TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="DEPORTES", Manchester United TV
 http://tv.teleclub.xyz/envivo/Deportes/MAN_UNITEDTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://ewe.cuevana3.nu/wp-content/uploads/2023/07/EdAihG7i5ytQDo2mjCCZJ8iBZR-200x300.jpg" group-title="OnDemand",Barbie
 https://ffa98ec8a8ee30cebb2ea8fdc012255df2488fdff316108cdc18cca-apidata.googleusercontent.com/download/storage/v1/b/zzttv2/o/cmc%2F190188--c1faeb04-0337-462e-8a68-7ff5cd71df78--jzrr--1474461-google_storage?jk=AYvHSRETOhc7jR-DbTE5WNFeYQoLJornQ6ALD8aKW3R9aXNaR9W_nUF4Dcei5aNGptRuN26dCLdzEuUBUacgmFA7AoJfl3ECiqxMTXZA9las-_Du4uzIlF1yz3BMTyBFkz3Z0vD0JGTUyob5jzhQGpdeW_0ZKsdbVua3a0wwgeDDtS0PSLMUHdz8XZo8yWj7CiKvKSfX-QybmMb7GpmZFh1KqEMhTp-681WrWMjfb3PaSn1YHCglrTrXlAl9OUT95OAyb7yZ8HOzLVNp3H_o5RDH4reXmw5f-GYqoM0FkF41IIiTj4ABiGum6dAT3HGWF6QA0Mn0_CCwLR3VTdmlU1tAzRenaHfItms7lkmH3FuAB4aasj8I0GhZKKVM-cRIE1R9MAnMiGtwgfgakVNqcwvAGCOLOF5SAKuQcyB7SLhFRnUujYn0xD2zeyF9pJkUITHPTTvh5531Utm2X4Y7DwOKYBvbfIdOj2vwiSX6-jwn2keHiDXJM7UhlMoDyAzZfHmfcHBZSPJDTf9Nh1uUCQ2p7BaFGlv4qvx9WgWh_SCRTl_YJ3DVHnHuKO2XcPhTWmBEYCD0QCTqk9izXQXLVk5Kkib5p9IbgdjzhtM6ohmQCVKhB4sOsQEtnkvXGyQsqL9pt1pt2mAJdj5kOzu2AtoFmGR5L1QCXEL_z6oyJGB6iuDWZ5NY9AWYC-gphBOtZNEr9SWmm3BgoN_tx4lodClR0ym80Qq5LgvmvoTyidZdoD3sXlLjVWGXBGTwmowPRhkfC1PPwkmKO9zd2JL4om0PQqhLr8LiiILfP7dKQBn_lSjDjbFxQL9QlAYjBDlpsgKQKUvtFFRIW4IN_15cMr2xzOaF-VhZ9WNS5lDbhny3oFRKH7dZ1BkeqmeRe_owLff_oxGSWemm7QihyrqcesK2Xh39HosGPZEx9d9JJXsF21zE3qbz1dk-Fp9aZ3A6X45tr1dPXipdsDncqeFAjAVtbd4OzhZ6sakDcN5SKbVirYYmP4AVHZsp-LEJXlWKi6tMq4Oz5LcFECoEtLIDILs7OXjbK4gfEwC6Jv_8JUfEUf8tu5VtWTb7Atwgt-KPYeieL2cHYJdESblyu9VwrwyOCgHghcv05QMygQEVA5sqFe832NDL2zlNzxHHBpiLM4GzPgoz7_RSPQOHxRF2uQZBz5SVnbU8vPHh6X0poTELBufnxEnRjMEg6RVo_rvSciImho7NqMJblbA1JVW-jdz6IZdvhNCNIJlhhcJBtHpN9jbHQIHvkHT6Fu64YU9U9rnNyVZe&isca=1
