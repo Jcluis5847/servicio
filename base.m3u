@@ -354,20 +354,64 @@ http://tv.teleclub.xyz/envivo/Deportes/DAZN/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/RM_TV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="DEPORTES", Manchester United TV
 http://tv.teleclub.xyz/envivo/Deportes/MAN_UNITEDTV/index.m3u8 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/proyecto-extraccion-1690627936.png" group-title="Peliculas",Proyecto Extracción HD ESP
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/proyecto-extraccion-1690627936.png" group-title="PELICULAS",Proyecto Extracción HD ESP
 https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6b0907a3bfec34b495bec8c99be8b7a6/EP.0.2.v0.1690633675.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/oppenheimer-1690257013.png" group-title="Peliculas",Oppenheimer CINE ESP
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/oppenheimer-1690257013.png" group-title="PELICULAS",Oppenheimer CINE ESP
 https://pc-23.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4c8ab7b7ea8a06df1e7ddceaa7490d9d/EP.0.2.v0.1690296135.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/65-al-borde-de-la-extincion-1689737316.png" group-title="Peliculas",65: Al borde de la extinción HD ESP
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/65-al-borde-de-la-extincion-1689737316.png" group-title="PELICULAS",65: Al borde de la extinción HD ESP
 https://pc-10.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/cb00dfe3e08c0d1325f4d189abdb56c6/EP.0.1.v0.1689743525.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-starling-girl-1689736437.png" group-title="Peliculas",La niña estornino CINE SUB
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-starling-girl-1689736437.png" group-title="PELICULAS",La niña estornino HD SUB
 https://pc-08.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/5c214087e33191fc748ca9eac3d205e1/EP.0.0.v0.1689743230.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mission-impossible-dead-reckoning-part-one-1689741889.png" group-title="Peliculas",Misión: Imposible - Dead Reckoning Primera parte CINE
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mission-impossible-dead-reckoning-part-one-1689741889.png" group-title="PELICULAS",Misión: Imposible - Dead Reckoning Primera parte CINE ESP
 https://pc-27.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/65e3e2a6229dd302b0c85d297998f886/EP.0.2.v0.1689228785.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ruby-gillman-teenage-kraken-1689741549.png" group-title="Peliculas",Krakens y sirenas: Conoce a los Gillman HD ESP
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ruby-gillman-teenage-kraken-1689741549.png" group-title="PELICULAS",Krakens y sirenas: Conoce a los Gillman HD ESP
 https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c110e8693807d1fb90ea79924e6801c8/EP.0.2.v1.1689748440.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/elemental-2-1687423806.jpg" group-title="Peliculas",Elementos CINE ESP
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/elemental-2-1687423806.jpg" group-title="PELICULAS",Elementos CINE ESP
 https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/db934cb0776724aa7e120f5f9c89b36f/EP.0.2.v0.1687428908.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/culpa-mia-1687232252.png" group-title="PELICULAS",Culpa mía HD ESP
+https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/b815bfb0ce5de8f0f4be374580ef103a/EP.0.1.v0.1687241848.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-flash.jpg" group-title="PELICULAS",The Flash HD ESP
+https://pc-09.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/860d5a960ebc60399b1a944053cc0fe9/EP.0.1.v2.1689755576.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/transformers-rise-of-the-beasts-2-1686267601.jpg" group-title="PELICULAS",Transformers: El despertar de las bestias HD ESP
+https://pc-09.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/0c9be8fe9ff384b24f2f38ca01e5dee6/EP.0.1.v1.1689245394.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/spider-man-across-the-spider-se-2-1685731801.jpg" group-title="PELICULAS",Spider-Man: Cruzando el multiverso HD ESP
+https://pc-07.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6e4881625492f54b80abc121174a95f0/EP.0.1.v1.1689340738.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-little-mermaid-2-2-1685139725.jpg" group-title="PELICULAS", La sirenita CINE ESP
+https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/98c1affac61b3b573391290126940b50/EP.0.2.v0.1685143493.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/fast-x-2-1684533003.jpg" group-title="PELICULAS", Rápido y Furioso X HD ESP
+https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9ddec690edc5c849f099297e3801b473/EP.0.1.v2.1689699195.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/guardians-of-the-galaxy-volume-3-2-1683243601.jpg" group-title="PELICULAS", Guardianes de la Galaxia: Volumen 3 HD ESP
+https://pc-10.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ffb4eb5d68c081c51f64173d1c355fac/EP.0.1.v2.1689695260.720.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
