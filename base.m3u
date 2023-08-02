@@ -1,24 +1,24 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTtJ3Lu.png" , NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EpKCIs.png", AMÉRICA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGTU0xX.png", AMÉRICA HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1YUlVpD.png" group-title="TV AR", CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-#EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="TV AR", CANAL 6 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBSjyiW.jpeg" group-title="TV AR", CANAL 6 MAR DEL PLATA
 https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rPCdXXJ.png" group-title="TV AR",Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe 
 http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="TV AR",Telefe Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/534wfw0.png" group-title="TV AR",Telefe Hits
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r1IUMnW.jpeg" group-title="TV AR", Gran Hermano ChileVision
 https://corsproxy.io/?url=https://sacalabanderaquelarepresentasmal.sfnconcerts3.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png" group-title="TV AR",Canal 10 Mar del Plata
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1pD1i1.png" group-title="TV AR",Canal 10 Mar del Plata
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g3.mc-hor.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-79-en-vivo-Online.png" group-title="TV AR",CANAL 79 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aph8qUY.png" group-title="TV AR",CANAL 79 MAR DEL PLATA
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="TV AR",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
