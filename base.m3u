@@ -20,19 +20,19 @@ https://corsproxy.io/?url=https://sacalabanderaquelarepresentasmal.sfnconcerts3.
 https://g3.mc-hor.transport.edge-access.net/a13/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aph8qUY.png" group-title="TV AR",CANAL 79 MAR DEL PLATA
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="TV AR",TN Todo Noticias
+#EXTINF:-1 tvg-logo="https://i.imgur.com/facTbQa.png" group-title="TV AR",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="TV AR",C5N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kK3AYAy.png" group-title="TV AR",C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/320px-Logo_Diputados_TV.png" group-title="TV AR",Diputados TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXlmbEp.png" group-title="TV AR",Diputados TV
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="TV AR",CINE.AR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5DcYbL.png" group-title="TV AR",CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmdlbnR2b2ZpY2lhbF9zY3JlZW5fMF8xNTQ4MDQ4OTUzXzA2MQ/screen-0.webp?fakeurl=1&type=.webp" group-title="TV AR",Gen TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCcJVzx.png" group-title="TV AR",Gen TV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png" , El Garage TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AV6US23.png" , El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd", IP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Bt0l1P.png", IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png", CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
