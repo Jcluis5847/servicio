@@ -99,8 +99,68 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" ,Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg", Cartoon Network 
-http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
+#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", TOON TUBERS
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1  group-title="Bics Extra", ESPN Deportes
+http://sysadminhost.net:8080/F17425/8ffdb770/6446
+#EXTINF:-1  group-title="Bics Extra", Claro Sports HD 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1  group-title="Bics Extra", Fox Deportes 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43739
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 2
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43736
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 3
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43738
+#EXTINF:-1  group-title="Bics Extra", ESPN 2
+http://sysadminhost.net:8080/F17425/8ffdb770/3031
+#EXTINF:-1  group-title="Bics Extra", ESPN 3
+http://sysadminhost.net:8080/F17425/8ffdb770/3032
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics Extra MX", CARTOONITO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+#EXTINF:-1 group-title="Bics Extra MX", CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 group-title="Bics Extra MX", Discovery Kids
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
+#EXTINF:-1 group-title="Bics Extra MX", DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
+#EXTINF:-1 group-title="Bics Extra MX", DISNEY JR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
+#EXTINF:-1 group-title="Bics Extra MX", NICK JR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
+#EXTINF:-1 group-title="Bics Extra MX", NICK MUSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718
+#EXTINF:-1 group-title="Bics Extra MX", TEEN NICK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1 group-title="Bics Extra MX", BABY TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+#EXTINF:-1 group-title="Bics Extra MX", ANTENA 3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675
+#EXTINF:-1 group-title="Bics Extra MX", COMEDY CENTRAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/685
+#EXTINF:-1 group-title="Bics Extra MX", ESPN 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
+#EXTINF:-1 group-title="Bics Extra MX", ESPN 3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
+#EXTINF:-1 group-title="Bics Extra MX", ESPN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
+#EXTINF:-1 group-title="Bics Extra MX", E!
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png",CSI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png",Narcos
