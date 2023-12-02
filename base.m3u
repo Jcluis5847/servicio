@@ -33,6 +33,8 @@ https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kK3AYAy.png" group-title="TV AR",C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1361_La_Nacion_.png", La Nacion+ 
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png", La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXlmbEp.png" group-title="TV AR",Diputados TV
