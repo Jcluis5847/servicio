@@ -442,6 +442,56 @@ http://190.187.154.156:8000/play/a0b4/index.m3u8
 http://190.187.154.156:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg", Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvsalud-1920-1080-300x169.jpg", TV Salud
+https://marine2.miplay.cl/tvsalud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/265px-NASA_TV.svg.png" , Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png", Discovery Channel
+http://190.187.154.156:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png", Discovery Science
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png",Discovery Turbo
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png",Discovery World
+http://190.102.139.244:8900/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
+http://190.187.154.156:8000/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png",Animal Planet
+http://190.187.154.156:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png", National Geographic
+http://190.187.154.156:8000/play/a06d/index.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png",History
+http://190.187.154.156:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png",History 2
+http://190.187.154.156:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU",HGTV
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3935
+#EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",Love Nature
+http://190.187.154.156:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FvKvGG_WIAIXoG5?format=png&name=240x240",Atlas
+http://190.110.109.104:52321/play/a017/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR Channel
+http://177.93.45.155:6143/play/a00i/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY
+http://177.93.45.155:6143/play/a01r/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL HD
+http://177.93.45.155:6143/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyhLzLzltWHn-uAHh28VRWc0P-KKUAiPX8nA&usqp=CAU",STUDIO UNIVERSAL
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28034
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94hc_BT-KEPIQD5PVYp0QPE591Wx1evXPoA&usqp=CAU",UNIVERSAL CINEMA
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4248
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgwTCugGLltlEbv7FVTOuftK0LRHki_EWVLQ&usqp=CAU",UNIVERSAL PREMIERE
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4250
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TNT HD
+http://177.93.45.155:6143/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156",TNT NOVELAS
+http://181.78.4.186:8000/play/a0fn/index.m3u8
+#EXTINF:-1 ,FX
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
+#EXTINF:-1 group-title="Movies",WARNER CHANNEL HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316",ANTENA 3
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4253
 
 
 
@@ -488,6 +538,41 @@ http://45.5.117.182:8000/play/a0gn/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es",Concert Channel
+http://45.228.232.219:16000/play/a0o2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png",Exa TV
+http://45.228.232.219:16000/play/a0n9/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png",Telemúsica
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small",Old Music Televisión
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png",Memorias TV
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg",Retro Plus TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/1/1/8/118-large_default.jpg",Retro Plus 2 TV
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/T4_7BFebh_PJCxdz0SJgUna1OvsqzW1ZDfw4TEYKqQNJVy9CcDNj5Oha9Uq5XOs7OZY=w600-h300-pc0xffffff-pd",Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2022/08/thumbnail_Logo-Amordiscos-600x600-alpha.png",Amordiscos TV
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962425009745616896/rZ63oyzp_400x400.jpg",Rockola Televisión
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/12bdd96f-f92b-4010-9d53-ed93b79548e5/0.m3u8
+#EXTINF:-1 tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png",Radio Recuerdos Retro TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU",Fuego 40 TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Rewind_TV_logo.png/200px-Rewind_TV_logo.png",Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1717563077.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png",Karibeña TV
+https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
+
+
+
 
 
 
@@ -513,8 +598,44 @@ https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IenhPHS.png" group-title="MUSICA", Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/078B7mU.jpeg" group-title="MUSICA", HITS 360
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Greatest Hits
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Hit List
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Hot Country
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Éxitos del momento
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Hip-Hop/R&B
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Soul Storm
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Flashback 70's
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Años 70's
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11784.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Años 80's
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11785.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Remember The 80's
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" ,Stingray Music Djazz
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" ,Stingray Music Classica
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+Radios
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AEWTY4d.jpeg" group-title="RADIOS", Los 40 Principales 91.1 FM
 https://22823.live.streamtheworld.com/LOS40_ARGENTINA_SC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uCQxAgo.png" group-title="RADIOS", KLA 91.7 FM
