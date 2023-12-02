@@ -14,7 +14,7 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w865940603_b613840.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rPCdXXJ.png" group-title="TV AR",Canal 8 HD Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w865940603_b1662976.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe 
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1701564706~acl=%2f*~data=hdntl~hmac=3e31f6efd8f9d0817065b1f3d6cb9425ba05f05a1e5c0756c0895268e2da0bad/canal5rosario0.m3u8
+https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/534wfw0.png" group-title="TV AR",Telefe Hits
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png", Argentinisima Satelital
