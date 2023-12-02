@@ -21,6 +21,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg", Canal 22 Buenos Aires
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1132_Ciudad_Magica_TV.png", Ciudad Magica
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r1IUMnW.jpeg" group-title="TV AR", Gran Hermano ChileVision
 https://corsproxy.io/?url=https://sacalabanderaquelarepresentasmal.sfnconcerts3.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1pD1i1.png" group-title="TV AR",Canal 10 Mar del Plata
