@@ -9,8 +9,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBSjyiW.jpeg" group-title="TV AR", CANAL 6 MAR DEL PLATA
 https://panel.dattalive.com/8186/8186/chunklist_w1359352972.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPCdXXJ.png" group-title="TV AR",Canal 8 SD Mar del Plata
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w865940603_b613840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rPCdXXJ.png" group-title="TV AR",Canal 8 HD Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w865940603_b1662976.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png", Telefe 
