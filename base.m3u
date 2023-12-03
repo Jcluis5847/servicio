@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTtJ3Lu.png" , NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png", Neo TV
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGTU0xX.png", AMÉRICA HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
