@@ -89,108 +89,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",NATGEO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q3cSqYv.png", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvt0IcJci42IBZ3PoVHr-31U-Vu3dQu3ABnA6t29GvzfwUChP4cLRHvJUzhC5kOtx-s0&usqp=CAU", BABY SHARK TV
-https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4SBMmYY.png", Bob Esponja
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" ,Cartoon Network 1
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" ,Cartoon Network 2
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" ,Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",TOON TUBERS
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",ESPN Deportes
-http://sysadminhost.net:8080/F17425/8ffdb770/6446
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",Claro Sports HD 
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",Fox Deportes 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",FOX Sports 
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43739
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",FOX Sports 2
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43736
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",FOX Sports 3
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43738
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",ESPN 2
-http://sysadminhost.net:8080/F17425/8ffdb770/3031
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",ESPN 3
-http://sysadminhost.net:8080/F17425/8ffdb770/3032
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",LAS ESTRELLAS LATAM
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",CARTOONITO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",CARTOON NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",Discovery Kids
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",DISNEY CHANNEL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/688
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",DISNEY JR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",NICK JR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",NICK MUSIC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/718
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",TEEN NICK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",BABY TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",ANTENA 3
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/675
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",COMEDY CENTRAL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/685
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",ESPN 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",ESPN 3
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",ESPN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",E!
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",UNIVERSAL REALTY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",UNIVERSAL CRIME
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",UNIVERSAL COMEDY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",UNIVERSAL TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",UNIVERSAL PREMIER
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",DISCOVERY FAMILIA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",DISCOVERY FAMILIA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/511
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",FX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",AXN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",GOURMET
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",HBO 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",CINEMAX HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",HISTORY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",TYC SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",Investigation Discovery ID
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",FOX DEPORTES HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKUwbyu.png",FOX SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/545
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png",CSI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png",Narcos
@@ -417,6 +316,22 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small", El Chavo del 8
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3cSqYv.png", PAKA PAKA
+http://200.63.95.6:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvt0IcJci42IBZ3PoVHr-31U-Vu3dQu3ABnA6t29GvzfwUChP4cLRHvJUzhC5kOtx-s0&usqp=CAU", BABY SHARK TV
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SBMmYY.png", Bob Esponja
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" ,Cartoon Network 1
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" ,Cartoon Network 2
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" ,Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
+
+
+
 
 
 Entretenimiento
