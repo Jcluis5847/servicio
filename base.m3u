@@ -37,8 +37,6 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnmAXVv.png",France 24
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png", La 100
-https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXlmbEp.png" group-title="TV AR",Diputados TV
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5DcYbL.png" group-title="TV AR",CINE.AR
@@ -444,9 +442,8 @@ http://190.187.154.156:8000/play/a0d7/index.m3u8
 http://45.5.117.182:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" , HTV
 http://45.5.117.182:8000/play/a0gn/index.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png", La 100
+https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es",Concert Channel
