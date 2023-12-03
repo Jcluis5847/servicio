@@ -21,8 +21,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png", Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UKMR625.png",Dance TV
-https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg", Canal 22 Buenos Aires
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1132_Ciudad_Magica_TV.png", Ciudad Magica
@@ -539,6 +537,8 @@ https://stirr.ott-channels.stingray.com/128/master.m3u8
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" ,Stingray Music Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKMR625.png",Dance TV
+https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 
 
 
