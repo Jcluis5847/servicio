@@ -199,6 +199,20 @@ http://190.102.139.244:8900/play/a0nx/index.m3u8
 http://190.187.154.156:8000/play/a0dk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ktq1oz6.png",DISCOVERY ID
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/220.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title=", HBO
+http://170.82.37.21:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png",HBO 2
+http://170.82.37.21:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png",HBO +
+http://170.82.37.21:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png",HBO Family
+http://170.82.37.21:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png",HBO Xtreme
+http://170.82.37.21:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png",HBO Pop
+http://187.102.208.108:50001/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png",HBO Signature
+http://187.102.208.108:50001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://190.187.154.156:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png", National Geographic
