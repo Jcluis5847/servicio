@@ -549,7 +549,7 @@ http://190.187.154.156:8000/play/a0ca/index.m3u8
 http://187.102.208.108:50001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" ,Fox Sports 2
 http://190.187.154.156:8000/play/a06b/index.m3u8
-#EXTINF:-1 Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png"Fox Sports 3
+#EXTINF:-1 Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png", Fox Sports 3
 http://190.187.154.156:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",ESPN
 http://190.187.154.156:8000/play/a04w/index.m3u8
