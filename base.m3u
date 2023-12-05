@@ -197,6 +197,8 @@ http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
 http://190.102.139.244:8900/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 http://190.187.154.156:8000/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktq1oz6.png",DISCOVERY ID
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/220.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://190.187.154.156:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png", National Geographic
