@@ -49,7 +49,7 @@ https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png", DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png", Argentinisima Satelital
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVlkc5A.png", Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1132_Ciudad_Magica_TV.png", Ciudad Magica
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8?PlaylistM3UCL
@@ -102,19 +102,19 @@ http://187.102.208.108:50001/play/a02f/index.m3u8
 http://191.97.60.193:10000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/f87jYBMajaJpW8G5zxfqmfZwjJ5.png", Los Picapiedras
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU", Tom y Jerry
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSDI4Rk.png", Tom y Jerry
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png", Ben 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CP3gPsL.png", Ben 10
 http://51.159.104.29:8080/ben10/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png", Bob Esponja
 http://51.159.104.29:8080/bobesponja/index.m3u8
-#EXTINF:-1 TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg", Los Tres Chiflados
+#EXTINF:-1 TV" tvg-logo="https://i.imgur.com/jhwv4lE.png", Los Tres Chiflados
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small", El Chavo del 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZq4DsL.png", El Chavo del 8
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q3cSqYv.png", PAKA PAKA
 http://200.63.95.6:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvt0IcJci42IBZ3PoVHr-31U-Vu3dQu3ABnA6t29GvzfwUChP4cLRHvJUzhC5kOtx-s0&usqp=CAU", BABY SHARK TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQiMUHn.png", BABY SHARK TV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4SBMmYY.png", Bob Esponja
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
