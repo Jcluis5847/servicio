@@ -213,7 +213,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3935
 http://190.187.154.156:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FvKvGG_WIAIXoG5?format=png&name=240x240",Atlas
 http://190.110.109.104:52321/play/a017/index.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NEKQWtM.png",STAR Channel
 http://177.93.45.155:6143/play/a00i/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",SONY
 http://177.93.45.155:6143/play/a01r/index.m3u8
@@ -233,6 +233,10 @@ http://181.78.4.186:8000/play/a0fn/index.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
 #EXTINF:-1 group-title="Movies",WARNER CHANNEL HD
 http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 ,+Cine
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,A&E
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316",ANTENA 3
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4253
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/featuredImage.jpg",Paramount+
