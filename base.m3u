@@ -33,10 +33,10 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png", CRÓNICA HD
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1361_La_Nacion_.png", La Nacion+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRZGGkI.png", La Nacion+ 
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Bt0l1P.png", IP
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg", Canal 22 Buenos Aires
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hkeN2Sf.jpeg", Canal 22 Buenos Aires
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd", IP Informacion Periodistica
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
@@ -229,17 +229,17 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4250
 http://177.93.45.155:6143/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/200?cb=20230621193156",TNT NOVELAS
 http://181.78.4.186:8000/play/a0fn/index.m3u8
-#EXTINF:-1 ,FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wi2BOYF.png",FX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
-#EXTINF:-1 group-title="Movies",WARNER CHANNEL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MwSaif5.png" ,WARNER CHANNEL HD
 http://45.166.92.22:58001/play/a049/index.m3u8
 #EXTINF:-1 ,+Cine
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,A&E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlP3eMC.png",A&E
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Antena3_3d.jpg/revision/latest/scale-to-width-down/200?cb=20130124121316",ANTENA 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LRc5mUn.png",ANTENA 3
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4253
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/featuredImage.jpg",Paramount+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIbVsbY.png",Paramount+
 https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png",CSI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
