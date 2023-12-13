@@ -225,6 +225,8 @@ http://190.187.154.156:8000/play/a04u/index.m3u8
 http://190.187.154.156:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGInraPomAzK4toY-nW2Ou-W5JgkwGLReiRQ&usqp=CAU",HGTV
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3935
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png",AXN
+http://190.187.154.156:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",Love Nature
 http://190.187.154.156:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FvKvGG_WIAIXoG5?format=png&name=240x240",Atlas
