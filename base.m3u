@@ -1,4 +1,6 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 tvg-id=| Servicio de TV dada de baja" tvg-name=" | Servicio de TV dada de baja" tvg-logo="https://i.imgur.com/nPwNnia.png" group-title="SERVICIO SUSPENDIDO POR FALTA DE PAGO CONTACTAR A  E.M.O. TELECOMUNICACIONES ESCRIBIENDO AL WHATSAPP 2236680564", 1 | Corte de Cable TV. Llamar al 2236680564 para reactivar el servicio
+http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?dist=20001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTtJ3Lu.png" , NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png", Neo TV
