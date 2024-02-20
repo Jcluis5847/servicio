@@ -8,7 +8,7 @@ https://ythls.armelin.one/channel/UCUM1n1Cb_cbnYTY45GvtyJw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aph8qUY.png" group-title="TV AR",CANAL 79 MAR DEL PLATA
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png",Disney Channel
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C0VEHXU.png" ,Discovery Kids
 http://190.90.154.73:8080/play/a02n/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png",Disney Junior
