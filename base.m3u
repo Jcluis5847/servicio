@@ -59,7 +59,7 @@ http://190.90.154.73:8080/play/a00y/index.m3u8
 http://190.90.154.73:8080/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png",ESPN 4
 http://190.90.154.73:8080/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/190px-ESPN_Extra_Logo_2022.webp.png",ESPN Extra
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pf9Huoh.png",ESPN Extra
 http://190.90.154.73:8080/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/175px-Fox_Sports_1_logo.svg.png",Fox Sports 1
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4294
@@ -67,11 +67,11 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4294
 http://190.90.154.73:8080/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png",Fox Sports 3
 http://190.90.154.73:8080/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png",TNT Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGCRuvj.png",TNT Sports
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png",TNT Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGCRuvj.png",TNT Sports 2
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png",TNT Sports 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGCRuvj.png",TNT Sports 3 HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png",TUDN SD
 http://181.78.105.146:2000/play/a08j/index.m3u8
@@ -87,7 +87,7 @@ http://138.59.177.34:8000/play/a01i/index.m3u8
 http://138.59.177.34:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/320px-Afizzionados_Logo.svg.png",Afizzionados
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GBeyItwX0AAGeJC?format=png&name=360x360",Basquet Pass TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUtK8TI.png",Basquet Pass TV
 http://191.97.60.193:10000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png",Disney Channel HD
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
@@ -123,7 +123,7 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 http://138.59.177.34:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png",Tooncast SD
 http://138.59.177.34:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg",FMH Kids HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kl6Snhi.png",FMH Kids HD
 http://191.97.60.193:10000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg",DreamWorks HD
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
@@ -183,25 +183,25 @@ http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png",HBO HD
 http://138.59.177.34:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-movies.jpg",FMH Movies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFRbVQL.png",FMH Movies HD
 http://191.97.60.193:10000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.latincable.pe/images/canales-tv/fmh-family.jpg",FMH Family HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qhf9pvq.png",FMH Family HD
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
 http://138.59.177.34:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png",Cine Real HD
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png",Cine Premium HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Muf7TtV.png",Cine Premium HD
 http://191.97.60.193:10000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-hispano-us.png",Cine Hispano HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJRyEJD.png",Cine Hispano HD
 http://191.97.60.193:10000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png",Cine FamiliarHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJr7imm.png",Cine Familiar HD
 http://191.97.60.193:10000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png",Multipremier HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/453505
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premier 2 HD
 http://138.59.177.34:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",Golden Premier HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kg5cPVr.png",Golden Premier HD
 http://138.59.177.34:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png",Golden Plus HD
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -211,7 +211,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 http://138.59.177.34:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png",De Película SD
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508",Claro Cinema SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0aXibf.png",Claro Cinema SD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/276307
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png",Cine Latino SD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/55511
@@ -219,7 +219,7 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/55511
 http://138.59.177.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/200px-TV_Azteca_Cinema_logo.svg.png",Azteca Cinema HD
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_wMka8ic6GW1I8vfkcLln4EVGxKvqesLkuFTuI=s900-c-k-c0x00ffffff-no-rj",Canal Claro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GD4gYI3.png",Canal Claro
 http://138.59.177.34:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png",AXN HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/53047
