@@ -285,7 +285,7 @@ http://138.59.177.34:8000/play/a05r/index.m3u8
 http://138.59.177.34:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU",Mimusica Salsa HD
 http://177.234.230.226:8010/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg",Mimusica Reggaeton HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kISD2ml.png",Mimusica Reggaeton HD
 http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GBfFnzsWIAANRaR?format=png&name=900x900",Mimusica K-Pop HD
 http://191.97.60.193:10000/play/a031/index.m3u8
@@ -309,5 +309,5 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/54234
 http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png",Travel & Living Channel SD
 http://138.59.177.34:8000/play/a057/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj",Pasiones HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmwjDAS.png",Pasiones HD
 http://138.59.177.34:8000/play/a079/index.m3u8
