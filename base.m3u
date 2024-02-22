@@ -1,18 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKIY5R1.png",| SERVICIO REDUCIDO POR FALTA DE PAGO ESCRIBIR AL WHATSAPP 2236680564 |
-https://i.imgur.com/njsiAUr.png
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPCdXXJ.png",Canal 8 Mar del Plata
-https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1pD1i1.png",Canal 10 Mar del Plata
-https://ythls.armelin.one/channel/UCUM1n1Cb_cbnYTY45GvtyJw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aph8qUY.png",Canal 79 Mar del Plata
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTtJ3Lu.png" , NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png"group-title="",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/aGTU0xX.png"group-title="",AMÉRICA HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/209741
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/1YUlVpD.png"group-title="",CANAL 2 MAR DEL PLATA
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/gBSjyiW.jpeg"group-title="",CANAL 6 MAR DEL PLATA
+https://panel.dattalive.com/8186/8186/chunklist_w1359352972.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/aph8qUY.png"group-title="",CANAL 79 MAR DEL PLATA
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vev5gfg.png",Disney Channel
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C0VEHXU.png" ,Discovery Kids
-http://190.90.154.73:8080/play/a02n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dmWWREh.png",Disney Junior
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/rPCdXXJ.png"group-title="",Canal 8 Mar del Plata
+https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/WAZn1np.png"group-title="",Telefe
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/12933
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/534wfw0.png"group-title="",MasterChef Telefe
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id=""tvg-logo="https://images.pluto.tv/channels/60492d5522166000071a73c8/colorLogoPNG.png"group-title="",Telefe noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/K1pD1i1.png"group-title="",Canal 10 Mar del Plata
+https://ythls.armelin.one/channel/UCUM1n1Cb_cbnYTY45GvtyJw.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png"group-title="",TV PUBLICA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="",CANAL 9
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/facTbQa.png"group-title="",TN Todo Noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/4VUtOxK.png"group-title="",A24
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/kK3AYAy.png"group-title="",C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png"group-title="",CRÓNICA HD
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/oRZGGkI.png"group-title="",La Nacion+
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/uBBZR1X.png"group-title="",CANAL ENCUENTRO
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/uRz6K7q.png"group-title="",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png"group-title="",DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/BVlkc5A.png"group-title="",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id=""tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png"group-title="",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/ZnmAXVv.png"group-title="",France 24
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/b5DcYbL.png"group-title="",CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/fCcJVzx.png"group-title="",Gen TV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/AV6US23.png"group-title="",El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"group-title="",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/RWL10TG.png"group-title="",Vorterix
+https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+#EXTINF:-1 tvg-id=""https://i.imgur.com/GJbRWwH.png"group-title="",PakaPaka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png"group-title="",Warner Channel HD
