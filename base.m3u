@@ -81,7 +81,7 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/310533
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/69954
 #EXTINF:-1  tvg-logo="https://i.imgur.com/CVyF7uK.png",DirecTV Sports EVENTOS 1
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/158511
-#EXTINF:-1  tvg-logo="https://i.imgur.com/CVyF7uK.png"DirecTV Sports EVENTOS 2
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CVyF7uK.png",DirecTV Sports EVENTOS 2
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png",TUDN SD
 http://181.78.105.146:2000/play/a08j/index.m3u8
