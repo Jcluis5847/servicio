@@ -35,7 +35,7 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VUtOxK.png",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kK3AYAy.png",C5N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOrWI3X.png",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE9iziN.png",CRÓNICA HD
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
@@ -61,18 +61,28 @@ http://190.90.154.73:8080/play/a01x/index.m3u8
 http://190.90.154.73:8080/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf9Huoh.png",ESPN Extra
 http://190.90.154.73:8080/play/a03f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/175px-Fox_Sports_1_logo.svg.png",Fox Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyIjdBq.png",Fox Sports 1
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4294
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p6KGJ7j.png",Fox Sports 2
 http://190.90.154.73:8080/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljoRfyo.png",Fox Sports 3
 http://190.90.154.73:8080/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DGCRuvj.png",TNT Sports
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGCRuvj.png",TNT Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Lylq06.png",TNT Sports 2 HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/36424
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DGCRuvj.png",TNT Sports 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYjuCf2.png",TNT Sports 3 HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/19638
+#EXTINF:-1  tvg-logo="https://i.imgur.com/8rtHqrB.png",DirecTV Sports
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/310509
+#EXTINF:-1  tvg-logo=https://i.imgur.com/uU9zzPm.png",DirecTV Sports 2
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/310533
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CVyF7uK.png",Directv Sports +
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/69954
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CVyF7uK.png",DirecTV Sports EVENTOS 1
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158511
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CVyF7uK.png"DirecTV Sports EVENTOS 2
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/158506
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png",TUDN SD
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png",Golf Channel
@@ -125,13 +135,13 @@ http://138.59.177.34:8000/play/a00q/index.m3u8
 http://138.59.177.34:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kl6Snhi.png",FMH Kids HD
 http://191.97.60.193:10000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg",DreamWorks HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMYvY8w.png",DreamWorks HD
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png",Magic Kids SD
 https://magicstream.ddns.net/magicstream/stream.m3u8?WebASTRAL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png",Space HD
 http://45.5.117.182:8000/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png",Cinemax HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83RIQNF.png",Cinemax HD
 http://190.90.154.73:8080/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png",Paramount+ HD
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
@@ -197,6 +207,8 @@ http://191.97.60.193:10000/play/a02k/index.m3u8
 http://191.97.60.193:10000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJr7imm.png",Cine Familiar HD
 http://191.97.60.193:10000/play/a02w/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/WZP1EM1.png",Volver
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/19983
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png",Multipremier HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/453505
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es",Golden Premier 2 HD
@@ -221,7 +233,7 @@ http://138.59.177.34:8000/play/a04f/index.m3u8
 http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GD4gYI3.png",Canal Claro
 http://138.59.177.34:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png",AXN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGphNDr.png",AXN HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/53047
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png",A&E HD
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
@@ -235,7 +247,7 @@ http://138.59.177.34:8000/play/a06g/index.m3u8
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/49090
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5DcYbL.png",CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png",El Gourmet Televisión HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e9KBT3F.png",El Gourmet Televisión HD
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png",Food Network HD
 http://190.90.154.73:8080/play/a08u/index.m3u8
@@ -251,9 +263,9 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/178146
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/9463
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBBZR1X.png",CANAL ENCUENTRO
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOGXVo7.png",Nat Geo WILD
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uuOsLse.png",Discovery Channel HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/186572
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png",Discovery World HD
 http://138.59.177.34:8000/play/a078/index.m3u8
@@ -301,6 +313,8 @@ https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 http://167.114.156.136:25461/INFINITV/ZX89NM22/155
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w7kP6nF.png",TVE
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/171486
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9sZDRky.png",Antena 3
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/54407
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22B9Jid.png",DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png",Lifetime
@@ -311,3 +325,445 @@ http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 http://138.59.177.34:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmwjDAS.png",Pasiones HD
 http://138.59.177.34:8000/play/a079/index.m3u8
+
+#EXTINF:-1 ,EL CHAVO DEL 8
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216295
+#EXTINF:-1 ,Futurama
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/46284
+#EXTINF:-1 ,Tom Y Jerry
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108027
+#EXTINF:-1 ,Los Picapiedras
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177126
+#EXTINF:-1 ,La Familia Peluche
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107929
+#EXTINF:-1 ,The Big Bang Theory T 3- 4- 5
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216987
+#EXTINF:-1 ,El Pájaro Loco
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177169
+#EXTINF:-1 ,Quack Pack
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177122
+#EXTINF:-1 ,Kung Fu Panda
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177183
+#EXTINF:-1 ,TOY STORY
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177367
+#EXTINF:-1 ,Los Simpson T1
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216822
+#EXTINF:-1 ,Los Simpson T3
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/217023
+#EXTINF:-1 ,Hombres de Negro Serie Animada 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/17373
+#EXTINF:-1 ,Caso Cerrado 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107845
+#EXTINF:-1 ,HORA DE AVENTURA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107851
+#EXTINF:-1 ,Los Magníficos T1
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107875
+#EXTINF:-1 ,YU-GI-OH!
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177368
+#EXTINF:-1 ,El juego del Calamar
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/236453
+#EXTINF:-1 ,El Zorro 1957
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107878
+#EXTINF:-1 ,Pato Aventura
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108029
+#EXTINF:-1 ,2Mr.Bean
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177113
+#EXTINF:-1 ,Jimmy Neutrón
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177181
+#EXTINF:-1 ,Johnny Bravo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177182
+#EXTINF:-1 ,EL CHAPULIN COLORADO ANIMADO
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177376
+#EXTINF:-1 ,Pingüinos de Madagascar
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177118
+#EXTINF:-1 ,LA LISTA NEGRA T1 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216153
+#EXTINF:-1 ,LA CASA DE PAPEL T5 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216154
+#EXTINF:-1 ,EL COYOTE Y EL CORRECAMINOS
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216294
+#EXTINF:-1 ,Don Gato y su Pandilla
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/169819
+#EXTINF:-1 ,LA HORMIGA ATOMICA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107885
+#EXTINF:-1 ,Full House
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107939
+#EXTINF:-1 ,El Bebe Jefazo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107981
+#EXTINF:-1 ,Friends T 1 y 2
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107923
+#EXTINF:-1 ,JORGE EL CURIOSO
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216296
+#EXTINF:-1 ,LA LISTA NEGRA T2
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216297
+#EXTINF:-1 ,CAPITAN CAVERNICOLA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216465
+#EXTINF:-1 ,DRAGON BALL  44 AL 77
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216844
+#EXTINF:-1 ,Los Simpson T2
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216938
+#EXTINF:-1 ,DRAGON BALL  78 AL 116
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216939
+#EXTINF:-1 ,Selena
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/217012
+#EXTINF:-1 ,DANIEL EL TRAVIESO
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219285
+#EXTINF:-1 ,DRAGON BALL  117 al 153 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/217022
+#EXTINF:-1 ,2MIRACULOUS
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/217139
+#EXTINF:-1 ,POPEYE
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/219234
+#EXTINF:-1 ,Peliculas Spider-Man
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/217011
+#EXTINF:-1 ,El gran Chaparral
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/217386
+#EXTINF:-1 ,DRAGON BALL 1 AL 43
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216196
+#EXTINF:-1 ,JONNY QUEST
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/216821
+#EXTINF:-1 ,2Vecinos Temp 1 y 2
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107932
+#EXTINF:-1 ,Chespirito
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/51343
+#EXTINF:-1 ,2She-ra
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177096
+#EXTINF:-1 ,Sam y Cat
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177370
+#EXTINF:-1 ,LAZY TOWN
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108006
+#EXTINF:-1 ,EL SEÑOR DE LOS CIELOS
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177337
+#EXTINF:-1 ,LUIS MIGUEL LA SERIE
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177321
+#EXTINF:-1 ,Princesa Sofia
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177121
+#EXTINF:-1 ,La Casa de Mickey Mouse
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177184
+#EXTINF:-1 ,Paw Patrol
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108007
+#EXTINF:-1 ,Series Comedia
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177320
+#EXTINF:-1 ,Cinema Navidad ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177336
+#EXTINF:-1 ,CAR | Un Show Mas
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177105
+#EXTINF:-1 ,Lo Mejor de Mickey
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177132
+#EXTINF:-1 ,TV S | Cobra Kai
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177380
+#EXTINF:-1 ,The Big Bang Theory T 1 Y 2 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/51331
+#EXTINF:-1 ,El Príncipe del Rap TEM 1 Y 2 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/51346
+#EXTINF:-1 ,Naruto
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/72333
+#EXTINF:-1 ,Cinema DC Comics
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177322
+#EXTINF:-1 ,Cinema DC Universe 
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177323
+#EXTINF:-1 ,Cinema Disney Family
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177324
+#EXTINF:-1 ,Cinema Happy Madison
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177328
+#EXTINF:-1 ,Disney Live Action
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177338
+#EXTINF:-1 ,Harry Potter
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/471447
+#EXTINF:-1 ,Disney Princess
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177339
+#EXTINF:-1 ,Cinema Marvel Studios
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177333
+#EXTINF:-1 ,Cinema DreamWorks
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177326
+#EXTINF:-1 ,Cinema Disney Pixar
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177325
+#EXTINF:-1 ,La Casa de Mickey Mouse
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177179
+#EXTINF:-1 ,Sailor Moon
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177124
+#EXTINF:-1 ,South Park
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177097
+#EXTINF:-1 ,Juego de Tronos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/177327
+#EXTINF:-1 ,BATMAN SERIE ANIMADA
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107946
+#EXTINF:-1 ,Ranma 1/2
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/217550
+#EXTINF:-1 ,Death Note
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/217686
+#EXTINF:-1 ,EL AVISPON VERDE
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/222132
+#EXTINF:-1 ,BREAKING BAD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/222134
+#EXTINF:-1 ,JOHN WICK
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531600
+#EXTINF:-1 ,DURO DE MATAR
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531601
+#EXTINF:-1 ,Aventureros del aire
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531602
+#EXTINF:-1 ,Batman del futuro
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531603
+#EXTINF:-1 ,ARMA MORTAL
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531604
+#EXTINF:-1 ,Los Simpson 1 Al 9
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531605
+#EXTINF:-1 ,Chicago Justice
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531607
+#EXTINF:-1 ,How to Rock
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531609
+#EXTINF:-1 ,Canuto Y Canito
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531610
+#EXTINF:-1 ,El tigre y Los Demas
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531611
+#EXTINF:-1 ,El conde Pátula
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531612
+#EXTINF:-1 ,Avatar: La leyenda de Aang
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531613
+#EXTINF:-1 ,El Chavo del Ocho
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531614
+#EXTINF:-1 ,Edd y Eddy
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531615
+#EXTINF:-1 ,ACCION
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531617
+#EXTINF:-1 ,Alias el Mexicano
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531618
+#EXTINF:-1 ,A mano limpia
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531619
+#EXTINF:-1 ,Arelys Henao canto para no llorar
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531620
+#EXTINF:-1 ,Azúcar
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531621
+#EXTINF:-1 ,Bella calamidades
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531622
+#EXTINF:-1 ,Bolívar Una lucha admirable
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531623
+#EXTINF:-1 ,Cafe con aroma de mujer
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531624
+#EXTINF:-1 ,Chepe Fortuna
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531625
+#EXTINF:-1 ,Chica Vampiro
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531626
+#EXTINF:-1 ,Diomedes el Cacique de La Junta
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531627
+#EXTINF:-1 ,Eco moda
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531628
+#EXTINF:-1 ,El Barón
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531629
+#EXTINF:-1 ,El capo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531630
+#EXTINF:-1 ,El cartel de los sapos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531631
+#EXTINF:-1 ,El Comandante la vida secreta de Hugo Chávez
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531632
+#EXTINF:-1 ,El General Naranjo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531633
+#EXTINF:-1 ,El Joe la leyenda
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531634
+#EXTINF:-1 ,En los tacones de Eva
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531635
+#EXTINF:-1 ,Enfermeras
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531636
+#EXTINF:-1 ,Francisco el Matemático
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531637
+#EXTINF:-1 ,Hasta que la plata nos separe
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531638
+#EXTINF:-1 ,Hasta que la plata nos separe
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531639
+#EXTINF:-1 ,Juana la virgen
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531640
+#EXTINF:-1 ,La hija del mariachi
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531642
+#EXTINF:-1 ,La nieta elegida
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531643
+#EXTINF:-1 ,La nocturna
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531644
+#EXTINF:-1 ,La reina del flow
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531645
+#EXTINF:-1 ,La suegra
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531646
+#EXTINF:-1 ,La Tormenta
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531647
+#EXTINF:-1 ,La traición
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531648
+#EXTINF:-1 ,La vendedora de rosas
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531650
+#EXTINF:-1 ,Las muñecas de la mafia
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531651
+#EXTINF:-1 ,Los Briceño
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531652
+#EXTINF:-1 ,Nuevo pobre
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531653
+#EXTINF:-1 ,El patrón del mal
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531654
+#EXTINF:-1 ,Pasión de gavilanes
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531655
+#EXTINF:-1 ,Pecados capitales
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531656
+#EXTINF:-1 ,Pedro el escamoso
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531657
+#EXTINF:-1 ,Pobre Pablo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531658
+#EXTINF:-1 ,Polvo carnavalero
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531659
+#EXTINF:-1 ,Rafael Orozco  el idolo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531660
+#EXTINF:-1 ,Sobreviviendo a Escobar. Alias J.J.
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531662
+#EXTINF:-1 ,Tiro de gracia
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531663
+#EXTINF:-1 ,Victorinos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531664
+#EXTINF:-1 ,Yo soy Betty la fea
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531665
+#EXTINF:-1 ,Zorro La espada y la rosa
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531666
+#EXTINF:-1 ,Campanas en la Noche
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531667
+#EXTINF:-1 ,Casados con Hijos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531668
+#EXTINF:-1 ,Floricienta
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531669
+#EXTINF:-1 ,Muñeca Brava
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531670
+#EXTINF:-1 ,Rebelde Way
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531672
+#EXTINF:-1 ,Abismo de Pasión
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531673
+#EXTINF:-1 ,Abrazame Muy Fuerte
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531674
+#EXTINF:-1 ,Al Diablo con los Guapos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531675
+#EXTINF:-1 ,Al otro Lado del Muro
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531676
+#EXTINF:-1 ,Alborada
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531677
+#EXTINF:-1 ,Alma Rebelde
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531678
+#EXTINF:-1 ,Amar a Muerte
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531679
+#EXTINF:-1 ,Amar Otra Vez
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531680
+#EXTINF:-1 ,Amigas y Rivales
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531681
+#EXTINF:-1 ,Amor de Barrio
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531682
+#EXTINF:-1 ,Amor Real
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531683
+#EXTINF:-1 ,Amor Sin Maquillaje
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531684
+#EXTINF:-1 ,Amores Verdaderos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531685
+#EXTINF:-1 ,Antes Muerta Que Lichita
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531686
+#EXTINF:-1 ,Atrévete a Soñar
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531687
+#EXTINF:-1 ,Aventuras en el Tiempo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531688
+#EXTINF:-1 ,Cachito de Cielo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531689
+#EXTINF:-1 ,Angela Anaconda
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531691
+#EXTINF:-1 ,Babar
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531692
+#EXTINF:-1 ,Birdman y el Trío Galaxia
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531693
+#EXTINF:-1 ,Bob Esponja
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531694
+#EXTINF:-1 ,Calabozos y Dragones
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531696
+#EXTINF:-1 ,Cantinflas Show
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531697
+#EXTINF:-1 ,3x3 Ojos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531699
+#EXTINF:-1 ,Berserk
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531700
+#EXTINF:-1 ,Digimon
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531701
+#EXTINF:-1 ,El Mito de Sísifo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531702
+#EXTINF:-1 ,Estamos Muertos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531703
+#EXTINF:-1 ,Érase un Amor Rural
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531704
+#EXTINF:-1 ,Dulce Hogar
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531706
+#EXTINF:-1 ,Deseos VIP
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531707
+#EXTINF:-1 ,Cowboy de Copenhague
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531708
+#EXTINF:-1 ,Bajo el Paraguas de la Reina
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531709
+#EXTINF:-1 ,Alquimia de Almas
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/531710
+#EXTINF:-1 ,CSI Miami
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107865
+#EXTINF:-1 ,Baywatch 1989
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107877
+#EXTINF:-1 ,Pedro Infante
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107879
+#EXTINF:-1 ,Cantinflas
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107891
+#EXTINF:-1 ,Los 3 Chiflados
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107893
+#EXTINF:-1 ,Hechizada Temp 1
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107906
+#EXTINF:-1 ,La Hora Pico
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107927
+#EXTINF:-1 ,Una Familia de Diez
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107928
+#EXTINF:-1 ,Xena La Princesa Guerrera
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107948
+#EXTINF:-1 ,Liveman
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107950
+#EXTINF:-1 ,Contacto Extranormal
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107955
+#EXTINF:-1 ,Gravity Falls
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107966
+#EXTINF:-1 ,Autobús Mágico
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107972
+#EXTINF:-1 ,Coraje el Perro Cobarde
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107974
+#EXTINF:-1 ,Dora y sus Amigos en la Ciudad
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107979
+#EXTINF:-1 ,La Pantera Rosa
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/107989
+#EXTINF:-1 ,Padre de Familia HD
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108005
+#EXTINF:-1 ,Hey Arnold
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108015
+#EXTINF:-1 ,Tom Y Jerry Kids
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108028
+#EXTINF:-1 ,Las Tortugas Ninja
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108036
+#EXTINF:-1 ,Las Chicas Superpoderosas
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108055
+#EXTINF:-1 ,La Vaca y el Pollito
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108058
+#EXTINF:-1 ,Scooby Doo
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108059
+#EXTINF:-1 ,Los Supersónicos
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108063
+#EXTINF:-1 ,Inspector Gadget
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108064
+#EXTINF:-1 ,La Pequeña Lulú
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108069
+#EXTINF:-1 ,El Gallo Claudio
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108080
+#EXTINF:-1 ,Pinky y Cerebro
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108082
+#EXTINF:-1 ,Heathcliff
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108083
+#EXTINF:-1 , Beetlejuice Animado
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108086
+#EXTINF:-1 ,Samurai X
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108099
+#EXTINF:-1 ,101 Dálmatas Animada
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108101
+#EXTINF:-1 ,El Inspector
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108105
+#EXTINF:-1 ,El Inspector Ardilla
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/108106
+
+
+
