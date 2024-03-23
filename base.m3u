@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id"Somos" tvg-logo="https://i.imgur.com/8lYuGZR.png",Somos
+#EXTINF:-1 tvg-id"Somos" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/somos.png?raw=true",Somos
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id"" tvg-logo="https://i.imgur.com/1YUlVpD.png",CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
@@ -13,7 +13,7 @@ https://panel.dattalive.com/8186/8186/chunklist_w1359352972.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id"América TV (ARG)(AME2)(120)" tvg-logo="https://i.imgur.com/DzkzeaA.png",América TV (ARG)(AME2)(120)
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/209741
-#EXTINF:-1 tvg-id"Telefe" tvg-logo="https://i.imgur.com/rPCdXXJ.png",Canal 8 Mar del Plata
+#EXTINF:-1 tvg-id"Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal8mardelplata.png?raw=true",Canal 8 Mar del Plata
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
 #EXTINF:-1 tvg-id"Telefe" tvg-logo="https://i.imgur.com/WAZn1np.png",Telefe
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/12933
