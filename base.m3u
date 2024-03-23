@@ -33,7 +33,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/facTbQa.png",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VUtOxK.png",A24
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24%20-%20copia.png?raw=true",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOrWI3X.png",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
