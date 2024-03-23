@@ -1,35 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-id"Somos" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/somos.png?raw=true",Somos
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id"" tvg-logo="https://i.imgur.com/1YUlVpD.png",CANAL 2 MAR DEL PLATA
+#EXTINF:-1 tvg-id"" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-#EXTINF:-1 tvg-id"Canal de la Ciudad" tvg-logo="https://i.imgur.com/cn7ndW6.png",Canal de la ciudad
+#EXTINF:-1 tvg-id"Canal de la Ciudad" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true",Canal de la ciudad
 https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
-#EXTINF:-1 tvg-id"" tvg-logo="https://i.imgur.com/fCcJVzx.png",Gen TV
+#EXTINF:-1 tvg-id"" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true",Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-id"" tvg-logo="https://i.imgur.com/gBSjyiW.jpeg",CANAL 6 MAR DEL PLATA
+#EXTINF:-1 tvg-id"" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",CANAL 6 MAR DEL PLATA
 https://panel.dattalive.com/8186/8186/chunklist_w1359352972.m3u8
-#EXTINF:-1 tvg-id"" tvg-logo="https://i.imgur.com/eV36R7V.png",Neo TV
+#EXTINF:-1 tvg-id"" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id"América TV (ARG)(AME2)(120)" tvg-logo="https://i.imgur.com/DzkzeaA.png",América TV (ARG)(AME2)(120)
+#EXTINF:-1 tvg-id"América TV (ARG)(AME2)(120)" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv.png?raw=true",América TV
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/209741
 #EXTINF:-1 tvg-id"Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal8mardelplata.png?raw=true",Canal 8 Mar del Plata
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
-#EXTINF:-1 tvg-id"Telefe" tvg-logo="https://i.imgur.com/WAZn1np.png",Telefe
+#EXTINF:-1 tvg-id"Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true",Telefe
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/12933
-#EXTINF:-1 tvg-id"TV Pública Argentina" tvg-logo="https://i.imgur.com/tDr9QhX.png",TV PUBLICA
+#EXTINF:-1 tvg-id"TV Pública Argentina" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-#EXTINF:-1 tvg-id"El Trece" tvg-logo="https://i.imgur.com/K1pD1i1.png",Canal 10 Mar del Plata
+#EXTINF:-1 tvg-id"El Trece" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true",Canal 10 Mar del Plata
 https://ythls.armelin.one/channel/UCUM1n1Cb_cbnYTY45GvtyJw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aph8qUY.png",CANAL 79 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true",CANAL 79 MAR DEL PLATA
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:-1 tvg-id"Argentinisima" tvg-logo="https://i.imgur.com/BVlkc5A.png",Argentinisima Satelital
+#EXTINF:-1 tvg-id"Argentinisima" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/argentinisimasatelital.png?raw=true",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IASBWCz.png",Telefe noticias
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefenoticias.png?raw=true",Telefe noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id"El Trece"tvg-logo="https://i.imgur.com/ZBHPLp8.png",El Trece
+#EXTINF:-1 tvg-id"El Trece"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrecetv.png?raw=true",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATsyX5X.png",CANAL 9
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true",CANAL 9
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/facTbQa.png",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
