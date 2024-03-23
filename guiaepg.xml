@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<site site="buscador.cablevisionfibertel.com.ar" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.2.1.3 -- Jan van Straaten">
+
+
+-<channels>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="On Demand" site_id="2423" update="i">On Demand</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Canal de la Ciudad" site_id="2332" update="i">Canal de la Ciudad</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Somos" site_id="999" update="i">Somos</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Metro" site_id="2263" update="i">Metro</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="América 2" site_id="175" update="i">América 2</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Telefe" site_id="35" update="i">Telefe</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TV Pública Argentina" site_id="292" update="i">TV Pública Argentina</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="El Trece" site_id="6" update="i">El Trece</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="El Nueve" site_id="96" update="i">El Nueve</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Todo Noticias" site_id="36" update="i">Todo Noticias</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="A 24" site_id="343" update="i">A 24</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="C5N" site_id="709" update="i">C5N</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Crónica TV" site_id="192" update="i">Crónica TV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="26 TV" site_id="3" update="i">26 TV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="La Nación" site_id="3644" update="i">La Nación</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Magazine" site_id="26" update="i">Magazine</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Net TV" site_id="4646" update="i">Net TV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Encuentro" site_id="477" update="i">Encuentro</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="CNN en español" site_id="62" update="i">CNN en español</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="IP" site_id="6158" update="i">IP</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="KZO" site_id="3078" update="i">KZO</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="DIPUTADOS TV" site_id="4320" update="i">DIPUTADOS TV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Canal 90" site_id="769" update="i">Canal 90</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TyC Sports 2" site_id="153" update="i">TyC Sports 2</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="DEPORTV" site_id="2195" update="i">DEPORTV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TyC Sports" site_id="40" update="i">TyC Sports</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="ESPN 2" site_id="18" update="i">ESPN 2</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="ESPN" site_id="229" update="i">ESPN</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="ESPN 3" site_id="2005" update="i">ESPN 3</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="ESPN Extra" site_id="3224" update="i">ESPN Extra</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Fox Sports" site_id="223" update="i">Fox Sports</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Fox Sports 2" site_id="978" update="i">Fox Sports 2</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Fox Sports 3" site_id="362" update="i">Fox Sports 3</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="El Garage" site_id="358" update="i">El Garage</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="The Golf Channel" site_id="734" update="i">The Golf Channel</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="NBA TV" site_id="753" update="i">NBA TV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Discovery Turbo" site_id="492" update="i">Discovery Turbo</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="PX SPORTS" site_id="3582" update="i">PX SPORTS</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="America Sports" site_id="84" update="i">America Sports</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Eventos HD" site_id="1359" update="i">Eventos HD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="FOX SPORTS PREMIUM" site_id="3951" update="i">FOX SPORTS PREMIUM</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TNT SPORTS" site_id="3950" update="i">TNT SPORTS</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="PakaPaka" site_id="1492" update="i">PakaPaka</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Disney Channel" site_id="136" update="i">Disney Channel</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Nickelodeon" site_id="60" update="i">Nickelodeon</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Cartoon Network" site_id="226" update="i">Cartoon Network</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Disney XD" site_id="325" update="i">Disney XD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Discovery Kids" site_id="76" update="i">Discovery Kids</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Boomerang" site_id="174" update="i">Boomerang</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Disney Jr" site_id="756" update="i">Disney Jr</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Baby TV" site_id="695" update="i">Baby TV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Tooncast" site_id="880" update="i">Tooncast</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Nick Jrs" site_id="816" update="i">Nick Jrs</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="NAT GEO KIDS" site_id="3932" update="i">NAT GEO KIDS</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HBO Este" site_id="21" update="i">HBO Este</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HBO 2" site_id="2127" update="i">HBO 2</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HBO Plus Panamericano" site_id="2165" update="i">HBO Plus Panamericano</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HBO MUNDI ARGENTINA" site_id="12" update="i">HBO MUNDI ARGENTINA</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HBO POP" site_id="1378" update="i">HBO POP</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HBO XTREME ARGENTINA" site_id="334" update="i">HBO XTREME ARGENTINA</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HBO Family Panamericano" site_id="335" update="i">HBO Family Panamericano</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HBO Signature" site_id="500" update="i">HBO Signature</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR HITS" site_id="589" update="i">STAR HITS</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR SERIES" site_id="83" update="i">STAR SERIES</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR SERIES OESTE" site_id="241" update="i">STAR SERIES OESTE</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR ACTION" site_id="583" update="i">STAR ACTION</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR FUN" site_id="1016" update="i">STAR FUN</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR COMEDY" site_id="2880" update="i">STAR COMEDY</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR CINEMA" site_id="1690" update="i">STAR CINEMA</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR CLASSICS" site_id="324" update="i">STAR CLASSICS</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Cine.AR" site_id="1605" update="i">Cine.AR</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Cinemax" site_id="2292" update="i">Cinemax</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="FX MOVIES" site_id="4094" update="i">FX MOVIES</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Volver" site_id="45" update="i">Volver</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Space HD" site_id="4535" update="i">Space HD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Cinecanal HD" site_id="3445" update="i">Cinecanal HD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TNT" site_id="37" update="i">TNT</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TNT Series" site_id="2999" update="i">TNT Series</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="FX" site_id="353" update="i">FX</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR CHANNEL" site_id="19" update="i">STAR CHANNEL</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Sony" site_id="32" update="i">Sony</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Warner Channel" site_id="46" update="i">Warner Channel</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Universal Channel" site_id="327" update="i">Universal Channel</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="AXN" site_id="100" update="i">AXN</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Studio Universal" site_id="77" update="i">Studio Universal</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="A&E Mundo" site_id="167" update="i">A&E Mundo</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Europa Europa" site_id="184" update="i">Europa Europa</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TBS" site_id="1967" update="i">TBS</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TCM" site_id="328" update="i">TCM</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="AMC" site_id="97" update="i">AMC</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="I-Sat" site_id="22" update="i">I-Sat</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Atreseries" site_id="3149" update="i">Atreseries</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Syfy" site_id="760" update="i">Syfy</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="STAR LIFE" site_id="366" update="i">STAR LIFE</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Eurochannel" site_id="337" update="i">Eurochannel</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="DISCOVERY ID HD" site_id="2266" update="i">DISCOVERY ID HD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Comedy Central" site_id="2037" update="i">Comedy Central</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Paramount" site_id="2910" update="i">Paramount</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="PASIONES" site_id="1976" update="i">PASIONES</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Telemundo" site_id="958" update="i">Telemundo</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Lifetime" site_id="2788" update="i">Lifetime</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Gourmet" site_id="125" update="i">Gourmet</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Food Network" site_id="3438" update="i">Food Network</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="E! Entertainment Television" site_id="50" update="i">E! Entertainment Television</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Discovery Home & Health" site_id="340" update="i">Discovery Home & Health</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Mas Chic" site_id="108" update="i">Mas Chic</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TLC HD" site_id="4909" update="i">TLC HD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HGTV" site_id="1531" update="i">HGTV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Hola TV" site_id="2669" update="i">Hola TV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Glitz" site_id="104" update="i">Glitz</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Canal Rural" site_id="11" update="i">Canal Rural</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="VIAJAR" site_id="2197" update="i">VIAJAR</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Sun Channel" site_id="771" update="i">Sun Channel</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Telemax" site_id="887" update="i">Telemax</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Señal María" site_id="2381" update="i">Señal María</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Nueva Imagen" site_id="308" update="i">Nueva Imagen</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="EWTN" site_id="64" update="i">EWTN</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Canal Orbe 21" site_id="3437" update="i">Canal Orbe 21</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="WOBI" site_id="723" update="i">WOBI</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Juegos APTIV" site_id="2392" update="i">Juegos APTIV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="National Geographic" site_id="164" update="i">National Geographic</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Discovery Channel" site_id="17" update="i">Discovery Channel</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="ANIMAL PLANET HD" site_id="3239" update="i">ANIMAL PLANET HD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Discovery Theatre HD" site_id="1181" update="i">Discovery Theatre HD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="The History Channel" site_id="178" update="i">The History Channel</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Tru TV" site_id="912" update="i">Tru TV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Canal A" site_id="58" update="i">Canal A</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Film & Arts" site_id="63" update="i">Film & Arts</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="H2" site_id="2823" update="i">H2</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="NatGeo Wild" site_id="1184" update="i">NatGeo Wild</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Discovery World HD" site_id="1389" update="i">Discovery World HD</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Discovery Science" site_id="493" update="i">Discovery Science</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="MTV" site_id="25" update="i">MTV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Quiero" site_id="779" update="i">Quiero</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Allegro" site_id="3154" update="i">Allegro</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="MTV 00S" site_id="319" update="i">MTV 00S</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="HTV" site_id="115" update="i">HTV</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Much Music" site_id="28" update="i">Much Music</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Canal de la Musica" site_id="230" update="i">Canal de la Musica</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="MTV Hits" site_id="727" update="i">MTV Hits</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="NICKMUSIC" site_id="2360" update="i">NICKMUSIC</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="La Rai" site_id="29" update="i">La Rai</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Bloomberg" site_id="730" update="i">Bloomberg</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TV Chile" site_id="39" update="i">TV Chile</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TV5 Monde" site_id="38" update="i">TV5 Monde</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Antena 3" site_id="61" update="i">Antena 3</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Telesur" site_id="388" update="i">Telesur</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="CNN Internacional" site_id="13" update="i">CNN Internacional</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="BBC" site_id="80" update="i">BBC</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Fox News" site_id="578" update="i">Fox News</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Al Jazeera" site_id="751" update="i">Al Jazeera</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Euronews" site_id="962" update="i">Euronews</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Deutsche Welle" site_id="2067" update="i">Deutsche Welle</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TVE (España)" site_id="59" update="i">TVE (España)</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="TV Galicia" site_id="65" update="i">TV Galicia</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="El Canal de las Estrellas" site_id="9" update="i">El Canal de las Estrellas</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Arirang Tv" site_id="322" update="i">Arirang Tv</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="UCL" site_id="2541" update="i">UCL</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="France 24" site_id="3431" update="i">France 24</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Band Internacional" site_id="1667" update="i">Band Internacional</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Argentinisima" site_id="57" update="i">Argentinisima</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="MANIJOMIO" site_id="5264" update="i">MANIJOMIO</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="FLOW GAMING XP" site_id="5298" update="i">FLOW GAMING XP</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="FLOW MUSIC XP" site_id="5299" update="i">FLOW MUSIC XP</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Playboy" site_id="114" update="i">Playboy</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Venus" site_id="44" update="i">Venus</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Sextreme" site_id="628" update="i">Sextreme</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Radio Mitre" site_id="757" update="i">Radio Mitre</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="FM 100" site_id="758" update="i">FM 100</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="AM 1030" site_id="759" update="i">AM 1030</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Mitre AM 810 Córdoba" site_id="785" update="i">Mitre AM 810 Córdoba</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Radio Rivadavia" site_id="904" update="i">Radio Rivadavia</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="RADIO NACIONAL" site_id="3054" update="i">RADIO NACIONAL</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="Radio Disney" site_id="1265" update="i">Radio Disney</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="RFI" site_id="2282" update="i">RFI</channel>
+
+<channel site="cablevisionfibertel.com.ar" xmltv_id="RADIO CNN" site_id="5244" update="i">RADIO CNN</channel>
+
+</channels>
+
+</site>
