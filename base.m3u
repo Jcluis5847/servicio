@@ -31,41 +31,41 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true",CANAL 9
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/facTbQa.png",TN Todo Noticias
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24%20-%20copia.png?raw=true",A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NOrWI3X.png",C5N
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE9iziN.png",CRÓNICA HD
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true",CRÓNICA HD
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cNI3rGI.png",26 TV
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true",26 TV
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRZGGkI.png",La Nacion+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/lanacion+.png?raw=true",La Nacion+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uRz6K7q.png",Ciudad Magazine
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ciudadmagazine.png?raw=true",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTtJ3Lu.png",NET TV
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png",TyC Sports
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true",TyC Sports
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png",TYC Sports HD
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true",TYC Sports HD
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/188939
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",ESPN
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espn.png?raw=true",ESPN
 http://190.90.154.73:8080/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png",ESPN 2
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espn2.png?raw=true",ESPN 2
 http://190.90.154.73:8080/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png",ESPN 3
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espn3.png?raw=true",ESPN 3
 http://190.90.154.73:8080/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png",ESPN 4
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espn4.png?raw=true",ESPN 4
 http://190.90.154.73:8080/play/a02s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pf9Huoh.png",ESPN Extra
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnextra.png?raw=true",ESPN Extra
 http://190.90.154.73:8080/play/a03f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xyIjdBq.png",Fox Sports 1
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox1.png?raw=true",Fox Sports 1
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4294
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p6KGJ7j.png",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox2.png?raw=true",Fox Sports 2
 http://190.90.154.73:8080/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ljoRfyo.png",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox3.png?raw=true",Fox Sports 3
 http://190.90.154.73:8080/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DGCRuvj.png",TNT Sports
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/211363
