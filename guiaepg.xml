@@ -1,811 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
--<site site="directv.com.ar" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V5.0.1.1 -- Jan van Straaten">
+-<site site="avcsa.com.ar" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V1.56.28 -- Jan van Straaten">
 
 
 -<channels>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTV)(101)" site_id="4653" update="i">DIRECTV(DTV)(101)</channel>
+<channel site="avcsa.com.ar" xmltv_id="26 TV" site_id="3" update="i">26 TV</channel>
 
-<channel site="directv.com.ar" xmltv_id="América TV (ARG)(AME2)(120)" site_id="120" update="i">América TV (ARG)(AME2)(120)</channel>
+<channel site="avcsa.com.ar" xmltv_id="360 TV" site_id="2000" update="i">360 TV</channel>
 
-<channel site="directv.com.ar" xmltv_id="La TV Pública (ARG)(CAN7)(121)" site_id="121" update="i">La TV Pública (ARG)(CAN7)(121)</channel>
+<channel site="avcsa.com.ar" xmltv_id="8 MAR DEL PLATA" site_id="53" update="i">8 MAR DEL PLATA</channel>
 
-<channel site="directv.com.ar" xmltv_id="Canal 9 (ARG)(CAN9)(122)" site_id="122" update="i">Canal 9 (ARG)(CAN9)(122)</channel>
+<channel site="avcsa.com.ar" xmltv_id="A&E MUNDO" site_id="167" update="i">A&E MUNDO</channel>
 
-<channel site="directv.com.ar" xmltv_id="Telefe (ARG)(TF11)(123)" site_id="123" update="i">Telefe (ARG)(TF11)(123)</channel>
+<channel site="avcsa.com.ar" xmltv_id="A&E MUNDO HD" site_id="1584" update="i">A&E MUNDO HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Telefe HD (ARG)(TF11HD)(123)" site_id="1081" update="i">Telefe HD (ARG)(TF11HD)(123)</channel>
+<channel site="avcsa.com.ar" xmltv_id="AMC" site_id="97" update="i">AMC</channel>
 
-<channel site="directv.com.ar" xmltv_id="El Trece (ARG)(AR13)(124)" site_id="124" update="i">El Trece (ARG)(AR13)(124)</channel>
+<channel site="avcsa.com.ar" xmltv_id="AMERICA 2" site_id="4" update="i">AMERICA 2</channel>
 
-<channel site="directv.com.ar" xmltv_id="El Trece HD (ARG)(AR13HD)(124)" site_id="1124" update="i">El Trece HD (ARG)(AR13HD)(124)</channel>
+<channel site="avcsa.com.ar" xmltv_id="AMERICA 24" site_id="343" update="i">AMERICA 24</channel>
 
-<channel site="directv.com.ar" xmltv_id="NET TV (ARG)(NETTV)(125)" site_id="4306" update="i">NET TV (ARG)(NETTV)(125)</channel>
+<channel site="avcsa.com.ar" xmltv_id="AMERICA SPORTS SATELITAL" site_id="84" update="i">AMERICA SPORTS SATELITAL</channel>
 
-<channel site="directv.com.ar" xmltv_id="NET TV HD (ARG)(NETVHD)(125)" site_id="1423" update="i">NET TV HD (ARG)(NETVHD)(125)</channel>
+<channel site="avcsa.com.ar" xmltv_id="ANIMAL PLANET" site_id="1623" update="i">ANIMAL PLANET</channel>
 
-<channel site="directv.com.ar" xmltv_id="Bravo TV(BRVO)(126)" site_id="4578" update="i">Bravo TV(BRVO)(126)</channel>
+<channel site="avcsa.com.ar" xmltv_id="ARGENTINISIMA SATELITAL" site_id="57" update="i">ARGENTINISIMA SATELITAL</channel>
 
-<channel site="directv.com.ar" xmltv_id="Canal de la ciudad(CDLC)(127)" site_id="4309" update="i">Canal de la ciudad(CDLC)(127)</channel>
+<channel site="avcsa.com.ar" xmltv_id="AXN" site_id="100" update="i">AXN</channel>
 
-<channel site="directv.com.ar" xmltv_id="Encuentro (ARG)(ENCU)(128)" site_id="126" update="i">Encuentro (ARG)(ENCU)(128)</channel>
+<channel site="avcsa.com.ar" xmltv_id="AXN HD" site_id="1862" update="i">AXN HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="EL SIETE(SIETE)(130)" site_id="4341" update="i">EL SIETE(SIETE)(130)</channel>
+<channel site="avcsa.com.ar" xmltv_id="C5N" site_id="709" update="i">C5N</channel>
 
-<channel site="directv.com.ar" xmltv_id="CANAL 9(C9)(131)" site_id="4342" update="i">CANAL 9(C9)(131)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL 13" site_id="6" update="i">CANAL 13</channel>
 
-<channel site="directv.com.ar" xmltv_id="Telediario Television(TLD)(132)" site_id="4343" update="i">Telediario Television(TLD)(132)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL 13 BS.AS. HD" site_id="1341" update="i">CANAL 13 BS.AS. HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Canal 7 de Jujuy(C7)(133)" site_id="4344" update="i">Canal 7 de Jujuy(C7)(133)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL 7" site_id="135" update="i">CANAL 7</channel>
 
-<channel site="directv.com.ar" xmltv_id="EL TRES Rosario(TRES)(134)" site_id="4491" update="i">EL TRES Rosario(TRES)(134)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL 7 HD" site_id="1569" update="i">CANAL 7 HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="El Doce CANAL 12 DE CORDOBA(DOCE)(135)" site_id="4500" update="i">El Doce CANAL 12 DE CORDOBA(DOCE)(135)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL 9" site_id="1612" update="i">CANAL 9</channel>
 
-<channel site="directv.com.ar" xmltv_id="Canal 5 de Rosario(CAN5)(137)" site_id="4510" update="i">Canal 5 de Rosario(CAN5)(137)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL A" site_id="58" update="i">CANAL A</channel>
 
-<channel site="directv.com.ar" xmltv_id="Canal 3 de La Pampa(C3LP)(139)" site_id="4684" update="i">Canal 3 de La Pampa(C3LP)(139)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL DE LA MUSICA" site_id="230" update="i">CANAL DE LA MUSICA</channel>
 
-<channel site="directv.com.ar" xmltv_id="Infomercials(AINF)(160)" site_id="128" update="i">Infomercials(AINF)(160)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL DE LAS ESTRELLAS" site_id="9" update="i">CANAL DE LAS ESTRELLAS</channel>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV SERIES HD(DTVSE)(200)" site_id="1490" update="i">DIRECTV SERIES HD(DTVSE)(200)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL LUZ" site_id="349" update="i">CANAL LUZ</channel>
 
-<channel site="directv.com.ar" xmltv_id="OnDIRECTV (Sur)(ODTV)(201)" site_id="368" update="i">OnDIRECTV (Sur)(ODTV)(201)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL ORBE 21" site_id="1063" update="i">CANAL ORBE 21</channel>
 
-<channel site="directv.com.ar" xmltv_id="OnDIRECTV HD (Sur)(ODTVHD)(201)" site_id="1106" update="i">OnDIRECTV HD (Sur)(ODTVHD)(201)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL RURAL" site_id="11" update="i">CANAL RURAL</channel>
 
-<channel site="directv.com.ar" xmltv_id="STAR Channel(STAR)(204)" site_id="204" update="i">STAR Channel(STAR)(204)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CANAL VASCO" site_id="273" update="i">CANAL VASCO</channel>
 
-<channel site="directv.com.ar" xmltv_id="STAR Channel HD(STAR)(204)" site_id="1083" update="i">STAR Channel HD(STAR)(204)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CARTOON NETWORK" site_id="226" update="i">CARTOON NETWORK</channel>
 
-<channel site="directv.com.ar" xmltv_id="Warner Channel(WTV)(206)" site_id="4034" update="i">Warner Channel(WTV)(206)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CCTV 4" site_id="1330" update="i">CCTV 4</channel>
 
-<channel site="directv.com.ar" xmltv_id="A&E HD(A&EHD)(207)" site_id="1207" update="i">A&E HD(A&EHD)(207)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CINECANAL" site_id="15" update="i">CINECANAL</channel>
 
-<channel site="directv.com.ar" xmltv_id="A&E (A&E)(207)" site_id="207" update="i">A&E (A&E)(207)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CINECANAL HD" site_id="1292" update="i">CINECANAL HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Sony Entertainment HD(SONYHD)(208)" site_id="1210" update="i">Sony Entertainment HD(SONYHD)(208)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CINEMAX" site_id="1355" update="i">CINEMAX</channel>
 
-<channel site="directv.com.ar" xmltv_id="Sony Entertainment(SONY)(208)" site_id="210" update="i">Sony Entertainment(SONY)(208)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CN 23" site_id="1345" update="i">CN 23</channel>
 
-<channel site="directv.com.ar" xmltv_id="AXN HD(AXNHD)(209)" site_id="1773" update="i">AXN HD(AXNHD)(209)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CNN EN ESPAÑOL" site_id="62" update="i">CNN EN ESPAÑOL</channel>
 
-<channel site="directv.com.ar" xmltv_id="AXN(AXN)(209)" site_id="4036" update="i">AXN(AXN)(209)</channel>
+<channel site="avcsa.com.ar" xmltv_id="CONEXIÓN EDUCATIVA" site_id="312" update="i">CONEXIÓN EDUCATIVA</channel>
 
-<channel site="directv.com.ar" xmltv_id="AMC HD(AMCHD)(210)" site_id="1297" update="i">AMC HD(AMCHD)(210)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DESTINOS TV" site_id="1390" update="i">DESTINOS TV</channel>
 
-<channel site="directv.com.ar" xmltv_id="AMC(AMC)(210)" site_id="858" update="i">AMC(AMC)(210)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY" site_id="17" update="i">DISCOVERY</channel>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTV)(212)" site_id="4655" update="i">DIRECTV(DTV)(212)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY CIVILIZATION" site_id="494" update="i">DISCOVERY CIVILIZATION</channel>
 
-<channel site="directv.com.ar" xmltv_id="TNT Series HD(TNTSHD)(213)" site_id="1213" update="i">TNT Series HD(TNTSHD)(213)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY ID" site_id="111" update="i">DISCOVERY ID</channel>
 
-<channel site="directv.com.ar" xmltv_id="TNT Series(TNTS)(213)" site_id="921" update="i">TNT Series(TNTS)(213)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY ID HD" site_id="2266" update="i">DISCOVERY ID HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Atres Series HD(A3SEHD)(214)" site_id="1086" update="i">Atres Series HD(A3SEHD)(214)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY KIDS" site_id="76" update="i">DISCOVERY KIDS</channel>
 
-<channel site="directv.com.ar" xmltv_id="Atres Series(A3SE)(214)" site_id="829" update="i">Atres Series(A3SE)(214)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY SCIENCE" site_id="493" update="i">DISCOVERY SCIENCE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Comedy Central(CMDY)(215)" site_id="215" update="i">Comedy Central(CMDY)(215)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY THEATER HD" site_id="1181" update="i">DISCOVERY THEATER HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="TBS Very Funny(TBS)(216)" site_id="216" update="i">TBS Very Funny(TBS)(216)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY TURBO" site_id="492" update="i">DISCOVERY TURBO</channel>
 
-<channel site="directv.com.ar" xmltv_id="FX(FX)(217)" site_id="217" update="i">FX(FX)(217)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISCOVERY WORLD HD" site_id="1389" update="i">DISCOVERY WORLD HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Universal TV HD (Sur)(UNIHD)(218)" site_id="1439" update="i">Universal TV HD (Sur)(UNIHD)(218)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISNEY" site_id="136" update="i">DISNEY</channel>
 
-<channel site="directv.com.ar" xmltv_id="Universal(UNI)(218)" site_id="4339" update="i">Universal(UNI)(218)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISNEY HD" site_id="2457" update="i">DISNEY HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="SyFy HD(SYFYHD)(219)" site_id="1219" update="i">SyFy HD(SYFYHD)(219)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISNEY JR." site_id="756" update="i">DISNEY JR.</channel>
 
-<channel site="directv.com.ar" xmltv_id="SyFy(SYFY)(219)" site_id="221" update="i">SyFy(SYFY)(219)</channel>
+<channel site="avcsa.com.ar" xmltv_id="DISNEY XD" site_id="325" update="i">DISNEY XD</channel>
 
-<channel site="directv.com.ar" xmltv_id="TRUTV(TRU)(220)" site_id="220" update="i">TRUTV(TRU)(220)</channel>
+<channel site="avcsa.com.ar" xmltv_id="EL GARAGE" site_id="358" update="i">EL GARAGE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Hola TV HD(HOLAHD)(221)" site_id="1221" update="i">Hola TV HD(HOLAHD)(221)</channel>
+<channel site="avcsa.com.ar" xmltv_id="EL GOURMET.COM" site_id="125" update="i">EL GOURMET.COM</channel>
 
-<channel site="directv.com.ar" xmltv_id="Hola TV(HOLATV)(221)" site_id="276" update="i">Hola TV(HOLATV)(221)</channel>
+<channel site="avcsa.com.ar" xmltv_id="ENCUENTRO" site_id="477" update="i">ENCUENTRO</channel>
 
-<channel site="directv.com.ar" xmltv_id="E! Entertainment HD(E!HD)(222)" site_id="1689" update="i">E! Entertainment HD(E!HD)(222)</channel>
+<channel site="avcsa.com.ar" xmltv_id="ENTERTAINMENT TELEVISION" site_id="50" update="i">ENTERTAINMENT TELEVISION</channel>
 
-<channel site="directv.com.ar" xmltv_id="E! Entertainment(E!)(222)" site_id="222" update="i">E! Entertainment(E!)(222)</channel>
+<channel site="avcsa.com.ar" xmltv_id="ESPN" site_id="18" update="i">ESPN</channel>
 
-<channel site="directv.com.ar" xmltv_id="Investigation Discovery(ID)(223)" site_id="223" update="i">Investigation Discovery(ID)(223)</channel>
+<channel site="avcsa.com.ar" xmltv_id="ESPN +" site_id="1132" update="i">ESPN +</channel>
 
-<channel site="directv.com.ar" xmltv_id="Discovery ID HD(IDHD)(223)" site_id="1146" update="i">Discovery ID HD(IDHD)(223)</channel>
+<channel site="avcsa.com.ar" xmltv_id="ESPN 2" site_id="229" update="i">ESPN 2</channel>
 
-<channel site="directv.com.ar" xmltv_id="Glitz(GLTZ)(224)" site_id="224" update="i">Glitz(GLTZ)(224)</channel>
+<channel site="avcsa.com.ar" xmltv_id="EUROPA EUROPA" site_id="184" update="i">EUROPA EUROPA</channel>
 
-<channel site="directv.com.ar" xmltv_id="Pasiones(PASN)(225)" site_id="225" update="i">Pasiones(PASN)(225)</channel>
+<channel site="avcsa.com.ar" xmltv_id="EWTN" site_id="64" update="i">EWTN</channel>
 
-<channel site="directv.com.ar" xmltv_id="Pasiones HD(PASHD)(225)" site_id="1497" update="i">Pasiones HD(PASHD)(225)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FILM ZONE" site_id="98" update="i">FILM ZONE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Canal de las Estrellas(CEST)(226)" site_id="226" update="i">Canal de las Estrellas(CEST)(226)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX" site_id="19" update="i">FOX</channel>
 
-<channel site="directv.com.ar" xmltv_id="TLNovelas(NVLA)(227)" site_id="227" update="i">TLNovelas(NVLA)(227)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX 1 ESTE" site_id="83" update="i">FOX 1 ESTE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Lifetime HD(LIFEHD)(228)" site_id="1159" update="i">Lifetime HD(LIFEHD)(228)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX 1 OESTE" site_id="241" update="i">FOX 1 OESTE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Lifetime(LIFE)(228)" site_id="472" update="i">Lifetime(LIFE)(228)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX ACTION ESTE" site_id="583" update="i">FOX ACTION ESTE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Discovery Home & Health(DH&H)(229)" site_id="229" update="i">Discovery Home & Health(DH&H)(229)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX ACTION OESTE" site_id="700" update="i">FOX ACTION OESTE</channel>
 
-<channel site="directv.com.ar" xmltv_id="MÁS CHIC(CHIC)(230)" site_id="230" update="i">MÁS CHIC(CHIC)(230)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX CLASSICS" site_id="324" update="i">FOX CLASSICS</channel>
 
-<channel site="directv.com.ar" xmltv_id="Telemundo Internacional(TLMD)(231)" site_id="4154" update="i">Telemundo Internacional(TLMD)(231)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX FAMILY ESTE" site_id="1016" update="i">FOX FAMILY ESTE</channel>
 
-<channel site="directv.com.ar" xmltv_id="El Gourmet HD(GOURHD)(232)" site_id="1752" update="i">El Gourmet HD(GOURHD)(232)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX FAMILY OESTE" site_id="1017" update="i">FOX FAMILY OESTE</channel>
 
-<channel site="directv.com.ar" xmltv_id="El Gourmet(GOUR)(232)" site_id="232" update="i">El Gourmet(GOUR)(232)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX HD" site_id="879" update="i">FOX HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Food Network HD(FOODHD)(233)" site_id="1233" update="i">Food Network HD(FOODHD)(233)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX LIFE" site_id="366" update="i">FOX LIFE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Food Network(FOOD)(233)" site_id="883" update="i">Food Network(FOOD)(233)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX MOVIES" site_id="589" update="i">FOX MOVIES</channel>
 
-<channel site="directv.com.ar" xmltv_id="IVC Internacional HD(IVCHD)(235)" site_id="1456" update="i">IVC Internacional HD(IVCHD)(235)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX SPORTS" site_id="56" update="i">FOX SPORTS</channel>
 
-<channel site="directv.com.ar" xmltv_id="IVC Internacional(IVC)(235)" site_id="4350" update="i">IVC Internacional(IVC)(235)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX SPORTS 2" site_id="978" update="i">FOX SPORTS 2</channel>
 
-<channel site="directv.com.ar" xmltv_id="Magazine(MAGA)(236)" site_id="236" update="i">Magazine(MAGA)(236)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX SPORTS 3" site_id="362" update="i">FOX SPORTS 3</channel>
 
-<channel site="directv.com.ar" xmltv_id="Volver(VLVR)(238)" site_id="238" update="i">Volver(VLVR)(238)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX SPORTS HD" site_id="979" update="i">FOX SPORTS HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="MTV HD(MTVHD)(264)" site_id="1264" update="i">MTV HD(MTVHD)(264)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FOX SY FY" site_id="760" update="i">FOX SY FY</channel>
 
-<channel site="directv.com.ar" xmltv_id="MTV Latino(MTV)(264)" site_id="264" update="i">MTV Latino(MTV)(264)</channel>
+<channel site="avcsa.com.ar" xmltv_id="FX" site_id="353" update="i">FX</channel>
 
-<channel site="directv.com.ar" xmltv_id="Quiero Música en mi Idioma(QMMI)(269)" site_id="269" update="i">Quiero Música en mi Idioma(QMMI)(269)</channel>
+<channel site="avcsa.com.ar" xmltv_id="GALICIA TV" site_id="65" update="i">GALICIA TV</channel>
 
-<channel site="directv.com.ar" xmltv_id="HTV(HTV)(272)" site_id="272" update="i">HTV(HTV)(272)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HAPSA (TURF)" site_id="728" update="i">HAPSA (TURF)</channel>
 
-<channel site="directv.com.ar" xmltv_id="OnDIRECTV (Sur)(ODTV)(300)" site_id="362" update="i">OnDIRECTV (Sur)(ODTV)(300)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HBO" site_id="21" update="i">HBO</channel>
 
-<channel site="directv.com.ar" xmltv_id="HBO Family (Este)(HBOF)(302)" site_id="302" update="i">HBO Family (Este)(HBOF)(302)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HBO 2" site_id="2127" update="i">HBO 2</channel>
 
-<channel site="directv.com.ar" xmltv_id="PAKA PAKA (ARG)(PAKA)(303)" site_id="303" update="i">PAKA PAKA (ARG)(PAKA)(303)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HBO FAMILY" site_id="335" update="i">HBO FAMILY</channel>
 
-<channel site="directv.com.ar" xmltv_id="Cartoon Network (Sur)(TOON)(304)" site_id="913" update="i">Cartoon Network (Sur)(TOON)(304)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HBO PLUS" site_id="2165" update="i">HBO PLUS</channel>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTV)(305)" site_id="4654" update="i">DIRECTV(DTV)(305)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HISTORY" site_id="178" update="i">HISTORY</channel>
 
-<channel site="directv.com.ar" xmltv_id="Nickelodeon(NICK)(308)" site_id="308" update="i">Nickelodeon(NICK)(308)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HISTORY HD" site_id="1499" update="i">HISTORY HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Nickelodeon HD(NICKHD)(308)" site_id="1308" update="i">Nickelodeon HD(NICKHD)(308)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HOME AND HEALTH" site_id="340" update="i">HOME AND HEALTH</channel>
 
-<channel site="directv.com.ar" xmltv_id="NICK JR(NIKJR)(309)" site_id="4338" update="i">NICK JR(NIKJR)(309)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HOME AND HEALTH HD" site_id="2218" update="i">HOME AND HEALTH HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Nick JR. HD(NIKHD)(309)" site_id="1438" update="i">Nick JR. HD(NIKHD)(309)</channel>
+<channel site="avcsa.com.ar" xmltv_id="HTV" site_id="115" update="i">HTV</channel>
 
-<channel site="directv.com.ar" xmltv_id="Disney Channel (Sur)(DSNY)(312)" site_id="312" update="i">Disney Channel (Sur)(DSNY)(312)</channel>
+<channel site="avcsa.com.ar" xmltv_id="I-SAT" site_id="22" update="i">I-SAT</channel>
 
-<channel site="directv.com.ar" xmltv_id="Disney HD(DISNHD)(312)" site_id="1312" update="i">Disney HD(DISNHD)(312)</channel>
+<channel site="avcsa.com.ar" xmltv_id="INCAA TV" site_id="1605" update="i">INCAA TV</channel>
 
-<channel site="directv.com.ar" xmltv_id="Disney Junior Sur(DSJR)(315)" site_id="315" update="i">Disney Junior Sur(DSJR)(315)</channel>
+<channel site="avcsa.com.ar" xmltv_id="LA100" site_id="758" update="i">LA100</channel>
 
-<channel site="directv.com.ar" xmltv_id="Disney Jr. HD(DSNYJR)(315)" site_id="1477" update="i">Disney Jr. HD(DSNYJR)(315)</channel>
+<channel site="avcsa.com.ar" xmltv_id="LIFETIME" site_id="2788" update="i">LIFETIME</channel>
 
-<channel site="directv.com.ar" xmltv_id="ZooMoo(ZMOO)(321)" site_id="475" update="i">ZooMoo(ZMOO)(321)</channel>
+<channel site="avcsa.com.ar" xmltv_id="M TV" site_id="25" update="i">M TV</channel>
 
-<channel site="directv.com.ar" xmltv_id="Discovery Kids (Sur)(KIDS)(330)" site_id="4070" update="i">Discovery Kids (Sur)(KIDS)(330)</channel>
+<channel site="avcsa.com.ar" xmltv_id="MAGAZINE" site_id="26" update="i">MAGAZINE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Cartoonito(CNTO)(334)" site_id="334" update="i">Cartoonito(CNTO)(334)</channel>
+<channel site="avcsa.com.ar" xmltv_id="MAS CHIC" site_id="108" update="i">MAS CHIC</channel>
 
-<channel site="directv.com.ar" xmltv_id="Eternal Word TV Network(EWTN)(350)" site_id="350" update="i">Eternal Word TV Network(EWTN)(350)</channel>
+<channel site="avcsa.com.ar" xmltv_id="METRO" site_id="27" update="i">METRO</channel>
 
-<channel site="directv.com.ar" xmltv_id="Canal 21 (ARG)(ORBE21)(351)" site_id="291" update="i">Canal 21 (ARG)(ORBE21)(351)</channel>
+<channel site="avcsa.com.ar" xmltv_id="MUNDO FOX" site_id="2581" update="i">MUNDO FOX</channel>
 
-<channel site="directv.com.ar" xmltv_id="Enlace(ENLC)(352)" site_id="352" update="i">Enlace(ENLC)(352)</channel>
+<channel site="avcsa.com.ar" xmltv_id="NAT GEO WILD" site_id="1184" update="i">NAT GEO WILD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Canal LUZ (ARG)(CLUZ)(354)" site_id="4139" update="i">Canal LUZ (ARG)(CLUZ)(354)</channel>
+<channel site="avcsa.com.ar" xmltv_id="NATIONAL GEOGRAPHIC" site_id="164" update="i">NATIONAL GEOGRAPHIC</channel>
 
-<channel site="directv.com.ar" xmltv_id=" Nuevo Tiempo(NTPO)(356)" site_id="4669" update="i"> Nuevo Tiempo(NTPO)(356)</channel>
+<channel site="avcsa.com.ar" xmltv_id="NATIONAL GEOGRAPHIC HD" site_id="2710" update="i">NATIONAL GEOGRAPHIC HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV Cinema(CINE)(400)" site_id="243" update="i">DIRECTV Cinema(CINE)(400)</channel>
+<channel site="avcsa.com.ar" xmltv_id="NICKELODEON" site_id="60" update="i">NICKELODEON</channel>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV Cinema(CINE)(400)" site_id="400" update="i">DIRECTV Cinema(CINE)(400)</channel>
+<channel site="avcsa.com.ar" xmltv_id="PAKAPAKA" site_id="1492" update="i">PAKAPAKA</channel>
 
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(401)" site_id="4039" update="i">¿Cómo comprar Pay-Per-View?(PPV)(401)</channel>
+<channel site="avcsa.com.ar" xmltv_id="PENTHOUSE" site_id="2001" update="i">PENTHOUSE</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(402)" site_id="402" update="i">PPV(PPV)(402)</channel>
+<channel site="avcsa.com.ar" xmltv_id="PLAYBOY" site_id="114" update="i">PLAYBOY</channel>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTV)(403)" site_id="4656" update="i">DIRECTV(DTV)(403)</channel>
+<channel site="avcsa.com.ar" xmltv_id="QM NOTICIAS" site_id="2296" update="i">QM NOTICIAS</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(404)" site_id="404" update="i">PPV(PPV)(404)</channel>
+<channel site="avcsa.com.ar" xmltv_id="QUIERO MUSICA" site_id="779" update="i">QUIERO MUSICA</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(406)" site_id="406" update="i">PPV(PPV)(406)</channel>
+<channel site="avcsa.com.ar" xmltv_id="RADIO CONTINENTAL AM 590" site_id="1680" update="i">RADIO CONTINENTAL AM 590</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(408)" site_id="408" update="i">PPV(PPV)(408)</channel>
+<channel site="avcsa.com.ar" xmltv_id="RADIO MITRE 790" site_id="757" update="i">RADIO MITRE 790</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(410)" site_id="410" update="i">PPV(PPV)(410)</channel>
+<channel site="avcsa.com.ar" xmltv_id="RAI" site_id="29" update="i">RAI</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(412)" site_id="412" update="i">PPV(PPV)(412)</channel>
+<channel site="avcsa.com.ar" xmltv_id="RT TV" site_id="1502" update="i">RT TV</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(414)" site_id="414" update="i">PPV(PPV)(414)</channel>
+<channel site="avcsa.com.ar" xmltv_id="SEMBRANDO" site_id="380" update="i">SEMBRANDO</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(416)" site_id="416" update="i">PPV(PPV)(416)</channel>
+<channel site="avcsa.com.ar" xmltv_id="SONY" site_id="32" update="i">SONY</channel>
 
-<channel site="directv.com.ar" xmltv_id="PPV(PPV)(418)" site_id="418" update="i">PPV(PPV)(418)</channel>
+<channel site="avcsa.com.ar" xmltv_id="SONY HD" site_id="1579" update="i">SONY HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV SMS Adulto(SMS)(460)" site_id="460" update="i">DIRECTV SMS Adulto(SMS)(460)</channel>
+<channel site="avcsa.com.ar" xmltv_id="SPACE" site_id="33" update="i">SPACE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Directv SMS Adulto(SMSHD)(460)" site_id="1887" update="i">Directv SMS Adulto(SMSHD)(460)</channel>
+<channel site="avcsa.com.ar" xmltv_id="SPACE HD" site_id="1257" update="i">SPACE HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Playboy TV(PBTV)(464)" site_id="464" update="i">Playboy TV(PBTV)(464)</channel>
+<channel site="avcsa.com.ar" xmltv_id="STUDIO UNIVERSAL" site_id="77" update="i">STUDIO UNIVERSAL</channel>
 
-<channel site="directv.com.ar" xmltv_id="Venus(VNUS)(468)" site_id="468" update="i">Venus(VNUS)(468)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TBS VERYFUNNY" site_id="1967" update="i">TBS VERYFUNNY</channel>
 
-<channel site="directv.com.ar" xmltv_id="XTSY(XTSY)(469)" site_id="469" update="i">XTSY(XTSY)(469)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TCM" site_id="328" update="i">TCM</channel>
 
-<channel site="directv.com.ar" xmltv_id="HustlerTV(HUST)(470)" site_id="470" update="i">HustlerTV(HUST)(470)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TECNOPOLIS" site_id="1999" update="i">TECNOPOLIS</channel>
 
-<channel site="directv.com.ar" xmltv_id="OnDIRECTV (Sur)(ODTV)(500)" site_id="366" update="i">OnDIRECTV (Sur)(ODTV)(500)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TELEFE" site_id="35" update="i">TELEFE</channel>
 
-<channel site="directv.com.ar" xmltv_id="TNT (SUR)(TNT)(502)" site_id="915" update="i">TNT (SUR)(TNT)(502)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TELESUR" site_id="388" update="i">TELESUR</channel>
 
-<channel site="directv.com.ar" xmltv_id="Golden TV(GLDN)(503)" site_id="503" update="i">Golden TV(GLDN)(503)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TN" site_id="36" update="i">TN</channel>
 
-<channel site="directv.com.ar" xmltv_id="Turner Classic Movies(TCM)(504)" site_id="504" update="i">Turner Classic Movies(TCM)(504)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TNT" site_id="37" update="i">TNT</channel>
 
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTV)(505)" site_id="4657" update="i">DIRECTV(DTV)(505)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TNT HD" site_id="1606" update="i">TNT HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Sony Movies(SOMVHD)(506)" site_id="1886" update="i">Sony Movies(SOMVHD)(506)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TNT SERIES" site_id="2999" update="i">TNT SERIES</channel>
 
-<channel site="directv.com.ar" xmltv_id="Sony Movies(SOMV)(506)" site_id="4590" update="i">Sony Movies(SOMV)(506)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TRU TV" site_id="912" update="i">TRU TV</channel>
 
-<channel site="directv.com.ar" xmltv_id="Cinecanal (ARG)(CC)(507)" site_id="4226" update="i">Cinecanal (ARG)(CC)(507)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TRU TV HD" site_id="1260" update="i">TRU TV HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="Studio Universal(STUN)(508)" site_id="508" update="i">Studio Universal(STUN)(508)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TVE" site_id="59" update="i">TVE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Studio Universal HD(STUNHD)(508)" site_id="1508" update="i">Studio Universal HD(STUNHD)(508)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TVN CHILE" site_id="39" update="i">TVN CHILE</channel>
 
-<channel site="directv.com.ar" xmltv_id="Cinemax Sur(CMAX)(509)" site_id="4219" update="i">Cinemax Sur(CMAX)(509)</channel>
+<channel site="avcsa.com.ar" xmltv_id="TYC SPORTS" site_id="40" update="i">TYC SPORTS</channel>
 
-<channel site="directv.com.ar" xmltv_id="Cinemax HD (Sur)(CMAXHD)(509)" site_id="1491" update="i">Cinemax HD (Sur)(CMAXHD)(509)</channel>
+<channel site="avcsa.com.ar" xmltv_id="UNIVERSAL CHANNEL" site_id="327" update="i">UNIVERSAL CHANNEL</channel>
 
-<channel site="directv.com.ar" xmltv_id="Paramount HD(PRMTHD)(510)" site_id="1087" update="i">Paramount HD(PRMTHD)(510)</channel>
+<channel site="avcsa.com.ar" xmltv_id="VENUS" site_id="44" update="i">VENUS</channel>
 
-<channel site="directv.com.ar" xmltv_id="Paramount Network(PRMT)(510)" site_id="824" update="i">Paramount Network(PRMT)(510)</channel>
+<channel site="avcsa.com.ar" xmltv_id="VOLVER" site_id="45" update="i">VOLVER</channel>
 
-<channel site="directv.com.ar" xmltv_id="CINE.AR (ARG)(CNAR)(512)" site_id="512" update="i">CINE.AR (ARG)(CNAR)(512)</channel>
+<channel site="avcsa.com.ar" xmltv_id="WARNER CHANNEL" site_id="46" update="i">WARNER CHANNEL</channel>
 
-<channel site="directv.com.ar" xmltv_id="DHE(DHE)(513)" site_id="4459" update="i">DHE(DHE)(513)</channel>
+<channel site="avcsa.com.ar" xmltv_id="WARNER HD" site_id="1800" update="i">WARNER HD</channel>
 
-<channel site="directv.com.ar" xmltv_id="DHE HD(DHEHD)(513)" site_id="1743" update="i">DHE HD(DHEHD)(513)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Cinelatino(CL)(514)" site_id="514" update="i">Cinelatino(CL)(514)</channel>
-
-<channel site="directv.com.ar" xmltv_id="De Película(DPEL)(516)" site_id="516" update="i">De Película(DPEL)(516)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Golden Edge(EDGE)(517)" site_id="517" update="i">Golden Edge(EDGE)(517)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Space (Sur)(SPAC)(518)" site_id="911" update="i">Space (Sur)(SPAC)(518)</channel>
-
-<channel site="directv.com.ar" xmltv_id="I-SAT(ISAT)(520)" site_id="520" update="i">I-SAT(ISAT)(520)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO NEXT(NEXT)(522)" site_id="270" update="i">HBO NEXT(NEXT)(522)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO NEXT HD(NEXTHD)(522)" site_id="1339" update="i">HBO NEXT HD(NEXTHD)(522)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO (Este)(HBOE)(524)" site_id="524" update="i">HBO (Este)(HBOE)(524)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO HD(HBOHD)(524)" site_id="1524" update="i">HBO HD(HBOHD)(524)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO2(HBO2)(525)" site_id="525" update="i">HBO2(HBO2)(525)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO2HD(HBO2HD)(525)" site_id="1197" update="i">HBO2HD(HBO2HD)(525)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Plus (Este)(HBOP)(526)" site_id="526" update="i">HBO Plus (Este)(HBOP)(526)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Signature HD(HBOSHD)(528)" site_id="1528" update="i">HBO Signature HD(HBOSHD)(528)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Signature(HBOS)(528)" site_id="528" update="i">HBO Signature(HBOS)(528)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Family HD(HBOFHD)(534)" site_id="1534" update="i">HBO Family HD(HBOFHD)(534)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Family (Este)(HBOF)(534)" site_id="534" update="i">HBO Family (Este)(HBOF)(534)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Mundi(HBOMUN)(540)" site_id="540" update="i">HBO Mundi(HBOMUN)(540)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Pop(HBOPOP)(541)" site_id="971" update="i">HBO Pop(HBOPOP)(541)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Xtreme(HBOXTM)(542)" site_id="542" update="i">HBO Xtreme(HBOXTM)(542)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Xtreme(HBOXTM)(542)" site_id="1542" update="i">HBO Xtreme(HBOXTM)(542)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Next(NEXT)(544)" site_id="271" update="i">HBO Next(NEXT)(544)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO NEXT HD(NEXTHD)(544)" site_id="1340" update="i">HBO NEXT HD(NEXTHD)(544)</channel>
-
-<channel site="directv.com.ar" xmltv_id="OnDIRECTV (Sur)(ODTV)(550)" site_id="351" update="i">OnDIRECTV (Sur)(ODTV)(550)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Cómo Contratar Premium(INFO)(551)" site_id="4310" update="i">Cómo Contratar Premium(INFO)(551)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Cómo Contratar Premium HD(INFOHD)(551)" site_id="1341" update="i">Cómo Contratar Premium HD(INFOHD)(551)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Premiere Este HD(UPREHD)(571)" site_id="1858" update="i">Universal Premiere Este HD(UPREHD)(571)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Premiere Este(UPRE)(571)" site_id="4559" update="i">Universal Premiere Este(UPRE)(571)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Cinema(UNCI)(572)" site_id="4560" update="i">Universal Cinema(UNCI)(572)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Cinema HD(UNCIHD)(572)" site_id="1860" update="i">Universal Cinema HD(UNCIHD)(572)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Comedy HD(UNCYHD)(573)" site_id="1862" update="i">Universal Comedy HD(UNCYHD)(573)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Comedy(UNCY)(573)" site_id="4561" update="i">Universal Comedy(UNCY)(573)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Crime Este HD(UNCEHD)(574)" site_id="1873" update="i">Universal Crime Este HD(UNCEHD)(574)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Crime Este(UNCE)(574)" site_id="4562" update="i">Universal Crime Este(UNCE)(574)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Reality HD(UNREHD)(575)" site_id="1851" update="i">Universal Reality HD(UNREHD)(575)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Reality(UNRE)(575)" site_id="4556" update="i">Universal Reality(UNRE)(575)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Premiere Oeste HD(UPROHD)(576)" site_id="1853" update="i">Universal Premiere Oeste HD(UPROHD)(576)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Premiere Oeste(UPRO)(576)" site_id="4557" update="i">Universal Premiere Oeste(UPRO)(576)</channel>
-
-<channel site="directv.com.ar" xmltv_id="UNIVERSAL Cinema West(UNCO)(577)" site_id="4558" update="i">UNIVERSAL Cinema West(UNCO)(577)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Crime Oeste HD(UNCOHD)(577)" site_id="1855" update="i">Universal Crime Oeste HD(UNCOHD)(577)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Bienvenido a DIRECTV!(DTV)(599)" site_id="599" update="i">Bienvenido a DIRECTV!(DTV)(599)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Portal DIRECTV Sports(DTVS)(600)" site_id="4061" update="i">Portal DIRECTV Sports(DTVS)(600)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TNT SPORTS HD(TNTSHD)(603)" site_id="1295" update="i">TNT SPORTS HD(TNTSHD)(603)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TNT Sports(TNTS)(603)" site_id="4222" update="i">TNT Sports(TNTS)(603)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN Premium (SD)(ESPP)(604)" site_id="4221" update="i">ESPN Premium (SD)(ESPP)(604)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FOX Sports (ARG) (FOXA)(605)" site_id="605" update="i">FOX Sports (ARG) (FOXA)(605)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FOX Sports 2 Argentina(FS2A)(606)" site_id="4220" update="i">FOX Sports 2 Argentina(FS2A)(606)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FOX Sports 2(FXS2)(608)" site_id="3082" update="i">FOX Sports 2(FXS2)(608)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FOX Sports 3(FXS3)(609)" site_id="3081" update="i">FOX Sports 3(FXS3)(609)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS (ARG)(DTSA)(610)" site_id="3125" update="i">DSPORTS (ARG)(DTSA)(610)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS 2 (DTS2)(612)" site_id="612" update="i">DSPORTS 2 (DTS2)(612)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS +(DTS+)(613)" site_id="179" update="i">DSPORTS +(DTS+)(613)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS Fight(DTSF)(620)" site_id="4576" update="i">DSPORTS Fight(DTSF)(620)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS Fight(DTSFHD)(620)" site_id="1877" update="i">DSPORTS Fight(DTSFHD)(620)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN Argentina SD(ESPN)(621)" site_id="623" update="i">ESPN Argentina SD(ESPN)(621)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN 2 Latin Sur(ESP2)(622)" site_id="620" update="i">ESPN 2 Latin Sur(ESP2)(622)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN 3 Sur(ESPN3S)(623)" site_id="4543" update="i">ESPN 3 Sur(ESPN3S)(623)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Golf Channel(GOLF)(628)" site_id="628" update="i">Golf Channel(GOLF)(628)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Golf Channel HD(GOLFHD)(628)" site_id="1080" update="i">Golf Channel HD(GOLFHD)(628)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TyC Sports(TYCS)(629)" site_id="629" update="i">TyC Sports(TYCS)(629)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS (ARG) (DTSA)(630)" site_id="4687" update="i">DSPORTS (ARG) (DTSA)(630)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSports Radio(DTSR)(631)" site_id="4592" update="i">DSports Radio(DTSR)(631)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTV)(650)" site_id="4658" update="i">DIRECTV(DTV)(650)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DeporTV(DXTV)(656)" site_id="856" update="i">DeporTV(DXTV)(656)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DeporTV HD(DXTVHD)(656)" site_id="1082" update="i">DeporTV HD(DXTVHD)(656)</channel>
-
-<channel site="directv.com.ar" xmltv_id="NBA Pass(NBA)(675)" site_id="675" update="i">NBA Pass(NBA)(675)</channel>
-
-<channel site="directv.com.ar" xmltv_id="NBA Pass(NBA)(676)" site_id="676" update="i">NBA Pass(NBA)(676)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DNews(DNEW)(700)" site_id="4594" update="i">DNews(DNEW)(700)</channel>
-
-<channel site="directv.com.ar" xmltv_id="CNN en español(CNNE)(704)" site_id="704" update="i">CNN en español(CNNE)(704)</channel>
-
-<channel site="directv.com.ar" xmltv_id="CNN International(CNNI)(706)" site_id="706" update="i">CNN International(CNNI)(706)</channel>
-
-<channel site="directv.com.ar" xmltv_id="CNN Chile(CNNC)(707)" site_id="707" update="i">CNN Chile(CNNC)(707)</channel>
-
-<channel site="directv.com.ar" xmltv_id="24 Horas(24HR)(708)" site_id="708" update="i">24 Horas(24HR)(708)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Bloomberg Television(BTV)(710)" site_id="710" update="i">Bloomberg Television(BTV)(710)</channel>
-
-<channel site="directv.com.ar" xmltv_id="La Nacion + HD(LN+HD)(715)" site_id="1715" update="i">La Nacion + HD(LN+HD)(715)</channel>
-
-<channel site="directv.com.ar" xmltv_id="La Nacion +(LN+)(715)" site_id="4145" update="i">La Nacion +(LN+)(715)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TN Todo Noticias(TNOT)(716)" site_id="716" update="i">TN Todo Noticias(TNOT)(716)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TN Noticias HD(TNOTHD)(716)" site_id="1716" update="i">TN Noticias HD(TNOTHD)(716)</channel>
-
-<channel site="directv.com.ar" xmltv_id="C5N Canal 5 Noticias (ARG)(C5N)(717)" site_id="717" update="i">C5N Canal 5 Noticias (ARG)(C5N)(717)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Crónica TV (ARG)(CRON)(718)" site_id="718" update="i">Crónica TV (ARG)(CRON)(718)</channel>
-
-<channel site="directv.com.ar" xmltv_id="A24(A24)(719)" site_id="719" update="i">A24(A24)(719)</channel>
-
-<channel site="directv.com.ar" xmltv_id="A24 HD(A24HD)(719)" site_id="1719" update="i">A24 HD(A24HD)(719)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Canal 26 HD(CA26HD)(720)" site_id="1720" update="i">Canal 26 HD(CA26HD)(720)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Canal 26 (ARG).(CA26)(720)" site_id="720" update="i">Canal 26 (ARG).(CA26)(720)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Informacion Periodística(IPHD)(721)" site_id="1794" update="i">Informacion Periodística(IPHD)(721)</channel>
-
-<channel site="directv.com.ar" xmltv_id="NTN 24 - Nuestra Tele noticias 24HS(NT24)(725)" site_id="725" update="i">NTN 24 - Nuestra Tele noticias 24HS(NT24)(725)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Telemax(TMAX)(726)" site_id="973" update="i">Telemax(TMAX)(726)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Cable Noticias de Colombia(CNOT)(727)" site_id="727" update="i">Cable Noticias de Colombia(CNOT)(727)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Canal Rural(CRUR)(728)" site_id="125" update="i">Canal Rural(CRUR)(728)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Construir TV(CRTV)(729)" site_id="995" update="i">Construir TV(CRTV)(729)</channel>
-
-<channel site="directv.com.ar" xmltv_id="National Geographic (Sur)(NGEO)(730)" site_id="862" update="i">National Geographic (Sur)(NGEO)(730)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Discovery Channel (Sur)(DISC)(732)" site_id="4055" update="i">Discovery Channel (Sur)(DISC)(732)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Animal Planet(ANML)(734)" site_id="734" update="i">Animal Planet(ANML)(734)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Animal Planet HD(ANMLHD)(734)" site_id="1734" update="i">Animal Planet HD(ANMLHD)(734)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Discovery Turbo(TRBO)(736)" site_id="389" update="i">Discovery Turbo(TRBO)(736)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TLC HD(TLCHD)(740)" site_id="1740" update="i">TLC HD(TLCHD)(740)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TLC - Travel & Living Channel(TLC)(740)" site_id="740" update="i">TLC - Travel & Living Channel(TLC)(740)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Sun Channel(SUNC)(741)" site_id="741" update="i">Sun Channel(SUNC)(741)</channel>
-
-<channel site="directv.com.ar" xmltv_id="History (Sur)(THC)(742)" site_id="4032" update="i">History (Sur)(THC)(742)</channel>
-
-<channel site="directv.com.ar" xmltv_id="History 2(H2)(744)" site_id="471" update="i">History 2(H2)(744)</channel>
-
-<channel site="directv.com.ar" xmltv_id="H2 HD(H2HD)(744)" site_id="1744" update="i">H2 HD(H2HD)(744)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Film & Arts(F&A)(746)" site_id="746" update="i">Film & Arts(F&A)(746)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Univision(UNI)(760)" site_id="4534" update="i">Univision(UNI)(760)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Antena 3 Internacional(ANT3)(762)" site_id="762" update="i">Antena 3 Internacional(ANT3)(762)</channel>
-
-<channel site="directv.com.ar" xmltv_id="RAI International (RAI)(766)" site_id="766" update="i">RAI International (RAI)(766)</channel>
-
-<channel site="directv.com.ar" xmltv_id="BBC World News(BBC)(768)" site_id="768" update="i">BBC World News(BBC)(768)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Deutsche Welle(DW)(770)" site_id="770" update="i">Deutsche Welle(DW)(770)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Caracol Internacional(CRCL)(772)" site_id="772" update="i">Caracol Internacional(CRCL)(772)</channel>
-
-<channel site="directv.com.ar" xmltv_id="El Tiempo(TMPO)(773)" site_id="729" update="i">El Tiempo(TMPO)(773)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TV Chile(TVCL)(774)" site_id="774" update="i">TV Chile(TVCL)(774)</channel>
-
-<channel site="directv.com.ar" xmltv_id="RCN Nuestra Tele(NTEL)(775)" site_id="775" update="i">RCN Nuestra Tele(NTEL)(775)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Globo Internacional(GLBO)(776)" site_id="776" update="i">Globo Internacional(GLBO)(776)</channel>
-
-<channel site="directv.com.ar" xmltv_id="RTP Internacional(RTPI)(778)" site_id="778" update="i">RTP Internacional(RTPI)(778)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ZEE TV(ZEE)(780)" site_id="814" update="i">ZEE TV(ZEE)(780)</channel>
-
-<channel site="directv.com.ar" xmltv_id="NHK World TV(NHK)(782)" site_id="782" update="i">NHK World TV(NHK)(782)</channel>
-
-<channel site="directv.com.ar" xmltv_id="VTV (URU)(VTV)(788)" site_id="788" update="i">VTV (URU)(VTV)(788)</channel>
-
-<channel site="directv.com.ar" xmltv_id="VTV PLUS(VTV PLUS)(789)" site_id="4506" update="i">VTV PLUS(VTV PLUS)(789)</channel>
-
-<channel site="directv.com.ar" xmltv_id="CGTN-Español(CGTN)(790)" site_id="4388" update="i">CGTN-Español(CGTN)(790)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TV Perú(TV7)(795)" site_id="4473" update="i">TV Perú(TV7)(795)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS(DTSR)(901)" site_id="4591" update="i">DSPORTS(DTSR)(901)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FM ASPEN(FMAS)(973)" site_id="4246" update="i">FM ASPEN(FMAS)(973)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Radio Nacional(RN)(974)" site_id="4214" update="i">Radio Nacional(RN)(974)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Radio del Plata (ARG)(AMDP)(976)" site_id="976" update="i">Radio del Plata (ARG)(AMDP)(976)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Radio Disney (ARG)(RADS)(977)" site_id="977" update="i">Radio Disney (ARG)(RADS)(977)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Unión Radio Noticias(CNUR)(980)" site_id="980" update="i">Unión Radio Noticias(CNUR)(980)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FM Latina 101.1 (ARG)(1011)(981)" site_id="981" update="i">FM Latina 101.1 (ARG)(1011)(981)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Radio Caracol(CARA)(982)" site_id="982" update="i">Radio Caracol(CARA)(982)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Radio France Internationale(RFI)(984)" site_id="984" update="i">Radio France Internationale(RFI)(984)</channel>
-
-<channel site="directv.com.ar" xmltv_id="OnDIRECTV (Sur)(ODTV)(999)" site_id="360" update="i">OnDIRECTV (Sur)(ODTV)(999)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Next Generation(NGENHD)(1000)" site_id="1782" update="i">Next Generation(NGENHD)(1000)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTVHD)(1001)" site_id="1902" update="i">DIRECTV(DTVHD)(1001)</channel>
-
-<channel site="directv.com.ar" xmltv_id="América TV HD (ARG)(AME2HD)(1120)" site_id="1135" update="i">América TV HD (ARG)(AME2HD)(1120)</channel>
-
-<channel site="directv.com.ar" xmltv_id="La TV Pública HD (ARG)(CAN7HD)(1121)" site_id="1017" update="i">La TV Pública HD (ARG)(CAN7HD)(1121)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Canal 9 HD (ARG)(CAN9HD)(1122)" site_id="1122" update="i">Canal 9 HD (ARG)(CAN9HD)(1122)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Telefe HD (ARG)(TF11HD)(1123)" site_id="1669" update="i">Telefe HD (ARG)(TF11HD)(1123)</channel>
-
-<channel site="directv.com.ar" xmltv_id="El Trece HD (ARG)(AR13HD)(1124)" site_id="1589" update="i">El Trece HD (ARG)(AR13HD)(1124)</channel>
-
-<channel site="directv.com.ar" xmltv_id="NET TV HD (ARG)(NETVHD)(1125)" site_id="1647" update="i">NET TV HD (ARG)(NETVHD)(1125)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV SERIES HD(DTVSE)(1200)" site_id="1517" update="i">DIRECTV SERIES HD(DTVSE)(1200)</channel>
-
-<channel site="directv.com.ar" xmltv_id="OnDIRECTV HD (Sur)(ODTVHD)(1201)" site_id="1107" update="i">OnDIRECTV HD (Sur)(ODTVHD)(1201)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTVHD)(1202)" site_id="1904" update="i">DIRECTV(DTVHD)(1202)</channel>
-
-<channel site="directv.com.ar" xmltv_id="STAR Channel HD(STAR)(1204)" site_id="1188" update="i">STAR Channel HD(STAR)(1204)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Warner Channel HD(WTVHD)(1206)" site_id="1206" update="i">Warner Channel HD(WTVHD)(1206)</channel>
-
-<channel site="directv.com.ar" xmltv_id="A&E HD(A&EHD)(1207)" site_id="1377" update="i">A&E HD(A&EHD)(1207)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Sony Entertainment HD(SONYHD)(1208)" site_id="1041" update="i">Sony Entertainment HD(SONYHD)(1208)</channel>
-
-<channel site="directv.com.ar" xmltv_id="AXN HD(AXNHD)(1209)" site_id="1774" update="i">AXN HD(AXNHD)(1209)</channel>
-
-<channel site="directv.com.ar" xmltv_id="AMC HD(AMCHD)(1210)" site_id="1573" update="i">AMC HD(AMCHD)(1210)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TNT Series HD(TNTSHD)(1213)" site_id="3213" update="i">TNT Series HD(TNTSHD)(1213)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Atres Series HD(A3SEHD)(1214)" site_id="3214" update="i">Atres Series HD(A3SEHD)(1214)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Comedy Central HD(CMDYHD)(1215)" site_id="1215" update="i">Comedy Central HD(CMDYHD)(1215)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FX HD(FXHD)(1217)" site_id="3084" update="i">FX HD(FXHD)(1217)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal TV HD (Sur)(UNIHD)(1218)" site_id="1536" update="i">Universal TV HD (Sur)(UNIHD)(1218)</channel>
-
-<channel site="directv.com.ar" xmltv_id="SyFy HD(SYFYHD)(1219)" site_id="1381" update="i">SyFy HD(SYFYHD)(1219)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Hola TV HD(HOLAHD)(1221)" site_id="1090" update="i">Hola TV HD(HOLAHD)(1221)</channel>
-
-<channel site="directv.com.ar" xmltv_id="E! Entertainment HD(E!HD)(1222)" site_id="1523" update="i">E! Entertainment HD(E!HD)(1222)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Discovery ID HD(IDHD)(1223)" site_id="1586" update="i">Discovery ID HD(IDHD)(1223)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Pasiones HD(PASHD)(1225)" site_id="1665" update="i">Pasiones HD(PASHD)(1225)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Lifetime HD(LIFEHD)(1228)" site_id="1182" update="i">Lifetime HD(LIFEHD)(1228)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Discovery Home & Health HD(DH&HHD)(1229)" site_id="1229" update="i">Discovery Home & Health HD(DH&HHD)(1229)</channel>
-
-<channel site="directv.com.ar" xmltv_id="El Gourmet HD(GOURHD)(1232)" site_id="1751" update="i">El Gourmet HD(GOURHD)(1232)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Food Network HD(FOODHD)(1233)" site_id="1590" update="i">Food Network HD(FOODHD)(1233)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Home & Garden TV HD(HGTVHD)(1234)" site_id="1493" update="i">Home & Garden TV HD(HGTVHD)(1234)</channel>
-
-<channel site="directv.com.ar" xmltv_id="IVC Internacional HD(IVCHD)(1235)" site_id="1479" update="i">IVC Internacional HD(IVCHD)(1235)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Magazine HD(MAGAHD)(1236)" site_id="1541" update="i">Magazine HD(MAGAHD)(1236)</channel>
-
-<channel site="directv.com.ar" xmltv_id="VePLUS HD(Ve+HD)(1237)" site_id="1544" update="i">VePLUS HD(Ve+HD)(1237)</channel>
-
-<channel site="directv.com.ar" xmltv_id="MTV HD(MTVHD)(1264)" site_id="1383" update="i">MTV HD(MTVHD)(1264)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Music Top HD(MTOPHD)(1265)" site_id="1422" update="i">Music Top HD(MTOPHD)(1265)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Tierra Mia HD(TMIAHD)(1266)" site_id="1535" update="i">Tierra Mia HD(TMIAHD)(1266)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Quiero Mi Musica en Mi Idioma HD(QMMIHD)(1269)" site_id="1539" update="i">Quiero Mi Musica en Mi Idioma HD(QMMIHD)(1269)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTVHD)(1302)" site_id="1905" update="i">DIRECTV(DTVHD)(1302)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Cartoon Network HD(TOONHD)(1304)" site_id="1304" update="i">Cartoon Network HD(TOONHD)(1304)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Nickelodeon HD(NICKHD)(1308)" site_id="1656" update="i">Nickelodeon HD(NICKHD)(1308)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Nick JR. HD(NIKHD)(1309)" site_id="1649" update="i">Nick JR. HD(NIKHD)(1309)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Disney HD(DISNHD)(1312)" site_id="3312" update="i">Disney HD(DISNHD)(1312)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Disney Jr. HD(DSNYJR)(1315)" site_id="1587" update="i">Disney Jr. HD(DSNYJR)(1315)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Baby TV HD(BABYTV)(1317)" site_id="1317" update="i">Baby TV HD(BABYTV)(1317)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Discovery Kids HD(KIDSHD)(1330)" site_id="1145" update="i">Discovery Kids HD(KIDSHD)(1330)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTVHD)(1400)" site_id="1906" update="i">DIRECTV(DTVHD)(1400)</channel>
-
-<channel site="directv.com.ar" xmltv_id="PPV HD(PPVHD)(1402)" site_id="1402" update="i">PPV HD(PPVHD)(1402)</channel>
-
-<channel site="directv.com.ar" xmltv_id="PPV HD(PPVHD)(1404)" site_id="1404" update="i">PPV HD(PPVHD)(1404)</channel>
-
-<channel site="directv.com.ar" xmltv_id="PPVHD(PPVHD)(1406)" site_id="1406" update="i">PPVHD(PPVHD)(1406)</channel>
-
-<channel site="directv.com.ar" xmltv_id="PPV HD(PPVHD)(1408)" site_id="1471" update="i">PPV HD(PPVHD)(1408)</channel>
-
-<channel site="directv.com.ar" xmltv_id="PPV HD(PPVHD)(1410)" site_id="1472" update="i">PPV HD(PPVHD)(1410)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TNT HD(TNTHD)(1502)" site_id="1502" update="i">TNT HD(TNTHD)(1502)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Golden HD(GLDNHD)(1503)" site_id="1126" update="i">Golden HD(GLDNHD)(1503)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTVHD)(1504)" site_id="1907" update="i">DIRECTV(DTVHD)(1504)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Sony Movies HD(SOMVHD)(1506)" site_id="1885" update="i">Sony Movies HD(SOMVHD)(1506)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Cinecanal HD(CCHD)(1507)" site_id="1507" update="i">Cinecanal HD(CCHD)(1507)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Studio Universal HD(STUNHD)(1508)" site_id="1666" update="i">Studio Universal HD(STUNHD)(1508)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Cinemax HD (Sur)(CMAXHD)(1509)" site_id="1582" update="i">Cinemax HD (Sur)(CMAXHD)(1509)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Paramount Network HD(PRMTHD)(1510)" site_id="1510" update="i">Paramount Network HD(PRMTHD)(1510)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DHE HD(DHEHD)(1513)" site_id="1741" update="i">DHE HD(DHEHD)(1513)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Europa Europa HD(EUROHD)(1515)" site_id="1515" update="i">Europa Europa HD(EUROHD)(1515)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Space HD(SPCHD)(1518)" site_id="1518" update="i">Space HD(SPCHD)(1518)</channel>
-
-<channel site="directv.com.ar" xmltv_id="A3Cine HD(A3CHD)(1519)" site_id="1519" update="i">A3Cine HD(A3CHD)(1519)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TV Cortos HD(TVCOHD)(1521)" site_id="1521" update="i">TV Cortos HD(TVCOHD)(1521)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO HD(HBOHD)(1524)" site_id="1442" update="i">HBO HD(HBOHD)(1524)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO2HD(HBO2HD)(1525)" site_id="1597" update="i">HBO2HD(HBO2HD)(1525)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Signature HD(HBOSHD)(1528)" site_id="1103" update="i">HBO Signature HD(HBOSHD)(1528)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Plus HD(HBOPHD)(1532)" site_id="1143" update="i">HBO Plus HD(HBOPHD)(1532)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Family HD(HBOFHD)(1534)" site_id="1190" update="i">HBO Family HD(HBOFHD)(1534)</channel>
-
-<channel site="directv.com.ar" xmltv_id="HBO Xtreme(HBOXTM)(1542)" site_id="3542" update="i">HBO Xtreme(HBOXTM)(1542)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Cómo Contratar Premium HD(INFOHD)(1551)" site_id="1343" update="i">Cómo Contratar Premium HD(INFOHD)(1551)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Premiere Este HD(UPREHD)(1571)" site_id="1857" update="i">Universal Premiere Este HD(UPREHD)(1571)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Cinema HD(UNCIHD)(1572)" site_id="1859" update="i">Universal Cinema HD(UNCIHD)(1572)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Comedy HD(UNCYHD)(1573)" site_id="1861" update="i">Universal Comedy HD(UNCYHD)(1573)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Crime Este HD(UNCEHD)(1574)" site_id="1863" update="i">Universal Crime Este HD(UNCEHD)(1574)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Reality HD(UNREHD)(1575)" site_id="1852" update="i">Universal Reality HD(UNREHD)(1575)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Universal Premiere Oeste HD(UPROHD)(1576)" site_id="1854" update="i">Universal Premiere Oeste HD(UPROHD)(1576)</channel>
-
-<channel site="directv.com.ar" xmltv_id="UNIVERSAL Cinema West(UNCOHD)(1577)" site_id="1856" update="i">UNIVERSAL Cinema West(UNCOHD)(1577)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ACTIVA FÚTBOL ARGENTINO HD(FUTBHD)(1602)" site_id="1344" update="i">ACTIVA FÚTBOL ARGENTINO HD(FUTBHD)(1602)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TNT SPORTS HD(TNTSHD)(1603)" site_id="1674" update="i">TNT SPORTS HD(TNTSHD)(1603)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN Premium (HD)(ESPHD)(1604)" site_id="1294" update="i">ESPN Premium (HD)(ESPHD)(1604)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FOX Sports Argentina HD(FOXAHD)(1605)" site_id="1605" update="i">FOX Sports Argentina HD(FOXAHD)(1605)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Fox Sports2 HD ARG(FX2HD)(1606)" site_id="1335" update="i">Fox Sports2 HD ARG(FX2HD)(1606)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FOX Sports 2 HD(FSP2HD)(1608)" site_id="1608" update="i">FOX Sports 2 HD(FSP2HD)(1608)</channel>
-
-<channel site="directv.com.ar" xmltv_id="FOX Sports 3 HD(FXS3HD)(1609)" site_id="1609" update="i">FOX Sports 3 HD(FXS3HD)(1609)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS (ARG)(DTSAHD)(1610)" site_id="1099" update="i">DSPORTS (ARG)(DTSAHD)(1610)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS 2 HD(DTV2HD)(1612)" site_id="1084" update="i">DSPORTS 2 HD(DTV2HD)(1612)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS + HD(DTS+HD)(1613)" site_id="1032" update="i">DSPORTS + HD(DTS+HD)(1613)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS Fight(DTSFHD)(1620)" site_id="1876" update="i">DSPORTS Fight(DTSFHD)(1620)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN Argentina HD (ESPNHD)(1621)" site_id="1623" update="i">ESPN Argentina HD (ESPNHD)(1621)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN 2 Latin Sur HD(ESP2HD)(1622)" site_id="1177" update="i">ESPN 2 Latin Sur HD(ESP2HD)(1622)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN 3 Sur HD(ESP3HD)(1623)" site_id="1829" update="i">ESPN 3 Sur HD(ESP3HD)(1623)</channel>
-
-<channel site="directv.com.ar" xmltv_id="ESPN Extra HD(ESPXHD)(1625)" site_id="1620" update="i">ESPN Extra HD(ESPXHD)(1625)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Golf Channel HD(GOLFHD)(1628)" site_id="1382" update="i">Golf Channel HD(GOLFHD)(1628)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TyC Sports HD(TYCHD)(1629)" site_id="1629" update="i">TyC Sports HD(TYCHD)(1629)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSPORTS (ARG)(DTSAHD)(1630)" site_id="1153" update="i">DSPORTS (ARG)(DTSAHD)(1630)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DSports Radio(DTSR)(1631)" site_id="4593" update="i">DSports Radio(DTSR)(1631)</channel>
-
-<channel site="directv.com.ar" xmltv_id="PX Sports HD(PXSHD)(1639)" site_id="1775" update="i">PX Sports HD(PXSHD)(1639)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTVHD)(1650)" site_id="1908" update="i">DIRECTV(DTVHD)(1650)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DeporTV HD(DXTVHD)(1656)" site_id="1584" update="i">DeporTV HD(DXTVHD)(1656)</channel>
-
-<channel site="directv.com.ar" xmltv_id="NBA TV HD(NBATV)(1677)" site_id="1677" update="i">NBA TV HD(NBATV)(1677)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DNews HD(DNEWHD)(1700)" site_id="1901" update="i">DNews HD(DNEWHD)(1700)</channel>
-
-<channel site="directv.com.ar" xmltv_id="La Nacion + HD(LN+HD)(1715)" site_id="1598" update="i">La Nacion + HD(LN+HD)(1715)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TN Noticias HD(TNOTHD)(1716)" site_id="1672" update="i">TN Noticias HD(TNOTHD)(1716)</channel>
-
-<channel site="directv.com.ar" xmltv_id="C5N HD(C5NHD)(1717)" site_id="1717" update="i">C5N HD(C5NHD)(1717)</channel>
-
-<channel site="directv.com.ar" xmltv_id="A24 HD(A24HD)(1719)" site_id="1574" update="i">A24 HD(A24HD)(1719)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Canal 26 HD(CA26HD)(1720)" site_id="1580" update="i">Canal 26 HD(CA26HD)(1720)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Informacion Periodística(IPHD)(1721)" site_id="1793" update="i">Informacion Periodística(IPHD)(1721)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TV Perú Noticias HD(TVNOT)(1724)" site_id="1754" update="i">TV Perú Noticias HD(TVNOT)(1724)</channel>
-
-<channel site="directv.com.ar" xmltv_id="National Geographic HD(NGEOHD)(1730)" site_id="1730" update="i">National Geographic HD(NGEOHD)(1730)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Discovery Theater HD(DISTHD)(1731)" site_id="1732" update="i">Discovery Theater HD(DISTHD)(1731)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Discovery Channel HD (DSCHD)(1732)" site_id="1092" update="i">Discovery Channel HD (DSCHD)(1732)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Animal Planet HD(ANMLHD)(1734)" site_id="1180" update="i">Animal Planet HD(ANMLHD)(1734)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Discovery World HD(DISWHD)(1738)" site_id="1738" update="i">Discovery World HD(DISWHD)(1738)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TLC HD(TLCHD)(1740)" site_id="1187" update="i">TLC HD(TLCHD)(1740)</channel>
-
-<channel site="directv.com.ar" xmltv_id="History HD(HISTHD)(1742)" site_id="1742" update="i">History HD(HISTHD)(1742)</channel>
-
-<channel site="directv.com.ar" xmltv_id="H2 HD(H2HD)(1744)" site_id="1185" update="i">H2 HD(H2HD)(1744)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Smithsonian Channel HD(SMTHHD)(1747)" site_id="1747" update="i">Smithsonian Channel HD(SMTHHD)(1747)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Canal A HD(CANAHD)(1748)" site_id="1748" update="i">Canal A HD(CANAHD)(1748)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Encuentro Internacional(ENCINT)(1750)" site_id="1721" update="i">Encuentro Internacional(ENCINT)(1750)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Antena 3 HD(ANT3HD)(1762)" site_id="1762" update="i">Antena 3 HD(ANT3HD)(1762)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Tv Ciudad(TvCIUD)(1789)" site_id="1789" update="i">Tv Ciudad(TvCIUD)(1789)</channel>
-
-<channel site="directv.com.ar" xmltv_id="TV Perú HD(TV7HD)(1795)" site_id="1755" update="i">TV Perú HD(TV7HD)(1795)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV(DTVHD)(1802)" site_id="1910" update="i">DIRECTV(DTVHD)(1802)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Escuela + HD(ESC+HD)(1804)" site_id="1804" update="i">Escuela + HD(ESC+HD)(1804)</channel>
-
-<channel site="directv.com.ar" xmltv_id="DIRECTV 4K: Ultra HD(DTV4K)(4000)" site_id="1337" update="i">DIRECTV 4K: Ultra HD(DTV4K)(4000)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4002)" site_id="4038" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4002)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4004)" site_id="4040" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4004)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4006)" site_id="4041" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4006)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4008)" site_id="4042" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4008)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4010)" site_id="4043" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4010)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4012)" site_id="4044" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4012)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4014)" site_id="4045" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4014)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4016)" site_id="4046" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4016)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4018)" site_id="4047" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4018)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4102)" site_id="4136" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4102)</channel>
-
-<channel site="directv.com.ar" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4104)" site_id="4205" update="i">¿Cómo comprar Pay-Per-View?(PPV)(4104)</channel>
-
-<channel site="directv.com.ar" xmltv_id="Canal Informativo(INFO)(6900)" site_id="4518" update="i">Canal Informativo(INFO)(6900)</channel>
+<channel site="avcsa.com.ar" xmltv_id="WOBI TV" site_id="723" update="i">WOBI TV</channel>
 
 </channels>
 
