@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/somos.png?raw=true",Somos
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",CANAL 2 MAR DEL PLATA
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1 tvg-name="Canal de la ciudad(CDLC)(127)"tvg-id="Canal de la ciudad(CDLC)(127)"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true",Canal de la ciudad
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true",Gen TV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",CANAL 6 MAR DEL PLATA
+https://panel.dattalive.com/8186/8186/chunklist_w1359352972.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="AMERICA 2"tvg-id="AMERICA 2"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv.png?raw=true",América TV
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/209741
+#EXTINF:-1 tvg-name="8 MAR DEL PLATA"tvg-id="8 MAR DEL PLATA"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal8mardelplata.png?raw=true",Canal 8 Mar del Plata
+https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
+#EXTINF:-1 tvg-name="DISNEY"tvg-id="DISNEY"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png",Disney Channel HD
+http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="NICK JR"tvg-id="NICK JR"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png",Nick Jr. HD
+http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="NICKELODEON"tvg-id="NICKELODEON"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/245px-Nickelodeon_2009_logo.svg.png",Nickelodeon HD
+http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY KIDS"tvg-id="DISCOVERY KIDS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png",Discovery Kids HD
+http://190.90.154.73:8080/play/a02n/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR."tvg-id="DISNEY JR."tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/315.png",Disney Junior HD
+http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/playlist.m3u8
