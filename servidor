@@ -319,4 +319,6 @@ http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 http://138.59.177.34:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PASIONES.png?raw=true"tvg-chno="",Pasiones HD
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Private_TV_29.png?raw=true",Private HD
+http://146.59.54.163/356/index.m3u8
 
