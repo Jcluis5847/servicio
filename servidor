@@ -3,8 +3,8 @@
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",0.02| CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-#EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true",0.03| Canal de la ciudad
-https://g2.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
+---INF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true",0.03| Canal de la ciudad
+---INFhttps://g2.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true",0.04| Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",0.05| CANAL 6 MAR DEL PLATA
@@ -15,8 +15,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal8mardelplata.png?raw=true",0.08| Canal 8 Mar del Plata
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
-#EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true",0.09| Telefe
-https://bvsat02.cdn.rcs.net.ar/mnp/telefe_hls/track_2_2500/playlist.m3u8
+---INF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true",0.09| Telefe
+---INFhttps://bvsat02.cdn.rcs.net.ar/mnp/telefe_hls/track_2_2500/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true",0.10| TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true",0.11| Canal 10 Mar del Plata
