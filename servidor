@@ -234,59 +234,59 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/469051
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true",0.116| AXN
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/241995
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Aye.png?raw=true",0.117| A&E
-http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/186628
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCM_Latam_logo.svg.png?raw=true",0.118| TCM
-http://190.149.66.90:4000/play/a02m/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19563
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AMC_logo_2019.svg.png?raw=true",0.119| AMC
-http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/159149
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ID.png?raw=true",0.120| Investigation Discovery
-http://138.59.177.34:8000/play/a06g/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/36458
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Comedy_Central_2018.svg.png?raw=true",0.121| Comedy Central
-http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/481785
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cinear.png?raw=true",0.122| CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ELGOURMET.png?raw=true",0.123| El Gourmet Televisión
-http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9408
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOODNETWORK.png?raw=true",0.124| Food Network
-http://190.61.55.186:1010/play/a00x/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9554
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/EL%20GARAGE.png?raw=true",0.125| El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHYH.png?raw=true",0.126| Discovery Home & Health
-http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/439759
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MASCHIC.png?raw=true",0.127| Más Chic SD
 http://138.59.177.34:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HGTV_US_Logo_2015.svg.png?raw=true",0.128| HGTV (Home Garden TV)
-http://138.59.177.34:8000/play/a00u/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/178146
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Clic_(TV_channel)_logo_2021.png?raw=true",0.129| Clic!
-http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9463
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CANALECNUENTRO.png?raw=true",0.130| CANAL ENCUENTRO
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NATGEOWILD.png?raw=true",0.131| Nat Geo WILD
-http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242015
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYCHANNEL.png?raw=true",0.132| Discovery Channel
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/186572
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYWORL.png?raw=true",0.133| Discovery World
-http://138.59.177.34:8000/play/a078/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9516
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_Turbo_logo.svg.png?raw=true",0.134| Discovery Turbo
-http://138.59.177.34:8000/play/a06e/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19505
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_theater_HD_logo.svg.png?raw=true",0.135| Discovery Theater HD
-http://138.59.177.34:8000/play/a05m/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/439786
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/science_Channel_logo.svg.png?raw=true",0.136| Discovery Science HD
-http://138.59.177.34:8000/play/a00v/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/36466
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ANIMALPLANET.png?raw=true",0.137| Animal Planet HD
-http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/229242
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/History_Logo.svg.png?raw=true",0.138| History
-http://bantel.iptvperu.tv:1935/transcoderip/History_t4/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242013
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/H2.png?raw=true",0.139| History 2 HD
-http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/105685
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/E.png?raw=true",0.140| E! Entertainment Televisión HD
-http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242054
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/VORTERIX.png?raw=true",0.141| Vorterix
 https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV.png?raw=true",0.142| MTV Live
 http://138.59.177.34:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTVHITS.png?raw=true",0.143| MTV Hits SD
-http://138.59.177.34:8000/play/a02i/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/53042
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV80.jpg?raw=true",0.144| MTV 80s SD
 http://138.59.177.34:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV_00s_remaster.png?raw=true",0.145| MTV 00s SD
@@ -304,25 +304,25 @@ http://191.97.60.193:10000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MEMORIASTV.png?raw=true",0.151| Memorias TV
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HTV.png?raw=true",0.152| HTV
-http://138.59.177.34:8000/play/a04c/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/217140
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TUCANALMUSICAL.jpg?raw=true",0.153| Tu Canal Musical
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TELEMUNDO.png?raw=true",0.154| Telemundo
-http://167.114.156.136:25461/INFINITV/ZX89NM22/155
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/54400
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TVE.png?raw=true",0.155| TVE
-http://45.5.117.182:8000/play/a0k2/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/171486
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a3.png?raw=true",0.156| Antena 3
-http://138.59.177.34:8000/play/a00s/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/211202
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/deportv.png?raw=true",0.157| DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true",0.158| Lifetime
-http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242002
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FIMRART.png?raw=true",0.159| Film & Arts
-http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19535
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCL.png?raw=true",0.160| Travel & Living Channel
-http://138.59.177.34:8000/play/a057/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/53215
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PASIONES.png?raw=true",0.161| Pasiones HD
-http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242017
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Private_TV_29.png?raw=true",99.001|XXX| Private HD
 http://146.59.54.163/356/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HustlerTV.svg.png?raw=true",99.002|XXX| Hustler TV
