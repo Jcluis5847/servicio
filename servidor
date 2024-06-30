@@ -22,7 +22,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true",0.011| Canal 10 Mar del Plata
 https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true",0.012| CANAL 79 MAR DEL PLATA
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefenoticias.png?raw=true",0.013| Telefe noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrecetv.png?raw=true",0.014| El Trece
