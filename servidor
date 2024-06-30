@@ -142,7 +142,7 @@ http://138.59.177.34:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMAX.png?raw=true",0.070| Cinemax
 http://190.61.55.186:1010/play/a022/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PARAMOUNT.png?raw=true",0.071| Paramount+
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242033
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ISAT.png?raw=true",0.072| I.Sat
 http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/37.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true",0.073| Cinecanal
@@ -156,7 +156,7 @@ http://138.59.177.34:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FC.png?raw=true",0.077| FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STARCHANNEL.png?raw=true",0.078| Star Channel
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/198735
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYCHANNEL.png?raw=true",0.079| Sony Channel
 http://bantel.iptvperu.tv:1935/transcoderip/sonychannel_t4/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYMOVIES.png?raw=true",0.080| Sony Movies
