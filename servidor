@@ -36,9 +36,9 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24%20-%20copia.png?raw=true",0.017| A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true",0.018| C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242080
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true",0.019| Cronica HD
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19708
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true",0.020| 26 TV
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/54199
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/lanacion+.png?raw=true",0.021| La Nacion+
@@ -48,7 +48,9 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true",0.023| NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true",0.024| TyC Sports
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/454718
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN_Premium_29_2022.png?raw=true",0.025| ESPN Premium
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/215252
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",0.025| ESPN
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/219171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png",0.026| ESPN 2
@@ -63,6 +65,8 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png",0.031| ESPN 7
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Fox_Sports_Premium_(Argentina)_-_2018_logo.png?raw=true",0.032| Fox Sports Premium
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/158454
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox1.png?raw=true",0.032| Fox Sports 1
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/36396
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox2.png?raw=true",0.033| Fox Sports 2
