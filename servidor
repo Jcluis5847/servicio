@@ -144,33 +144,33 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242025
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PARAMOUNT.png?raw=true",0.071| Paramount+
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242033
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ISAT.png?raw=true",0.072| I.Sat
-http://138.255.102.3:25461/live/FOXSPORTS1HDsd/RRZKamZw9a/37.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/69392
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true",0.073| Cinecanal
-http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/439760
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNT.png?raw=true",0.074| TNT
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9495
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSERIES.png?raw=true",0.075| TNT Series
-http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9560
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTNOVELAS.png?raw=true",0.076| TNT Novelas
-http://138.59.177.34:8000/play/a02e/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/542720
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FC.png?raw=true",0.077| FX
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9546
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STARCHANNEL.png?raw=true",0.078| Star Channel
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/198735
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/439744
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYCHANNEL.png?raw=true",0.079| Sony Channel
-http://bantel.iptvperu.tv:1935/transcoderip/sonychannel_t4/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/439743
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYMOVIES.png?raw=true",0.080| Sony Movies
-http://bantel.iptvperu.tv:1935/transcoderip/SonyMovies_t4/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/469055
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/WBTV.png?raw=true",0.081| Warner Channel
-http://138.59.177.34:8000/play/a05d/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/53040
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/UNIVERSALTV.png?raw=true",0.082| Universal TV
-http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/184477
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STUDIO.png?raw=true",0.083| Studio Universal
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/241984
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_reality-mediano.png?raw=true",0.084| Universal Reality
-http://190.149.66.90:4000/play/a03v/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/198741
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_premiere-mediano.png?raw=true",0.085| Universal Premiere
-http://190.149.66.90:4000/play/a03t/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/439739
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_crime-mediano.png?raw=true",0.086| Universal Crime
 http://190.149.66.90:4000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Universal_Comedy_2021.png?raw=true",0.087| Universal Comedy
@@ -180,17 +180,17 @@ http://190.149.66.90:4000/play/a056/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TuCine_295x98.png?raw=true",0.089| Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/130px-HBO_Xtreme.svg.png?raw=true",0.090| HBO Xtreme
-http://138.59.177.34:8000/play/a01q/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19548
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/130px-HBO_Pop.svg.png?raw=true",0.091| HBO Pop
-http://38.41.8.1:8000/play/a00d
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19626
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_Family.svg.png?raw=true",0.092| HBO Family
-http://138.59.177.34:8000/play/a01p/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19626
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO2_logo.svg.png?raw=true",0.093| HBO 2
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/159126
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Logohboplus2019.svg.png?raw=true",0.094| HBO+
-http://138.59.177.34:8000/play/a01o/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/185172
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_logo.svg.png?raw=true",0.095| HBO
-http://138.59.177.34:8000/play/a01m/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242029
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FMHMOVIES.png?raw=true",0.096| FMH Movies
 http://191.97.60.193:10000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FMHFAMILY.png?raw=true",0.097| FMH Family
@@ -208,31 +208,31 @@ http://191.97.60.193:10000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/volver.png?raw=true",0.103| Volver
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/19983
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Multipremier_logo.svg.png?raw=true",0.104| Multipremier
-http://138.59.177.34:8000/play/a06o/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/453505
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GPREMIER2.png?raw=true",0.105| Golden Premier 2
-http://138.59.177.34:8000/play/a019/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/469057
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLDEN.png?raw=true",0.106| Golden Premier
-http://138.59.177.34:8000/play/a018/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/222829
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/goldenplus.png?raw=true",0.107| Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9496
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/golden_edge-mediano.png?raw=true",0.108| Golden Edge
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9349
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Canal_Golden_logo.svg.png?raw=true",0.109| Golden
-http://138.59.177.34:8000/play/a04d/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9504
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/de_pelicula-mediano.png?raw=true",0.110| De Película
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/53095
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROCINEMA.png?raw=true",0.111| Claro Cinema
-http://138.59.177.34:8000/play/a05b/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/276307
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Cine_Latino_logo.svg.png?raw=true",0.112| Cine Latino
-http://138.59.177.34:8000/play/a06p/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/55511
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MC_logo_2022.png?raw=true",0.113| Canal MC
 http://138.59.177.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMA.png?raw=true",0.114| Azteca Cinema
-http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/241992
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CANALCLARO.png?raw=true",0.115| Canal Claro
-http://138.59.177.34:8000/play/a01t/index.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/469051
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true",0.116| AXN
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/241995
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Aye.png?raw=true",0.117| A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCM_Latam_logo.svg.png?raw=true",0.118| TCM
