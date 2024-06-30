@@ -17,6 +17,8 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true",0.009| Telefe
 https://bvsat02.cdn.rcs.net.ar/mnp/telefe_hls/track_2_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="",0.009| Telefe Hits
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true",0.010| TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true",0.011| Canal 10 Mar del Plata
