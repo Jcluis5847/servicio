@@ -4,7 +4,7 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",0.002| Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true",0.003| Canal de la ciudad
-https://g2.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
+https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true",0.004| Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",0.005| Canal 6 Mar del Plata
@@ -18,7 +18,7 @@ https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",0.009| Telefe Hits
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true",0.010| TV PUBLICA
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19709
+http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/46972
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true",0.011| Canal 10 Mar del Plata
 https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true",0.012| CANAL 79 Mar del Plata
@@ -97,10 +97,8 @@ http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/394757
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/398048
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS2.png?raw=true",0.048| Claro Sports 2
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/164261
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AFIZZIONADOS.png?raw=true",0.049| Afizzionados
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/415361
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true",0.051| Disney Channel
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/439795
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/398041
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true",0.052| Nick Jr.
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/1392
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKELODEON.png?raw=true",0.053| Nickelodeon
@@ -121,8 +119,6 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/56214
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9419
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLIMPLIM.png?raw=true",0.063| Plim Plim TV
 http://38.41.8.1:8000/play/a0b2
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ZOOMOO.png?raw=true",0.064| ZooMoo
-http://138.59.177.34:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TOONCAST.png?raw=true",0.065| Tooncast
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19567
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/dreamworks.png?raw=true",0.067| DreamWorks
@@ -250,11 +246,13 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/36466
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ANIMALPLANET.png?raw=true",0.137| Animal Planet HD
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/229242
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/History_Logo.svg.png?raw=true",0.138| History
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242013
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/177629
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/H2.png?raw=true",0.139| History 2 HD
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/105685
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/E.png?raw=true",0.140| E! Entertainment Televisión HD
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242054
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/images.jpg?raw=true",0.140| FerPalacios
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/161027.ts
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV.png?raw=true",0.142| MTV Live
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/1302
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTVHITS.png?raw=true",0.143| MTV Hits SD
@@ -363,3 +361,4 @@ http://live.adultiptv.net/blonde.m3u8
 http://live.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/xxx.png?raw=true",99.033|XXX| Asian
 http://live.adultiptv.net/asian.m3u8
+
