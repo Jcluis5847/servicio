@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",0.005| Canal 6 Mar del Plata
+https://panel.dattalive.com/8186/8186/chunklist_w1359352972.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",0.009| Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true",0.012| NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true",0.015| Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",0.005| Canal 6 Mar del Plata
-https://panel.dattalive.com/8186/8186/chunklist_w1359352972.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true",0.016| Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv.png?raw=true",0.017| América TV
@@ -23,7 +23,15 @@ https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true",0.023| CANAL 79 Santa Clara del Mar
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true",0.027| TV PUBLICA
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/granhermano.jpg?raw=true",0.024| Gran Hermano 24Hs
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/392400
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/granhermano.jpg?raw=true",0.025| GH Camara 1
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/392399
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/granhermano.jpg?raw=true",0.026| GH Camara 2
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/392398
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/granhermano.jpg?raw=true",0.027| GH Camara 3
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/392397
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true",0.028| TV PUBLICA
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/46972
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true",0.030| Canal 9
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/46977
@@ -177,6 +185,10 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/159126
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/185172
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_logo.svg.png?raw=true",0.405| HBO
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242029
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_MUNDI.png?raw=true",0.406| HBO MUNDI
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/52878
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOsignature.png?raw=true",0.407| HBO Signature
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/52879
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHE.png?raw=true",0.420| DHE
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/398078
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/volver.png?raw=true",0.430| Volver
@@ -288,7 +300,7 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242002
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FIMRART.png?raw=true",0.820| Film & Arts
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19535
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCL.png?raw=true",0.830| Travel & Living Channel
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/53215
+http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/177632
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PASIONES.png?raw=true",0.840| Pasiones HD
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242017
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Private_TV_29.png?raw=true",99.001|XXX| Private HD
