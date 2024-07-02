@@ -265,6 +265,8 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242054
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/161027.ts
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/307039659_156417613693734_1052256575049143065_n.png?raw=true",0.701| Nico Vallorani
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/153638.ts
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true",0.702| Los 40 Principales 105.5MHz
+https://kappa.radioplayer.com.ar/stream/los40
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV.png?raw=true",0.730| MTV Live
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/1302
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTVHITS.png?raw=true",0.731| MTV Hits SD
