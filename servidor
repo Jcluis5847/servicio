@@ -267,6 +267,12 @@ http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/161027.ts
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/153638.ts
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true",0.702| Los 40 Principales 105.5MHz
 https://kappa.radioplayer.com.ar/stream/los40
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",0.703| La 97 Siempre 97.7MHz
+https://streaming01.shockmedia.com.ar:10586/stream
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true",0.729| Buenos Aires DJ Eventos MIX
+https://streaming.evolucionstreaming.com:10833/stream?icy=http
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV.png?raw=true",0.730| MTV Live
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/1302
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTVHITS.png?raw=true",0.731| MTV Hits SD
