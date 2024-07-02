@@ -265,13 +265,18 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242054
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/161027.ts
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/307039659_156417613693734_1052256575049143065_n.png?raw=true",0.701| Nico Vallorani
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/153638.ts
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true",0.702| Rock&Pop 95.9MHz
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true",0.702| Radio 10 AM 710Hz
+https://frontend.radiohdvivo.com/radio10/live
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true",0.703| Rock&Pop FM 95.9MHz
 https://27363.live.streamtheworld.com/ROCKANDPOPAAC_SC
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",0.703| La 97 Siempre 97.7MHz
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",0.704| La 97 Siempre FM 97.7MHz
 https://streaming01.shockmedia.com.ar:10586/stream
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true",0.704| Los 40 Principales 105.5MHz
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true",0.705| El ayer / Parte de tu historia personas FM 98.1MHz
+https://icecast.unomedios.com.ar/ayer
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true",0.706| La 100 con vos FM 99.9MHz
+https://01.solumedia.com.ar:8712/stream
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true",0.707| Los 40 Principales FM 105.5MHz
 https://kappa.radioplayer.com.ar/stream/los40
-
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true",0.729| Buenos Aires DJ Eventos MIX
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV.png?raw=true",0.730| MTV Live
