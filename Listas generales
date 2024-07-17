@@ -11,6 +11,70 @@ https://raw.githubusercontent.com/angel200881/chann/main/VOD%20XXX.m3u8
 
 
 
+
+
+
+#EXTINF:-1 ,ARG: Discovery Home & Health Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/135793.ts
+#EXTINF:-1 ,ARG: DISCOVERY Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/135821.ts
+
+#EXTINF:-1 ,ARG: RAI ITALIA Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/135863.ts
+
+
+#EXTINF:-1 ,ARG: CNN ESPAÑOL Pʳᵉᵐⁱᵘᵐ ʜᴅ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/135867.ts
+
+#EXTINF:-1 ,ARG: AMERICA TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/137746.ts
+
+
+#EXTINF:-1 ,Cᴜʟᴛᴜʀᴀ | NATIONAL GEOGRAPHIC (ARG)
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/2014.ts
+
+#EXTINF:-1 ,Cᴜʟᴛᴜʀᴀ | DISCOVERY CHANNEL (ARG)
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/2024.ts
+
+#EXTINF:-1 ,ARG: TN NOTICIAS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/140376.ts
+
+
+#EXTINF:-1 ,ᴺᴱᵂˢ | CNN ESPAÑOL (ARGE)
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/141353.ts
+
+#EXTINF:-1 ,Sports | DIRECTV SPORTS HD (ARG)
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145400.ts
+
+
+#EXTINF:-1 ,Sports | ESPN PREMIUM HD ARG
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145417.ts
+#EXTINF:-1 ,Sports | ESPN 2 HD ARG
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145418.ts
+#EXTINF:-1 ,Sports | ESPN 3 HD ARG
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145419.ts
+
+#EXTINF:-1 ,Sports | FOX SPORTS DEPORTES HD ARG
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145430.ts
+#EXTINF:-1 ,Sports | FOX SPORTS 2 HD ARG
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145431.ts
+#EXTINF:-1 ,Sports | FOX SPORTS 3 HD ARG
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145432.ts
+
+
+#EXTINF:-1 ,Sports | TNT SPORTS ARGENTINA HD
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145442.ts
+
+#EXTINF:-1 ,ARG: AMERICA 24 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/146369.ts
+
+#EXTINF:-1 ,ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/148455.ts
+#EXTINF:-1 ,ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/148456.ts
+
+
+
 #EXTINF:-1 group-title="XXX",RED LIGHT 2
 http://37.48.101.149:7019/play/a01f
 #EXTINF:-1 group-title="XXX",VIVID_RED
