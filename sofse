@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BASE1.png?raw=true",0.001| INFORMACIÓN |
-https://github.com/Jcluis5847/logos/blob/main/aaaaafondo.jpg?raw=true
+https://github.com/Jcluis5847/logos/blob/main/fondounionferroviaria.jpg?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",0.009| Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",0.010| Canal 6 Mar del Plata
@@ -255,15 +255,15 @@ http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/153638.ts
 https://frontend.radiohdvivo.com/radio10/live
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true",0.703| Rock&Pop FM 95.9MHz
 https://27363.live.streamtheworld.com/ROCKANDPOPAAC_SC
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",0.704| FM Compacto FM 97.3MHz
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true",0.704| FM Compacto FM 97.3MHz
 http://compactofm.hopto.org:7040/stream.mp3
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",0.704| La 97 Siempre FM 97.7MHz
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",0.705| La 97 Siempre FM 97.7MHz
 https://streaming01.shockmedia.com.ar:10586/stream
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true",0.705| El ayer / Parte de tu historia personal FM 98.1MHz
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true",0.706| El ayer / Parte de tu historia personal FM 98.1MHz
 https://icecast.unomedios.com.ar/ayer
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true",0.706| La 100 con vos FM 99.9MHz
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true",0.707| La 100 con vos FM 99.9MHz
 https://01.solumedia.com.ar:8712/stream
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true",0.707| Los 40 Principales FM 105.5MHz
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true",0.708| Los 40 Principales FM 105.5MHz
 https://kappa.radioplayer.com.ar/stream/los40
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true",0.729| Buenos Aires DJ Eventos MIX
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
