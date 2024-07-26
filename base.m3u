@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal8mardelplata.png?raw=true",0.018| Canal 8 Mar del Plata
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true",0.019| Telefe
-http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3536.ts
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/74293
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",0.020| Telefe Hits
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true",0.021| Canal 10 Mar del Plata
@@ -197,10 +197,16 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/241992
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/469051
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true",0.500| AXN
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/241995
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/alertaaeropuerto.jpg?raw=true",0.504| Alerta Aeropuerto
+http://xtream.lat:8880/Alex2023/Alex2023/299082
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Aye.png?raw=true",0.505| A&E
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/186628
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/thewalkingdead.png?raw=true",0.509| The Walking Dead
+http://xtream.lat:8880/Alex2023/Alex2023/137099
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCM_Latam_logo.svg.png?raw=true",0.510| TCM
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/149293.ts
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Narcos.png?raw=true",0.511| Narcos
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145806.ts
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AMC_logo_2019.svg.png?raw=true",0.515| AMC
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/159149
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ID.png?raw=true",0.520| Investigation Discovery
@@ -249,6 +255,8 @@ http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/153638.ts
 https://frontend.radiohdvivo.com/radio10/live
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true",0.703| Rock&Pop FM 95.9MHz
 https://27363.live.streamtheworld.com/ROCKANDPOPAAC_SC
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",0.704| FM Compacto FM 97.3MHz
+http://compactofm.hopto.org:7040/stream.mp3
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",0.704| La 97 Siempre FM 97.7MHz
 https://streaming01.shockmedia.com.ar:10586/stream
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true",0.705| El ayer / Parte de tu historia personal FM 98.1MHz
@@ -285,7 +293,6 @@ http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/135781.ts
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3741.ts
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PASIONES.png?raw=true",0.840| Pasiones
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242017
-
 
 
 
