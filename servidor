@@ -26,7 +26,7 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true",0.023| CANAL 79 Santa Clara del Mar
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true",0.028| TV Publica
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/46972
+http://galaxypro.online:8080/DiegoRodriguez/Diego2024/99765
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true",0.030| el nueve
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/46977
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24%20-%20copia.png?raw=true",0.033| A24
@@ -34,7 +34,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true",0.034| C5N
 http://galaxypro.online:8080/DiegoRodriguez/Diego2024/99745
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true",0.035| Cronica HD
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/19708
+http://galaxypro.online:8080/DiegoRodriguez/Diego2024/99749
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/lanacion+.png?raw=true",0.036| La Nacion+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true",0.037| 26 TV
@@ -42,7 +42,7 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/54199
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrecetv.png?raw=true",0.038 El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true",0.039| TN Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+http://galaxypro.online:8080/DiegoRodriguez/Diego2024/99764
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CANALECNUENTRO.png?raw=true",0.050| Encuentro
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/74279
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ciudadmagazine.png?raw=true",0.055| Ciudad Magazine
