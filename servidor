@@ -332,11 +332,12 @@ http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/242017
 
 
 
-
+#EXTINF:-1 ,Playboy TV Latin America
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Private_TV_29.png?raw=true",99.001|XXX| Private HD
 http://146.59.54.163/356/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HustlerTV.svg.png?raw=true",99.002|XXX| Hustler TV
-http://146.59.54.163/349/index.m3u8
+http://home-playtv.com:8080/marcelalopez/CHXRH/478011
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HUSTLER_TV_HD.png?raw=true",99.003|XXX| Hustler HD
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/73047
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/vividred.png?raw=true",99.004|XXX| VividRed
