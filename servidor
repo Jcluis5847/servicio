@@ -14,7 +14,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv.png?raw=true",0.017| América TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal8mardelplata.png?raw=true",0.018| Canal 8 Mar del Plata
-https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w1529857610_b1763328_tkd293emF0b2tlbmVuZHRpbWU9MTczMzI4MzEyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9dzRKV1Q3OFJrb1ZFbnlhZ2paT2RJUERBRTVTMkp3Y19ING9ycUpmWGsyaz0=.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true",0.019| Telefe
 http://galaxypro.online:8080/DiegoRodriguez/Diego2024/99762
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",0.020| Telefe Hits
