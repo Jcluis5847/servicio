@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BASE1.png?raw=true",0.001| INFORMACIÓN |
 https://github.com/Jcluis5847/logos/blob/main/fondo.jpg?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/intensamente2.png?raw=true",Intensamente 2
-http://daleplay.club:80/play/6v54WYzRfSLIy2CEu-2PPdPRO15xmHMMY282rHGzEhJ3VQkJsqz4pPmfHj9SZJXn
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tarot.jpeg?raw=true",Tarot de la muerte
-http://daleplay.club:80/play/JXB-AkA7QxXx-K7D2AT_lkP0ocfBfN9Z-1_p1qL70AJmeu17wj2hEOQPv0cJMgU7
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/60minutos.png?raw=true",60 minutos (2024)
-http://daleplay.club:80/play/JXB-AkA7QxXx-K7D2AT_lkP0ocfBfN9Z-1_p1qL70AIg-WzuAN2eSFF1fAQSKX8H
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",0.009| Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",0.010| Canal 6 Mar del Plata
@@ -20,7 +14,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv.png?raw=true",0.017| América TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal8mardelplata.png?raw=true",0.018| Canal 8 Mar del Plata
-https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w1529857610_b1763328_tkd293emF0b2tlbmVuZHRpbWU9MTczMzI4MzEyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9dzRKV1Q3OFJrb1ZFbnlhZ2paT2RJUERBRTVTMkp3Y19ING9ycUpmWGsyaz0=.m3u8
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true",0.019| Telefe
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/74293
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",0.020| Telefe Hits
