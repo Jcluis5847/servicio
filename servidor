@@ -12,7 +12,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv.png?raw=true",0.017| América TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal8mardelplata.png?raw=true",0.018| Canal 8 Mar del Plata
-https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w26644568_b1662976_tkd293emF0b2tlbmVuZHRpbWU9MTczNTE2MTQyMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9RVptOUQtRzRvWWQtUlZrcGJQU2JkazNTdmRhUWxZbGpuT2JzbENiYmpWRT0=.m3u8
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1743740100&wowzatokenstarttime=0&wowzatokenhash=DpXXBjwHeg8RAq3OBUWCsW5Y7h5AIpW7p0C-k-M4t5s=
 #EXTINF:-1 tvg-name=""tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true",0.019| Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",0.020| Telefe Hits
