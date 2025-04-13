@@ -1,30 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",99.000|XXX|Playboy TV Latin America
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLAYBOYTVHD-2012.png?raw=true",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Private_TV_29.png?raw=true",99.001|XXX| Private HD
-http://146.59.54.163/356/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HustlerTV.svg.png?raw=true",99.002|XXX| Hustler TV
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Private_TV_29.png?raw=true",Private HD
+http://fortv.cc:8080/0n8u9R/169324/160034
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HustlerTV.svg.png?raw=true",Hustler TV
 http://home-playtv.com:8080/marcelalopez/CHXRH/478011
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HUSTLER_TV_HD.png?raw=true",99.003|XXX| Hustler HD
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HUSTLER_TV_HD.png?raw=true",Hustler HD
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/73047
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/vividred.png?raw=true",99.004|XXX| VividRed
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/vividred.png?raw=true",VividRed
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/151006
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/extasyhd.png?raw=true",99.005|XXX| Extasy HD
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/extasyhd.png?raw=true",Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Brazzers%20TV%20europe.png?raw=true",99.006|XXX| Brazzers TV
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Brazzers%20TV%20europe.png?raw=true",Brazzers TV
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/151000
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Erox.png?raw=true",99.007|XXX| Erox
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Erox.png?raw=true",Erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eroxxx-hd.png?raw=true",99.008|XXX| EroXXX HD
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eroxxx-hd.png?raw=true",EroXXX HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Desire%20Film.png?raw=true",99.009|XXX| Desire HD
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Desire%20Film.png?raw=true",Desire HD
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/penthousegold.png?raw=true",99.009|XXX| Penthause Gold
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/penthousegold.png?raw=true",Penthause Gold
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/192025
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/sexmex.png?raw=true",99.009|XXX| SexMex
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/sexmex.png?raw=true",SexMex
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/192048
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Venuspng.png?raw=true",99.009|XXX| Venus
-http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/87030
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Venuspng.png?raw=true",Venus
+http://200.229.147.142:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/sextreme.png?raw=true",Sextreme
+http://181.13.173.86:8000/play/a034/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/xxx.png?raw=true",99.010|XXX| Live Cams
 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/xxx.png?raw=true",99.011|XXX| MILF
