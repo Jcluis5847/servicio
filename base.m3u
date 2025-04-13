@@ -223,6 +223,8 @@ http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/155965.ts
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/30082
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Clic_(TV_channel)_logo_2021.png?raw=true",Clic!
 http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/9463
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/syfy.png?raw=true",SyFy
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31256
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NATGEOWILD.png?raw=true",Nat Geo WILD
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/287613
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHYH.png?raw=true",Discovery Home & Health
@@ -245,6 +247,31 @@ http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/4966.ts
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31054
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/E.png?raw=true",E! Entertainment Televisión
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/110873
+
+
+
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo Pop
+https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo Rock
+https://d1uttzwuh34h7x.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo Country
+https://duj0m5mtx2apx.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo Latino
+https://d3k7iagvenqkpa.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo Hip Hop
+https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo R&B
+https://d188921up0bidw.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo 70s
+https://dqwknz5qopbgu.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo 80s
+https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg",Vevo 90s
+https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eIX71c9.png",Neox TV ARG
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png",Malbec Play
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ferpalacios.png?raw=true",FerPalacios
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148544
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nicovallorani.png?raw=true",Nico Vallorani
