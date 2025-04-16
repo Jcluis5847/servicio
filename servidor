@@ -3,8 +3,6 @@
 https://github.com/Jcluis5847/logos/blob/main/fondo.jpg?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal6mardelplata.jpeg?raw=true",Canal 6 Mar del Plata
-https://panel.dattalive.com/8186/8186/chunklist_w1359352972.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true",Gen TV
@@ -24,7 +22,7 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true",TV Publica
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3534
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canale.jpg?raw=true",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8?nimblesessionid=22245274
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true",el nueve
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164869
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24%20-%20copia.png?raw=true",A24
@@ -35,10 +33,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164876
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164875
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/lanacion+.png?raw=true",La Nacion+
 http://181.13.173.86:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true",26 TV
-http://home-playtv.com:8080/CUENTAPREMIUNS15/YTZKP/54199
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrecetv.png?raw=true",El Trece
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/64385
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true",TN Todo Noticias
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164873
 #EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CANALECNUENTRO.png?raw=true",Encuentro
