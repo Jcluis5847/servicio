@@ -108,13 +108,13 @@ http://181.13.173.86:8000/play/a0aa/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PARAMOUNT.png?raw=true",Paramount Network
 http://181.13.173.86:8000/play/a02y/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true",Cinecanal
-http://181.13.173.86:8000/play/a07b/index.m3u8
+http://fastream.xyz:8080/juan18/83e45w87w/118
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNT.png?raw=true",TNT
-http://181.13.173.86:8000/play/a07d/index.m3u8
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/88205076-e610-40be-b874-4af1b1cd5f57.m3u
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSERIES.png?raw=true",TNT Series
-http://181.13.173.86:8000/play/a07e/index.m3u8
+http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9749
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTNOVELAS.png?raw=true",TNT Novelas
-http://181.13.173.86:8000/play/a07g/index.m3u8
+http://lunar.pm:8080/2052404365/41437862tow/115170
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FC.png?raw=true",FX
 http://200.229.147.142:8000/play/a020/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STARCHANNEL.png?raw=true",Star Channel
@@ -122,7 +122,7 @@ http://fastream.xyz:8080/juan18/83e45w87w/162
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYCHANNEL.png?raw=true",Sony Channel
 http://fastream.xyz:8080/juan18/83e45w87w/200
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYMOVIES.png?raw=true",Sony Movies
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440741
+http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9715
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/WBTV.png?raw=true",Warner Channel
 http://lunar.pm:8080/2052404365/41437862tow/115201
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/UNIVERSALTV.png?raw=true",Universal TV
@@ -139,8 +139,6 @@ http://200.229.147.142:8000/play/a03u/index.m3u8
 http://200.229.147.142:8000/play/a03v/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_cinema-mediano.png?raw=true",Universal Cinema
 http://200.229.147.142:8000/play/a054/index.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TuCine_295x98.png?raw=true",Tu Cine
-https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/130px-HBO_Xtreme.svg.png?raw=true",HBO Xtreme
 http://fastream.xyz:8080/juan18/83e45w87w/156
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/130px-HBO_Pop.svg.png?raw=true",HBO Pop
