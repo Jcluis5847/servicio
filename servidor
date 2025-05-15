@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Destino%20Final%20Lazos%20De%20Sangre.jpeg?raw=true",Destino Final: Lazos De Sangre
+#EXTINF:-0  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Destino%20Final%20Lazos%20De%20Sangre.jpeg?raw=true",Destino Final: Lazos De Sangre
 http://emotls.ddns.net/Items/7df9dd1cfc9bb1c71f96eca9ce94c16b/Download?api_key=2ba630ede6dc433bbc1fe7a44ef3cd87
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
