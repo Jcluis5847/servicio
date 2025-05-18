@@ -78,17 +78,17 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=1505372&e
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SKYSPORTS.png?raw=true",Sky Sports La Liga
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=73399&extension=ts&play_token=NEGRA8wYeh
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true",Disney Channel
-http://181.13.173.86:8000/play/a02r/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25542&extension=ts&play_token=37pVxFduNM
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true",Nick Jr.
-http://fastream.xyz:8080/juan18/83e45w87w/393
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90314&extension=ts&play_token=ZaJYuZONMK
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKELODEON.png?raw=true",Nickelodeon
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONITO1.png?raw=true",Cartoonito
 http://190.216.158.199:8000/play/a00b/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYKIDS.png?raw=true",Discovery Kids
-http://fastream.xyz:8080/Psstreamid@2*14/We3Zq5X6Raum/376
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25550&extension=ts&play_token=w1shq2XJvT
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYJUNIORS.png?raw=true",Disney Junior
-http://fastream.xyz:8080/juan18/83e45w87w/385
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90774&extension=ts&play_token=23znrP2qgL
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PAKAPAKA.png?raw=true",PakaPaka
 http://181.13.173.86:8000/play/a01n/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONN.png?raw=true",Cartoon Network
@@ -110,19 +110,19 @@ http://190.216.158.199:8000/play/a01r/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMAX.png?raw=true",Cinemax
 http://181.13.173.86:8000/play/a0aa/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PARAMOUNT.png?raw=true",Paramount Network
-http://181.13.173.86:8000/play/a02y/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25534&extension=ts&play_token=0yCj3XdKzn
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true",Cinecanal
-http://fastream.xyz:8080/juan18/83e45w87w/118
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90287&extension=ts&play_token=llBNAxTcWN
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNT.png?raw=true",TNT
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/88205076-e610-40be-b874-4af1b1cd5f57.m3u
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25529&extension=ts&play_token=fIjjXHmrbg
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSERIES.png?raw=true",TNT Series
-http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9749
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90807&extension=ts&play_token=AIL1yJVsMK
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTNOVELAS.png?raw=true",TNT Novelas
 http://lunar.pm:8080/2052404365/41437862tow/115170
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FC.png?raw=true",FX
 http://200.229.147.142:8000/play/a020/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STARCHANNEL.png?raw=true",Star Channel
-http://fastream.xyz:8080/juan18/83e45w87w/162
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90799&extension=ts&play_token=cJsogApjxp
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYCHANNEL.png?raw=true",Sony Channel
 http://fastream.xyz:8080/juan18/83e45w87w/200
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYMOVIES.png?raw=true",Sony Movies
@@ -130,9 +130,9 @@ http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9715
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/WBTV.png?raw=true",Warner Channel
 http://lunar.pm:8080/2052404365/41437862tow/115201
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/UNIVERSALTV.png?raw=true",Universal TV
-http://fastream.xyz:8080/juan18/83e45w87w/233
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25523&extension=ts&play_token=MQRIazMeVz
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STUDIO.png?raw=true",Studio Universal
-http://181.13.173.86:8000/play/a022/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552947&extension=ts&play_token=WgpuMP0WWH
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_reality-mediano.png?raw=true",Universal Reality
 http://200.229.147.142:8000/play/a03t/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_premiere-mediano.png?raw=true",Universal Premiere
@@ -144,21 +144,21 @@ http://200.229.147.142:8000/play/a03v/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_cinema-mediano.png?raw=true",Universal Cinema
 http://200.229.147.142:8000/play/a054/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/130px-HBO_Xtreme.svg.png?raw=true",HBO Xtreme
-http://fastream.xyz:8080/juan18/83e45w87w/156
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90300&extension=ts&play_token=ifehYERi15
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/130px-HBO_Pop.svg.png?raw=true",HBO Pop
-http://fastream.xyz:8080/juan18/83e45w87w/147
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90299&extension=ts&play_token=5UT11uNrvC
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_Family.svg.png?raw=true",HBO Family
-http://fastream.xyz:8080/juan18/83e45w87w/135
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90785&extension=ts&play_token=PPJD3HFPbf
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO2_logo.svg.png?raw=true",HBO 2
-http://fastream.xyz:8080/juan18/83e45w87w/131
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90787&extension=ts&play_token=tXEJpAbFrw
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Logohboplus2019.svg.png?raw=true",HBO+
-http://fastream.xyz:8080/juan18/83e45w87w/144
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90784&extension=ts&play_token=XENM0HDmBP
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_logo.svg.png?raw=true",HBO
-http://fastream.xyz:8080/juan18/83e45w87w/139
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90786&extension=ts&play_token=c6S5NS4bt6
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_MUNDI.png?raw=true",HBO MUNDI
-http://fastream.xyz:8080/juan18/83e45w87w/142
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90301&extension=ts&play_token=pqlAHQRdeg
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOsignature.png?raw=true",HBO Signature
-http://fastream.xyz:8080/juan18/83e45w87w/150
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25516&extension=ts&play_token=NQPQvUjGRZ
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHE.png?raw=true",DHE
 http://200.229.147.142:8000/play/a023/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/volver.png?raw=true",Volver
@@ -170,7 +170,7 @@ http://200.229.147.142:8000/play/a00h/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLDEN.png?raw=true",Golden Premier
 http://200.229.147.142:8000/play/a00g/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/goldenplus.png?raw=true",Golden Plus
-http://fastream.xyz:8080/juan18/83e45w87w/129
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=553000&extension=ts&play_token=oyHpwYvry1
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/golden_edge-mediano.png?raw=true",Golden Edge
 http://190.216.158.199:8000/play/a00n/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Canal_Golden_logo.svg.png?raw=true",Golden
@@ -188,59 +188,59 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 #EXTINF:-1  tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg",Free TV Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/de_pelicula-mediano.png?raw=true",De Película
-http://mundo2.pro:80/live/NNE5379khh/playec356nm/3d2d80eb-55d3-4494-9a4d-ba798b4db1ce.m3u
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90812&extension=ts&play_token=Pp6i3wSiBB
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Cine_Latino_logo.svg.png?raw=true",Cine Latino
 http://200.229.147.142:8000/play/a04g/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMA.png?raw=true",Azteca Cinema
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true",AXN
-http://181.13.173.86:8000/play/a0a8/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552904&extension=ts&play_token=TZjoJsX7ep
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Aye.png?raw=true",A&E
-http://181.13.173.86:8000/play/a0a6/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90826&extension=ts&play_token=d3uJ2WqiNa
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCM_Latam_logo.svg.png?raw=true",TCM
-http://181.13.173.86:8000/play/a020/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90310&extension=ts&play_token=DEwr691aIt
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AMC_logo_2019.svg.png?raw=true",AMC
 http://200.229.147.142:8000/play/a01y/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ID.png?raw=true",Investigation Discovery
 http://200.229.147.142:8000/play/a053/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Comedy_Central_2018.svg.png?raw=true",Comedy Central
-http://181.13.173.86:8000/play/a02x/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552908&extension=ts&play_token=wfFxrwhL1y
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ELGOURMET.png?raw=true",El Gourmet Televisión
-http://181.13.173.86:8000/play/a06w/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552935&extension=ts&play_token=ZDwL8BEGXw
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOODNETWORK.png?raw=true",Food Network
-http://fastream.xyz:8080/juan18/83e45w87w/600
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552994&extension=ts&play_token=ueMVh6bP0T
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/EL%20GARAGE.png?raw=true",El Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MASCHIC.png?raw=true",Más Chic
 http://200.229.147.142:8000/play/a004/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HGTV_US_Logo_2015.svg.png?raw=true",HGTV (Home Garden TV)
-http://fastream.xyz:8080/juan18/83e45w87w/626
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=692484&extension=ts&play_token=svLnvah7KM
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Clic_(TV_channel)_logo_2021.png?raw=true",Clic!
 http://200.229.147.142:8000/play/a024/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/syfy.png?raw=true",SyFy
 http://fastream.xyz:8080/juan18/83e45w87w/222
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NATGEOWILD.png?raw=true",Nat Geo WILD
-http://fastream.xyz:8080/juan18/83e45w87w/445
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25593&extension=ts&play_token=2gHshFH6P1
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHYH.png?raw=true",Discovery Home & Health
-http://fastream.xyz:8080/juan18/83e45w87w/410
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90779&extension=ts&play_token=uSlMiKcAd4
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYCHANNEL.png?raw=true",Discovery Channel
 http://200.229.147.142:8000/play/a04z/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYWORL.png?raw=true",Discovery World
-http://181.13.173.86:8000/play/a031/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90775&extension=ts&play_token=yzWCdJnG19
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_Turbo_logo.svg.png?raw=true",Discovery Turbo
-http://fastream.xyz:8080/juan18/83e45w87w/420
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25548&extension=ts&play_token=a32wHKOnpQ
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_theater_HD_logo.svg.png?raw=true",Discovery Theater
-http://181.13.173.86:8000/play/a02z/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90777&extension=ts&play_token=WZXPcfDnhU
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/science_Channel_logo.svg.png?raw=true",Discovery Science
-http://fastream.xyz:8080/juan18/83e45w87w/414
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552987&extension=ts&play_token=Z4SAJQWy0r
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ANIMALPLANET.png?raw=true",Animal Planet
-http://supersonictv.live:8080/537517/07061968/61714
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=145414&extension=ts&play_token=sp7Bwi2r3E
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/History_Logo.svg.png?raw=true",History
-http://fastream.xyz:8080/juan18/83e45w87w/431
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=1526543&extension=ts&play_token=bG6Kw44bcH
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/H2.png?raw=true",History 2
-http://fastream.xyz:8080/juan18/83e45w87w/429
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552855&extension=ts&play_token=SA9DdL4wBY
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/E.png?raw=true",E! Entertainment Televisión
-http://fastream.xyz:8080/juan18/83e45w87w/628
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552937&extension=ts&play_token=oJm7WGYCtK
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/vevo.png?raw=true",Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/vevo.png?raw=true",Vevo Rock
@@ -296,10 +296,10 @@ http://200.229.147.142:8000/play/a04l/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a3.png?raw=true",Antena 3
 http://200.229.147.142:8000/play/a005/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true",Lifetime
-http://fastream.xyz:8080/juan18/83e45w87w/608 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90815&extension=ts&play_token=oz62BwfPOu
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FIMRART.png?raw=true",Film & Arts
 http://200.229.147.142:8000/play/a01w/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCL.png?raw=true",Travel & Living Channel
 http://200.229.147.142:8000/play/a039/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PASIONES.png?raw=true",Pasiones
-http://fastream.xyz:8080/juan18/83e45w87w/590
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=75294&extension=ts&play_token=1ikIHi96Zu
