@@ -33,7 +33,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926552&ex
 http://181.13.173.86:8000/play/a01s/index.m3u8
 #EXTINF:-1  tvg-title="TN Todo Noticias" tvg-chno="17" tvg-id="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true",TN Todo Noticias
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164873
-#EXTINF:-1  tvg-title="Encuentro" tvg-chno="18" tvg-id="Encuentro" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CANALECNUENTRO.png?raw=true",Encuentro
+#EXTINF:-1  tvg-title="Encuentro" tvg-chno="18" tvg-id="Encuentro" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/encuentro.png?raw=true",Encuentro
 http://fortv.cc:8080/0n8u9R/169324/164878
 #EXTINF:-1  tvg-title="Ciudad Magazine" tvg-chno="19" tvg-id="Ciudad Magazine" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ciudadmagazine.png?raw=true",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -45,7 +45,7 @@ http://168.197.196.98:82/stream/channelid/1330348835?profile=pass
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=60108&extension=ts&play_token=1K6Kn3xGYp
 #EXTINF:-1  tvg-title="TyC Sports" tvg-chno="23" tvg-id="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true",TyC Sports
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
-#EXTINF:-1  tvg-title="ESPN Premium" tvg-chno="24" tvg-id="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN_Premium_29_2022.png?raw=true",ESPN Premium
+#EXTINF:-1  tvg-title="ESPN Premium" tvg-chno="24" tvg-id="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium?raw=true",ESPN Premium
 http://p2premium.club:80/live/Guolee9080/Juan9080/339650.ts
 #EXTINF:-1  tvg-title="ESPN" tvg-chno="25" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png",ESPN
 http://195.66.210.10:80/PabloMejia08/DYCKV/219173
