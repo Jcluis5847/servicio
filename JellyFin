@@ -261,22 +261,36 @@ https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1  tvg-title="Malbec Play" tvg-chno="131" tvg-id="Malbec Play" tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png",Malbec Play
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
-#EXTINF:-1  tvg-title="Malbec Play" tvg-chno="131" tvg-id="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Amor_logo.png?raw=true",Amor en el aire
-https://strcdn.klm99.com:10992/amormdp
 #EXTINF:-1  tvg-title="Radio 10 AM 710Hz" tvg-chno="132" tvg-id="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true",Radio 10 AM 710Hz
-https://frontend.radiohdvivo.com/radio10/live
+https://stream.zeno.fm/4r530f2a9f0uv
+#EXTINF:-1  tvg-title="La Red AM 910" tvg-chno="139" tvg-id="La Red AM 910" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true",La Red AM 910MHz
+https://streaming01.shockmedia.com.ar/9926/stream
+#EXTINF:-1  tvg-title="KLA 91.7MHz" tvg-chno="139" tvg-id="KLA 91.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true",KLA 91.7MHz
+https://streamconex.com:8104/stream
 #EXTINF:-1  tvg-title="Rock&Pop FM 95.9MHz" tvg-chno="133" tvg-id="Rock&Pop FM 95.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true",Rock&Pop FM 95.9MHz
 https://27363.live.streamtheworld.com/ROCKANDPOPAAC_SC
 #EXTINF:-1  tvg-title="FM Compacto FM 97.3MHz" tvg-chno="134" tvg-id="FM Compacto FM 97.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true",FM Compacto FM 97.3MHz
 http://compactofm.hopto.org:7040/stream.mp3
 #EXTINF:-1  tvg-title="La 97 Siempre FM 97.7MHz" tvg-chno="135" tvg-id="La 97 Siempre FM 97.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true",La 97 Siempre FM 97.7MHz
 https://streaming01.shockmedia.com.ar:10586/stream
+#EXTINF:-1  tvg-title="Radio Brisas 98.5MHz" tvg-chno="139" tvg-id="Radio Brisas 98.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radiobrisas.png?raw=true",Radio Brisas 98.5MHz
+https://radio.ecolan.com:8443/stream.mp3
+#EXTINF:-1  tvg-title="Radio Mar del Plata 99.9MHz" tvg-chno="139" tvg-id="Radio Mar del Plata 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/999.png?raw=true",Radio Mar del Plata 99.9MHz
+https://fm999.info/radio.ogg
 #EXTINF:-1  tvg-title="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-chno="136" tvg-id="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true",El ayer / Parte de tu historia personal FM 98.1MHz
 https://icecast.unomedios.com.ar/ayer
-#EXTINF:-1  tvg-title="La 100 con vos FM 99.9MHz" tvg-chno="137" tvg-id="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true",La 100 con vos FM 99.9MHz
-https://01.solumedia.com.ar:8712/stream
+#EXTINF:-1  tvg-title="Planet Music 101.1MHz" tvg-chno="139" tvg-id="Planet Music 101.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/planetmusic.png?raw=true",Planet Music 101.1MHz
+https://strcdn.klm99.com:10991/planetmdp
+#EXTINF:-1  tvg-title="ACQUA 102.7MHz" tvg-chno="139" tvg-id="ACQUA 102.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/acqua.jpeg?raw=true",ACQUA 102.7MHz
+https://strcdn.klm99.com:10990/acquamdp
+#EXTINF:-1  tvg-title="Universo 103.3MHz" tvg-chno="139" tvg-id="Universo 103.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universo.jpeg?raw=true",Universo 103.3MHz
+https://servidor1.hostradios.com:8112/stream
 #EXTINF:-1  tvg-title="Los 40 Principales FM 105.5MHz" tvg-chno="138" tvg-id="Los 40 Principales FM 105.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true",Los 40 Principales FM 105.5MHz
-https://kappa.radioplayer.com.ar/stream/los40
+https://edge01.radiohdvivo.com/stream/los40
+#EXTINF:-1  tvg-title="Malbec Play" tvg-chno="131" tvg-id="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Amor_logo.png?raw=true",Amor en el aire 105.9MHz
+https://strcdn.klm99.com:10992/amormdp
+#EXTINF:-1  tvg-title="La 100 con vos FM 99.9MHz" tvg-chno="137" tvg-id="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true",La 100 con vos FM 106.3MHz
+https://media425.digitar.net:8221/la100.mp3
 #EXTINF:-1  tvg-title="Buenos Aires DJ Eventos MIX" tvg-chno="139" tvg-id="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true",Buenos Aires DJ Eventos MIX
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
 #EXTINF:-1  tvg-title="MTV Live" tvg-chno="140" tvg-id="MTV Live" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV.png?raw=true",MTV Live
