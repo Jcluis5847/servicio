@@ -1,15 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QKIY5R1.png",| SERVICIO REDUCIDO POR FALTA DE PAGO ESCRIBIR AL WHATSAPP 2236680564 |
-https://i.imgur.com/njsiAUr.png
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPCdXXJ.png",Canal 8 Mar del Plata
-https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w752233346_b1662976.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1pD1i1.png",Canal 10 Mar del Plata
-https://ythls.armelin.one/channel/UCUM1n1Cb_cbnYTY45GvtyJw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aph8qUY.png",CANAL 79 MAR DEL PLATA
-https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vev5gfg.png",Disney Channel
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C0VEHXU.png" ,Discovery Kids
-http://190.90.154.73:8080/play/a02n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dmWWREh.png",Disney Junior
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BASE1.png?raw=true",|LEER INFORMACIÓN |
+https://github.com/Jcluis5847/logos/blob/main/NUEVO.jpg?raw=true
+#EXTINF:-1  tvg-id="Canal 2 Mar del Plata" tvg-title="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="1",Canal 2 Mar del Plata
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1  tvg-id="Canal 8 Mar del Plata" tvg-title="Canal 8 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c8mdp.png?raw=true" tvg-chno="6",Canal 8 Mar del Plata
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1747922820&wowzatokenstarttime=0&wowzatokenhash=E8Zijua78YIXt_lPR09J4nzEElL0TslABxgsB028oK8=
+#EXTINF:-1  tvg-id="Canal 10 Mar del Plata" tvg-title="Canal 10 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="8",Canal 10 Mar del Plata
+https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+#EXTINF:-1  tvg-id="CANAL 79 Mar del Plata" tvg-title="CANAL 79 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="9",CANAL 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:-1  tvg-id="Radio 10 AM 710Hz" tvg-title="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" tvg-chno="132",Radio 10 AM 710Hz
+https://stream.zeno.fm/4r530f2a9f0uv
+#EXTINF:-1  tvg-id="La Red AM 910" tvg-title="La Red AM 910" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true" tvg-chno="133",La Red AM 910MHz
+https://streaming01.shockmedia.com.ar/9926/stream
+#EXTINF:-1  tvg-id="KLA 91.7MHz" tvg-title="KLA 91.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true" tvg-chno="134",KLA 91.7MHz
+https://streamconex.com:8104/stream
+#EXTINF:-1  tvg-id="Rock&Pop FM 95.9MHz" tvg-title="Rock&Pop FM 95.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" tvg-chno="135",Rock&Pop FM 95.9MHz
+https://27363.live.streamtheworld.com/ROCKANDPOPAAC_SC
+#EXTINF:-1  tvg-id="FM Compacto FM 97.3MHz" tvg-title="FM Compacto FM 97.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true" tvg-chno="136",FM Compacto FM 97.3MHz
+http://compactofm.hopto.org:7040/stream.mp3
+#EXTINF:-1  tvg-id="La 97 Siempre FM 97.7MHz" tvg-title="La 97 Siempre FM 97.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true" tvg-chno="137",La 97 Siempre FM 97.7MHz
+https://streaming01.shockmedia.com.ar:10586/stream
+#EXTINF:-1  tvg-id="Radio Brisas 98.5MHz" tvg-title="Radio Brisas 98.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radiobrisas.png?raw=true" tvg-chno="138",Radio Brisas 98.5MHz
+https://radio.ecolan.com:8443/stream.mp3
+#EXTINF:-1  tvg-id="Radio Mar del Plata 99.9MHz" tvg-title="Radio Mar del Plata 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/999.png?raw=true" tvg-chno="139",Radio Mar del Plata 99.9MHz
+https://fm999.info/radio.ogg
+#EXTINF:-1  tvg-id="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-title="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true" tvg-chno="140",El ayer / Parte de tu historia personal FM 98.1MHz
+https://icecast.unomedios.com.ar/ayer
+#EXTINF:-1  tvg-id="Planet Music 101.1MHz" tvg-title="Planet Music 101.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/planetmusic.png?raw=true" tvg-chno="141",Planet Music 101.1MHz
+https://strcdn.klm99.com:10991/planetmdp
+#EXTINF:-1  tvg-id="ACQUA 102.7MHz" tvg-title="ACQUA 102.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/acqua.jpeg?raw=true" tvg-chno="142",ACQUA 102.7MHz
+https://strcdn.klm99.com:10990/acquamdp
+#EXTINF:-1  tvg-id="Universo 103.3MHz" tvg-title="Universo 103.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universo.jpeg?raw=true" tvg-chno="143",Universo 103.3MHz
+https://servidor1.hostradios.com:8112/stream
+#EXTINF:-1  tvg-id="Los 40 Principales FM 105.5MHz" tvg-title="Los 40 Principales FM 105.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true" tvg-chno="144",Los 40 Principales FM 105.5MHz
+https://edge01.radiohdvivo.com/stream/los40
+#EXTINF:-1  tvg-id="Malbec Play" tvg-title="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Amor_logo.png?raw=true" tvg-chno="145",Amor en el aire 105.9MHz
+https://strcdn.klm99.com:10992/amormdp
+#EXTINF:-1  tvg-id="La 100 con vos FM 99.9MHz" tvg-title="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true" tvg-chno="146",La 100 con vos FM 106.3MHz
+https://media425.digitar.net:8221/la100.mp3
+#EXTINF:-1  tvg-id="Buenos Aires DJ Eventos MIX" tvg-title="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true" tvg-chno="147",Buenos Aires DJ Eventos MIX
+https://streaming.evolucionstreaming.com:10833/stream?icy=http
