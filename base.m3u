@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BASE1.png?raw=true",|INFORMACIÓN |
-https://github.com/Jcluis5847/logos/blob/main/fondo.jpg?raw=true
 #EXTINF:-1  tvg-title="Canal 2 Mar del Plata" tvg-chno="1" tvg-id="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true",Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1  tvg-title="NET TV" tvg-chno="2" tvg-id="NET TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true",NET TV
