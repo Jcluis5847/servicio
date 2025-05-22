@@ -261,6 +261,8 @@ https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1  tvg-title="Malbec Play" tvg-chno="131" tvg-id="Malbec Play" tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png",Malbec Play
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
+#EXTINF:-1  tvg-title="Malbec Play" tvg-chno="131" tvg-id="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Amor_logo.png?raw=true",Amor en el aire
+https://strcdn.klm99.com:10992/amormdp
 #EXTINF:-1  tvg-title="Radio 10 AM 710Hz" tvg-chno="132" tvg-id="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true",Radio 10 AM 710Hz
 https://frontend.radiohdvivo.com/radio10/live
 #EXTINF:-1  tvg-title="Rock&Pop FM 95.9MHz" tvg-chno="133" tvg-id="Rock&Pop FM 95.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true",Rock&Pop FM 95.9MHz
