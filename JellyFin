@@ -20,9 +20,9 @@ https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal
 #EXTINF:-1  tvg-id="CANAL 79 Mar del Plata" tvg-title="CANAL 79 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="9",CANAL 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1  tvg-id="TV Publica" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="10",TV Publica
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3534
+https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1  tvg-id="Canal E" tvg-title="Canal E" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canale.jpg?raw=true" tvg-chno="11",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8?nimblesessionid=207529196
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="el nueve" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="12",el nueve
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164869
 #EXTINF:-1  tvg-id="A24" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="13",A24
