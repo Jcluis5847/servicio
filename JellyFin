@@ -124,13 +124,13 @@ http://lunar.pm:8080/2052404365/41437862tow/115170
 #EXTINF:-1  tvg-id="FX" tvg-title="FX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fx.png?raw=true" tvg-chno="60",FX
 http://200.229.147.142:8000/play/a020/index.m3u8
 #EXTINF:-1  tvg-id="Star Channel" tvg-title="Star Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STARCHANNEL.png?raw=true" tvg-chno="61",Star Channel
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90799&extension=ts&play_token=cJsogApjxp
+http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2693
 #EXTINF:-1  tvg-id="Sony Channel" tvg-title="Sony Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYCHANNEL.png?raw=true" tvg-chno="62",Sony Channel
-http://fastream.xyz:8080/juan18/83e45w87w/200
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7377
 #EXTINF:-1  tvg-id="Sony Movies" tvg-title="Sony Movies" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYMOVIES.png?raw=true" tvg-chno="63",Sony Movies
-http://tv.zapping.life:8080/rasos001/1qR0RBPPF4/9715
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7359
 #EXTINF:-1  tvg-id="Warner Channel" tvg-title="Warner Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/WBTV.png?raw=true" tvg-chno="64",Warner Channel
-http://lunar.pm:8080/2052404365/41437862tow/115201
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7230
 #EXTINF:-1  tvg-id="Universal TV" tvg-title="Universal TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/UNIVERSALTV.png?raw=true" tvg-chno="65",Universal TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25523&extension=ts&play_token=MQRIazMeVz
 #EXTINF:-1  tvg-id="Studio Universal" tvg-title="Studio Universal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STUDIO.png?raw=true" tvg-chno="66",Studio Universal
