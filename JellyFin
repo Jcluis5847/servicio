@@ -28,7 +28,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164869
 #EXTINF:-1  tvg-id="A24" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="13",A24
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926588&extension=ts&play_token=EQAR0hvW9h
 #EXTINF:-1  tvg-id="C5N" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="14",C5N
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164876
+http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46702.ts
 #EXTINF:-1  tvg-id="Cronica HD" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="15",Cronica HD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926552&extension=ts&play_token=Lz2EhiMQQT
 #EXTINF:-1  tvg-id="La Nacion+" tvg-title="La Nacion+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/lanacion+.png?raw=true" tvg-chno="16",La Nacion+
@@ -278,7 +278,7 @@ https://streaming01.shockmedia.com.ar:10586/stream
 #EXTINF:-1  tvg-id="Radio Brisas 98.5MHz" tvg-title="Radio Brisas 98.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radiobrisas.png?raw=true" tvg-chno="138",Radio Brisas 98.5MHz
 https://radio.ecolan.com:8443/stream.mp3
 #EXTINF:-1  tvg-id="Radio Mar del Plata 99.9MHz" tvg-title="Radio Mar del Plata 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/999.png?raw=true" tvg-chno="139",Radio Mar del Plata 99.9MHz
-https://fm999.info/radio.ogg
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0155
 #EXTINF:-1  tvg-id="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-title="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true" tvg-chno="140",El ayer / Parte de tu historia personal FM 98.1MHz
 https://icecast.unomedios.com.ar/ayer
 #EXTINF:-1  tvg-id="Planet Music 101.1MHz" tvg-title="Planet Music 101.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/planetmusic.png?raw=true" tvg-chno="141",Planet Music 101.1MHz
@@ -295,6 +295,18 @@ https://strcdn.klm99.com:10992/amormdp
 https://media425.digitar.net:8221/la100.mp3
 #EXTINF:-1  tvg-id="Buenos Aires DJ Eventos MIX" tvg-title="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true" tvg-chno="147",Buenos Aires DJ Eventos MIX
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
+#EXTINF:-1  tvg-id="CAM Entre Rios - Maria Grande" tvg-title="CAM Entre Rios - Maria Grande" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/camara1.png?raw=true" tvg-chno="148",CAM Entre Rios - Maria Grande
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0271
+#EXTINF:-1  tvg-id="CAM Buenos Aires - Coronel Pringles" tvg-title="CAM Buenos Aires - Coronel Pringles" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/camara1.png?raw=true" tvg-chno="148",CAM Buenos Aires - Coronel Pringles
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
+#EXTINF:-1  tvg-id="CAM Buenos Aires - Monte Hermoso 1" tvg-title="CAM Buenos Aires - Monte Hermoso 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/camara1.png?raw=true" tvg-chno="148",CAM Buenos Aires - Monte Hermoso 1
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0167
+#EXTINF:-1  tvg-id="CAM Buenos Aires - Monte Hermoso 2" tvg-title="CAM Buenos Aires - Monte Hermoso 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/camara1.png?raw=true" tvg-chno="148",CAM Buenos Aires - Monte Hermoso 2
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166
+#EXTINF:-1  tvg-id="CAM Buenos Aires - Necochea" tvg-title="CAM Buenos Aires - Necochea" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/camara1.png?raw=true" tvg-chno="148",CAM Buenos Aires - Necochea
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0168
+#EXTINF:-1  tvg-id="CAM Buenos Aires - Sierra de la Ventana" tvg-title="CAM Buenos Aires - Sierra de la Ventana" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/camara1.png?raw=true" tvg-chno="148",CAM Buenos Aires - Sierra de la Ventana
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0186
 #EXTINF:-1  tvg-id="MTV Live" tvg-title="MTV Live" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV.png?raw=true" tvg-chno="148",MTV Live
 http://200.229.147.142:8000/play/a03p/index.m3u8
 #EXTINF:-1  tvg-id="MTV Hits" tvg-title="MTV Hits" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTVHITS.png?raw=true" tvg-chno="149",MTV Hits
