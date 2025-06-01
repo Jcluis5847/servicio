@@ -83,16 +83,10 @@ http://190.216.158.199:8000/play/a00b/index.m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25550&extension=ts&play_token=w1shq2XJvT
 #EXTINF:-1  tvg-id="Disney Junior" tvg-title="Disney Junior" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYJUNIORS.png?raw=true" tvg-chno="44",Disney Junior
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90774&extension=ts&play_token=23znrP2qgL
-#EXTINF:-1  tvg-id="PakaPaka" tvg-title="PakaPaka" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PAKAPAKA.png?raw=true" tvg-chno="45",PakaPaka
-http://181.13.173.86:8000/play/a01n/index.m3u8
 #EXTINF:-1  tvg-id="Cartoon Network" tvg-title="Cartoon Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONN.png?raw=true" tvg-chno="46",Cartoon Network
 http://190.216.158.199:8000/play/a00j/index.m3u8
-#EXTINF:-1  tvg-id="BabyTV" tvg-title="BabyTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BABYTV.png?raw=true" tvg-chno="47",BabyTV
-http://fastream.xyz:8080/juan18/83e45w87w/372
 #EXTINF:-1  tvg-id="BabyFirst" tvg-title="BabyFirst" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BABYFIRST.png?raw=true" tvg-chno="48",BabyFirst
-http://fortv.cc:8080/0n8u9R/169324/58765
-#EXTINF:-1  tvg-id="Plim Plim TV" tvg-title="Plim Plim TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLIMPLIM.png?raw=true" tvg-chno="49",Plim Plim TV
-http://38.41.8.1:8000/play/a0b2
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7181
 #EXTINF:-1  tvg-id="Tooncast" tvg-title="Tooncast" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TOONCAST.png?raw=true" tvg-chno="50",Tooncast
 http://tv.nousiptv.com:8080/622915/2915/4051
 #EXTINF:-1  tvg-id="DreamWorks" tvg-title="DreamWorks" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/dreamworks.png?raw=true" tvg-chno="51",DreamWorks
@@ -116,7 +110,7 @@ http://lunar.pm:8080/2052404365/41437862tow/115170
 #EXTINF:-1  tvg-id="FX" tvg-title="FX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fx.png?raw=true" tvg-chno="60",FX
 http://200.229.147.142:8000/play/a020/index.m3u8
 #EXTINF:-1  tvg-id="Star Channel" tvg-title="Star Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STARCHANNEL.png?raw=true" tvg-chno="61",Star Channel
-http://1.84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/2693
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7252
 #EXTINF:-1  tvg-id="Sony Channel" tvg-title="Sony Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYCHANNEL.png?raw=true" tvg-chno="62",Sony Channel
 http://alfa.7057460.xyz:2095/brenda38/brenda64/7377
 #EXTINF:-1  tvg-id="Sony Movies" tvg-title="Sony Movies" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYMOVIES.png?raw=true" tvg-chno="63",Sony Movies
@@ -155,20 +149,18 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90301&ext
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25516&extension=ts&play_token=NQPQvUjGRZ
 #EXTINF:-1  tvg-id="DHE" tvg-title="DHE" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHE.png?raw=true" tvg-chno="80",DHE
 http://200.229.147.142:8000/play/a023/index.m3u8
-#EXTINF:-1  tvg-id="Volver" tvg-title="Volver" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/volver.png?raw=true" tvg-chno="81",Volver
-http://181.13.173.86:8000/play/a021/index.m3u8
 #EXTINF:-1  tvg-id="Multipremier" tvg-title="Multipremier" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Multipremier_logo.svg.png?raw=true" tvg-chno="82",Multipremier
 http://200.229.147.142:8000/play/a04f/index.m3u8
-#EXTINF:-1  tvg-id="Golden Premier 2" tvg-title="Golden Premier 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GPREMIER2.png?raw=true" tvg-chno="83",Golden Premier 2
-http://200.229.147.142:8000/play/a00h/index.m3u8
+#EXTINF:-1  tvg-id="Golden" tvg-title="Golden" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Canal_Golden_logo.svg.png?raw=true" tvg-chno="87",Golden
+http://190.216.158.199:8000/play/a00s/index.m3u8
 #EXTINF:-1  tvg-id="Golden Premier" tvg-title="Golden Premier" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLDEN.png?raw=true" tvg-chno="84",Golden Premier
 http://200.229.147.142:8000/play/a00g/index.m3u8
+#EXTINF:-1  tvg-id="Golden Premier 2" tvg-title="Golden Premier 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GPREMIER2.png?raw=true" tvg-chno="83",Golden Premier 2
+http://200.229.147.142:8000/play/a00h/index.m3u8
 #EXTINF:-1  tvg-id="Golden Plus" tvg-title="Golden Plus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/goldenplus.png?raw=true" tvg-chno="85",Golden Plus
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=553000&extension=ts&play_token=oyHpwYvry1
 #EXTINF:-1  tvg-id="Golden Edge" tvg-title="Golden Edge" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/golden_edge-mediano.png?raw=true" tvg-chno="86",Golden Edge
 http://190.216.158.199:8000/play/a00n/index.m3u8
-#EXTINF:-1  tvg-id="Golden" tvg-title="Golden" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Canal_Golden_logo.svg.png?raw=true" tvg-chno="87",Golden
-http://190.216.158.199:8000/play/a00s/index.m3u8
 #EXTINF:-1  tvg-id="Free TV Accion" tvg-title="Free TV Accion" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" tvg-chno="88",Free TV Accion
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 #EXTINF:-1  tvg-id="Free TV Drama" tvg-title="Free TV Drama" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" tvg-chno="89",Free TV Drama
@@ -211,8 +203,6 @@ http://200.229.147.142:8000/play/a004/index.m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=692484&extension=ts&play_token=svLnvah7KM
 #EXTINF:-1  tvg-id="Clic!" tvg-title="Clic!" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Clic_(TV_channel)_logo_2021.png?raw=true" tvg-chno="108",Clic!
 http://200.229.147.142:8000/play/a024/index.m3u8
-#EXTINF:-1  tvg-id="SyFy" tvg-title="SyFy" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/syfy.png?raw=true" tvg-chno="109",SyFy
-http://fastream.xyz:8080/juan18/83e45w87w/222
 #EXTINF:-1  tvg-id="Nat Geo WILD" tvg-title="Nat Geo WILD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/natgeowild.png?raw=true" tvg-chno="110",Nat Geo WILD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25593&extension=ts&play_token=2gHshFH6P1
 #EXTINF:-1  tvg-id="Discovery Home & Health" tvg-title="Discovery Home & Health" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHYH.png?raw=true" tvg-chno="111",Discovery Home & Health
@@ -230,7 +220,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552987&ex
 #EXTINF:-1  tvg-id="Animal Planet" tvg-title="Animal Planet" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ANIMALPLANET.png?raw=true" tvg-chno="117",Animal Planet
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=145414&extension=ts&play_token=sp7Bwi2r3E
 #EXTINF:-1  tvg-id="History" tvg-title="History" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/history.png?raw=true" tvg-chno="118",History
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=1526543&extension=ts&play_token=bG6Kw44bcH
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46639.ts
 #EXTINF:-1  tvg-id="History 2" tvg-title="History 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/history2.png?raw=true" tvg-chno="119",History 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552855&extension=ts&play_token=SA9DdL4wBY
 #EXTINF:-1  tvg-id="E! Entertainment Televisión" tvg-title="E! Entertainment Televisión" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/E.png?raw=true" tvg-chno="120",E! Entertainment Televisión
@@ -324,7 +314,7 @@ http://200.229.147.142:8000/play/a01w/index.m3u8
 #EXTINF:-1  tvg-id="Travel & Living Channel" tvg-title="Travel & Living Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tlc.png?raw=true" tvg-chno="158",Travel & Living Channel
 http://200.229.147.142:8000/play/a039/index.m3u8
 #EXTINF:-1  tvg-id="Pasiones" tvg-title="Pasiones" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PASIONES.png?raw=true" tvg-chno="159",Pasiones
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=75294&extension=ts&play_token=1ikIHi96Zu
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7479
 #EXTINF:-1  tvg-id="Playboy TV" tvg-title="Playboy TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLAYBOYTVHD-2012.png?raw=true" tvg-chno="999.1",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1  tvg-id="Extasy HD" tvg-title="Extasy HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/extasyhd.png?raw=true" tvg-chno="999.2",Extasy HD
@@ -336,7 +326,7 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-id="Desire HD" tvg-title="Desire HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Desire%20Film.png?raw=true" tvg-chno="999.5",Desire HD
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-id="Venus" tvg-title="Venus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Venuspng.png?raw=true" tvg-chno="999.6",Venus
-http://200.229.147.142:8000/play/a01r/index.m3u8
+http://alfa.7057460.xyz:2095/brenda38/brenda64/7505
 #EXTINF:-1  tvg-id="Brazzers TV" tvg-title="Brazzers TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Brazzers%20TV%20europe.png?raw=true" tvg-chno="999.7",Brazzers TV
 http://esfamous.top:8080/es4461731081170001/740e8b1abcb4/32307
 #EXTINF:-1  tvg-id="Hustler TV" tvg-title="Hustler TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HustlerTV.svg.png?raw=true" tvg-chno="999.8",Hustler TV
