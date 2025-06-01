@@ -23,8 +23,6 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1  tvg-id="Argentinisima Satelital" tvg-title="Argentinisima Satelital" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/argentinisimasatelital.png?raw=true" tvg-chno="10",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1  tvg-id="Canal E" tvg-title="Canal E" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canale.jpg?raw=true" tvg-chno="11",Canal E
-https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="el nueve" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="12",el nueve
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164869
 #EXTINF:-1  tvg-id="A24" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="13",A24
@@ -33,16 +31,10 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926588&ex
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46702.ts
 #EXTINF:-1  tvg-id="Cronica HD" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="15",Cronica HD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926552&extension=ts&play_token=Lz2EhiMQQT
-#EXTINF:-1  tvg-id="La Nacion+" tvg-title="La Nacion+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/lanacion+.png?raw=true" tvg-chno="16",La Nacion+
-http://181.13.173.86:8000/play/a01s/index.m3u8
 #EXTINF:-1  tvg-id="TN Todo Noticias" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="17",TN Todo Noticias
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164873
-#EXTINF:-1  tvg-id="Encuentro" tvg-title="Encuentro" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/encuentro.png?raw=true" tvg-chno="18",Encuentro
-http://fortv.cc:8080/0n8u9R/169324/164878
 #EXTINF:-1  tvg-id="Ciudad Magazine" tvg-title="Ciudad Magazine" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ciudadmagazine.png?raw=true" tvg-chno="19",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1  tvg-id="DeporTV" tvg-title="DeporTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPORTV1.png?raw=true" tvg-chno="20",DeporTV
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/110878
 #EXTINF:-1  tvg-id="Canal de la ciudad" tvg-title="Canal de la ciudad" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true" tvg-chno="21",Canal de la ciudad
 http://168.197.196.98:82/stream/channelid/1330348835?profile=pass
 #EXTINF:-1  tvg-id="Claro Sports" tvg-title="Claro Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="22",Claro Sports
