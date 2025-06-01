@@ -7,7 +7,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gentv/playlist.m3u8
 #EXTINF:-1  tvg-id="Neo TV" tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="4",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1  tvg-id="América TV" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv.png?raw=true" tvg-chno="5",América TV
+#EXTINF:-1  tvg-id="América TV" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="5",América TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164881
 #EXTINF:-1  tvg-id="Canal 8 Mar del Plata" tvg-title="Canal 8 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c8mdp.png?raw=true" tvg-chno="6",Canal 8 Mar del Plata
 https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1748629440&wowzatokenstarttime=0&wowzatokenhash=NPD6pEqs1TBW7bkMnyqpLBoLvhX45rBx_PK5w2BZ4Dg=
