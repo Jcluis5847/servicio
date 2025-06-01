@@ -11,79 +11,79 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164881
 #EXTINF:-1  tvg-id="Canal 8 Mar del Plata" tvg-title="Canal 8 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c8mdp.png?raw=true" tvg-chno="6",Canal 8 Mar del Plata
 https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1748629440&wowzatokenstarttime=0&wowzatokenhash=NPD6pEqs1TBW7bkMnyqpLBoLvhX45rBx_PK5w2BZ4Dg=
-#EXTINF:-1  tvg-id="Telefe" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="6",Telefe
+#EXTINF:-1  tvg-id="Telefe" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="7",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
-#EXTINF:-1 tvg-id="Gran Hermano 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true",Gran Hermano 1
+#EXTINF:-1  tvg-id="Gran Hermano 1" tvg-title="Gran Hermano 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="8",Gran Hermano 1
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255314.ts
-#EXTINF:-1 tvg-id="Gran Hermano 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true",Gran Hermano 2
+#EXTINF:-1  tvg-id="Gran Hermano 2" tvg-title="Gran Hermano 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="9",Gran Hermano 2
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255315.ts
-#EXTINF:-1 tvg-id="Gran Hermano 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true",Gran Hermano 3
+#EXTINF:-1  tvg-id="Gran Hermano 3" tvg-title="Gran Hermano 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="10",Gran Hermano 3
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255316.ts
-#EXTINF:-1 tvg-id="Gran Hermano 4" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true",Gran Hermano 4
+#EXTINF:-1  tvg-id="Gran Hermano 4" tvg-title="Gran Hermano 4" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="11",Gran Hermano 4
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255317.ts
-#EXTINF:-1  tvg-id="Telefe Hits" tvg-title="Telefe Hits" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" tvg-chno="7",Telefe Hits
+#EXTINF:-1  tvg-id="Telefe Hits" tvg-title="Telefe Hits" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" tvg-chno="12",Telefe Hits
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1  tvg-id="Canal 10 Mar del Plata" tvg-title="Canal 10 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="8",Canal 10 Mar del Plata
+#EXTINF:-1  tvg-id="Canal 10 Mar del Plata" tvg-title="Canal 10 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="13",Canal 10 Mar del Plata
 https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
-#EXTINF:-1  tvg-id="CANAL 79 Mar del Plata" tvg-title="CANAL 79 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="9",CANAL 79 Mar del Plata
+#EXTINF:-1  tvg-id="CANAL 79 Mar del Plata" tvg-title="CANAL 79 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="14",CANAL 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
-#EXTINF:-1  tvg-id="TV Publica" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="10",TV Publica
+#EXTINF:-1  tvg-id="TV Publica" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="15",TV Publica
 https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
-#EXTINF:-1  tvg-id="Argentinisima Satelital" tvg-title="Argentinisima Satelital" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/argentinisimasatelital.png?raw=true" tvg-chno="10",Argentinisima Satelital
+#EXTINF:-1  tvg-id="Argentinisima Satelital" tvg-title="Argentinisima Satelital" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/argentinisimasatelital.png?raw=true" tvg-chno="16",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1  tvg-id="el nueve" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="12",el nueve
+#EXTINF:-1  tvg-id="el nueve" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="17",el nueve
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164869
-#EXTINF:-1  tvg-id="A24" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="13",A24
+#EXTINF:-1  tvg-id="A24" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="18",A24
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926588&extension=ts&play_token=EQAR0hvW9h
-#EXTINF:-1  tvg-id="C5N" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="14",C5N
+#EXTINF:-1  tvg-id="C5N" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="19",C5N
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46702.ts
-#EXTINF:-1  tvg-id="Cronica HD" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="15",Cronica HD
+#EXTINF:-1  tvg-id="Cronica HD" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="20",Cronica HD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926552&extension=ts&play_token=Lz2EhiMQQT
-#EXTINF:-1  tvg-id="TN Todo Noticias" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="17",TN Todo Noticias
+#EXTINF:-1  tvg-id="TN Todo Noticias" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="21",TN Todo Noticias
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164873
-#EXTINF:-1  tvg-id="Ciudad Magazine" tvg-title="Ciudad Magazine" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ciudadmagazine.png?raw=true" tvg-chno="19",Ciudad Magazine
+#EXTINF:-1  tvg-id="Ciudad Magazine" tvg-title="Ciudad Magazine" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ciudadmagazine.png?raw=true" tvg-chno="22",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1  tvg-id="Canal de la ciudad" tvg-title="Canal de la ciudad" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true" tvg-chno="21",Canal de la ciudad
+#EXTINF:-1  tvg-id="Canal de la ciudad" tvg-title="Canal de la ciudad" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true" tvg-chno="23",Canal de la ciudad
 http://168.197.196.98:82/stream/channelid/1330348835?profile=pass
-#EXTINF:-1  tvg-id="Claro Sports" tvg-title="Claro Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="22",Claro Sports
+#EXTINF:-1  tvg-id="Claro Sports" tvg-title="Claro Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="24",Claro Sports
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=60108&extension=ts&play_token=1K6Kn3xGYp
-#EXTINF:-1  tvg-id="TyC Sports" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="23",TyC Sports
+#EXTINF:-1  tvg-id="TyC Sports" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="25",TyC Sports
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
-#EXTINF:-1  tvg-id="ESPN Premium" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="24",ESPN Premium
+#EXTINF:-1  tvg-id="ESPN Premium" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="26",ESPN Premium
 http://p2premium.club:80/live/Guolee9080/Juan9080/339650.ts
-#EXTINF:-1  tvg-id="ESPN" tvg-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" tvg-chno="25",ESPN
+#EXTINF:-1  tvg-id="ESPN" tvg-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" tvg-chno="27",ESPN
 http://195.66.210.10:80/PabloMejia08/DYCKV/219173
-#EXTINF:-1  tvg-id="ESPN 2" tvg-title="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" tvg-chno="26",ESPN 2
+#EXTINF:-1  tvg-id="ESPN 2" tvg-title="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" tvg-chno="28",ESPN 2
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47099.ts
-#EXTINF:-1  tvg-id="ESPN 3" tvg-title="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" tvg-chno="27",ESPN 3
+#EXTINF:-1  tvg-id="ESPN 3" tvg-title="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" tvg-chno="29",ESPN 3
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47104.ts
-#EXTINF:-1  tvg-id="Fox Sports Premium" tvg-title="Fox Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox-sports-premium-lam.png?raw=true" tvg-chno="28",Fox Sports Premium
+#EXTINF:-1  tvg-id="Fox Sports Premium" tvg-title="Fox Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox-sports-premium-lam.png?raw=true" tvg-chno="30",Fox Sports Premium
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47117.ts
-#EXTINF:-1  tvg-id="Fox Sports 1" tvg-title="Fox Sports 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox1.png?raw=true" tvg-chno="29",Fox Sports 1
+#EXTINF:-1  tvg-id="Fox Sports 1" tvg-title="Fox Sports 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox1.png?raw=true" tvg-chno="31",Fox Sports 1
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=79290&extension=ts&play_token=9Y5lhjBIFu
-#EXTINF:-1  tvg-id="Fox Sports 2" tvg-title="Fox Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox2.png?raw=true" tvg-chno="30",Fox Sports 2
+#EXTINF:-1  tvg-id="Fox Sports 2" tvg-title="Fox Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox2.png?raw=true" tvg-chno="32",Fox Sports 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=79289&extension=ts&play_token=kaCyIy196P
-#EXTINF:-1  tvg-id="Fox Sports 3" tvg-title="Fox Sports 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox3.png?raw=true" tvg-chno="31",Fox Sports 3
+#EXTINF:-1  tvg-id="Fox Sports 3" tvg-title="Fox Sports 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox3.png?raw=true" tvg-chno="33",Fox Sports 3
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=79288&extension=ts&play_token=1MbBXsc5EN
-#EXTINF:-1  tvg-id="TNT Sports Premium" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tntsport.png?raw=true" tvg-chno="32",TNT Sports Premium
+#EXTINF:-1  tvg-id="TNT Sports Premium" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tntsport.png?raw=true" tvg-chno="34",TNT Sports Premium
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926449&extension=ts&play_token=lXbP5g4CuT
-#EXTINF:-1  tvg-id="DirecTV Sports" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="33",DirecTV Sports
+#EXTINF:-1  tvg-id="DirecTV Sports" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="35",DirecTV Sports
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=75296&extension=ts&play_token=6ui31dio5m
-#EXTINF:-1  tvg-id="DirecTV Sports 2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="34",DirecTV Sports 2
+#EXTINF:-1  tvg-id="DirecTV Sports 2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="36",DirecTV Sports 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=75280&extension=ts&play_token=Cocr8oD4sC
-#EXTINF:-1  tvg-id="TUDN SD" tvg-title="TUDN SD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tudn.png?raw=true" tvg-chno="35",TUDN SD
+#EXTINF:-1  tvg-id="TUDN SD" tvg-title="TUDN SD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tudn.png?raw=true" tvg-chno="37",TUDN SD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552870&extension=ts&play_token=bLOgqvAjJr
-#EXTINF:-1  tvg-id="Golf Channel" tvg-title="Golf Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLFCHANNEL.png?raw=true" tvg-chno="36",Golf Channel
+#EXTINF:-1  tvg-id="Golf Channel" tvg-title="Golf Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLFCHANNEL.png?raw=true" tvg-chno="38",Golf Channel
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=73448&extension=ts&play_token=cZdwLr2wtj
-#EXTINF:-1  tvg-id="beIN Sports Xtra ñ" tvg-title="beIN Sports Xtra ñ" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BEIN.png?raw=true" tvg-chno="37",beIN Sports Xtra ñ
+#EXTINF:-1  tvg-id="beIN Sports Xtra ñ" tvg-title="beIN Sports Xtra ñ" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BEIN.png?raw=true" tvg-chno="39",beIN Sports Xtra ñ
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=1505372&extension=ts&play_token=hUlXG6qNaW
-#EXTINF:-1  tvg-id="Sky Sports La Liga" tvg-title="Sky Sports La Liga" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SKYSPORTS.png?raw=true" tvg-chno="38",Sky Sports La Liga
+#EXTINF:-1  tvg-id="Sky Sports La Liga" tvg-title="Sky Sports La Liga" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SKYSPORTS.png?raw=true" tvg-chno="40",Sky Sports La Liga
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=73399&extension=ts&play_token=NEGRA8wYeh
-#EXTINF:-1  tvg-id="Disney Channel" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="39",Disney Channel
+#EXTINF:-1  tvg-id="Disney Channel" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="41",Disney Channel
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25542&extension=ts&play_token=37pVxFduNM
-#EXTINF:-1  tvg-id="Nick Jr." tvg-title="Nick Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true" tvg-chno="40",Nick Jr.
+#EXTINF:-1  tvg-id="Nick Jr." tvg-title="Nick Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true" tvg-chno="42",Nick Jr.
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90314&extension=ts&play_token=ZaJYuZONMK
-#EXTINF:-1  tvg-id="Nickelodeon" tvg-title="Nickelodeon" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKELODEON.png?raw=true" tvg-chno="41",Nickelodeon
+#EXTINF:-1  tvg-id="Nickelodeon" tvg-title="Nickelodeon" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKELODEON.png?raw=true" tvg-chno="42",Nickelodeon
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-id="Cartoonito" tvg-title="Cartoonito" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONITO1.png?raw=true" tvg-chno="42",Cartoonito
 http://190.216.158.199:8000/play/a00b/index.m3u8
@@ -233,41 +233,41 @@ http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46639.ts
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552855&extension=ts&play_token=SA9DdL4wBY
 #EXTINF:-1  tvg-id="E! Entertainment Televisión" tvg-title="E! Entertainment Televisión" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/E.png?raw=true" tvg-chno="120",E! Entertainment Televisión
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552937&extension=ts&play_token=oJm7WGYCtK
-#EXTINF:-1 tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" group-title="Pluto TV",Cine Drama
+#EXTINF:-1  tvg-id="Cine Drama" tvg-logo="https://i.postimg.cc/2ymk18D6/pluto-cine-drama.png" tvg-chno="121",Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Cine Comedia" tvg-logo="https://i.postimg.cc/BbgqH9SC/pluto-cine-comedia.png" group-title="Pluto TV",Cine Comedia
+#EXTINF:-1  tvg-id="Cine Comedia" tvg-logo="https://i.postimg.cc/BbgqH9SC/pluto-cine-comedia.png" tvg-chno="121",Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Cine Estelar" tvg-logo="https://i.postimg.cc/7PMPp73T/pluto-cine-estelar.png" group-title="Pluto TV",Cine Estelar
+#EXTINF:-1  tvg-id="Cine Estelar" tvg-logo="https://i.postimg.cc/7PMPp73T/pluto-cine-estelar.png" tvg-chno="121",Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Cine Crimen" tvg-logo="https://i.postimg.cc/zGMqnkr4/pluto-cine-crimen.png" group-title="Pluto TV",Cine Crimen
+#EXTINF:-1  tvg-id="Cine Crimen" tvg-logo="https://i.postimg.cc/zGMqnkr4/pluto-cine-crimen.png" tvg-chno="121",Cine Crimen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Cine Suspenso" tvg-logo="https://i.postimg.cc/J7qmT88N/pluto-cine-suspenso.png" group-title="Pluto TV",Cine Suspenso
+#EXTINF:-1  tvg-id="Cine Suspenso" tvg-logo="https://i.postimg.cc/J7qmT88N/pluto-cine-suspenso.png" tvg-chno="121",Cine Suspenso
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Cine Terror" tvg-logo="https://i.postimg.cc/zGLrXRg7/pluto-cine-terror.png" group-title="Pluto TV",Cine Terror
+#EXTINF:-1  tvg-id="Cine Terror" tvg-logo="https://i.postimg.cc/zGLrXRg7/pluto-cine-terror.png" tvg-chno="121",Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Recetas" tvg-logo="https://i.postimg.cc/65qsYGYK/pluto-recetas.png" group-title="Pluto TV",Recetas
+#EXTINF:-1  tvg-id="Recetas" tvg-logo="https://i.postimg.cc/65qsYGYK/pluto-recetas.png" tvg-chno="121",Recetas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://i.postimg.cc/LXD7VHPh/pluto-tastemade.png" group-title="Pluto TV",Tastemade
+#EXTINF:-1  tvg-id="Tastemade" tvg-logo="https://i.postimg.cc/LXD7VHPh/pluto-tastemade.png" tvg-chno="121",Tastemade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Viajes" tvg-logo="https://i.postimg.cc/qMSFwDNc/pluto-viajes.png" group-title="Pluto TV",Viajes
+#EXTINF:-1  tvg-id="Viajes" tvg-logo="https://i.postimg.cc/qMSFwDNc/pluto-viajes.png" tvg-chno="121",Viajes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Mi Obsesion Favorita" tvg-logo="https://i.postimg.cc/XJj1qTPW/pluto-mi-obsesion-favorita.png" group-title="Pluto TV",Mi Obsesion Favorita
+#EXTINF:-1  tvg-id="Mi Obsesion Favorita" tvg-logo="https://i.postimg.cc/XJj1qTPW/pluto-mi-obsesion-favorita.png" tvg-chno="121",Mi Obsesion Favorita
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Aventura" tvg-logo="https://i.postimg.cc/bNcC2DWL/pluto-aventura.png" group-title="Pluto TV",Aventura
+#EXTINF:-1  tvg-id="Aventura" tvg-logo="https://i.postimg.cc/bNcC2DWL/pluto-aventura.png" tvg-chno="121",Aventura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Animales" tvg-logo="https://i.postimg.cc/FKmDCMNS/pluto-animales.png" group-title="Pluto TV",Animales
+#EXTINF:-1  tvg-id="Animales" tvg-logo="https://i.postimg.cc/FKmDCMNS/pluto-animales.png" tvg-chno="121",Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Naturaleza" tvg-logo="https://i.postimg.cc/GtZjFNXH/pluto-naturaleza.png" group-title="Pluto TV",Naturaleza
+#EXTINF:-1  tvg-id="Naturaleza" tvg-logo="https://i.postimg.cc/GtZjFNXH/pluto-naturaleza.png" tvg-chno="121",Naturaleza
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Ciencia" tvg-logo="https://i.postimg.cc/28QHdjfY/pluto-ciencia.png" group-title="Pluto TV",Ciencia
+#EXTINF:-1  tvg-id="Ciencia" tvg-logo="https://i.postimg.cc/28QHdjfY/pluto-ciencia.png" tvg-chno="121",Ciencia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Historia" tvg-logo="https://i.postimg.cc/6Q3YNd46/pluto-historia.png" group-title="Pluto TV",Historia
+#EXTINF:-1  tvg-id="Historia" tvg-logo="https://i.postimg.cc/6Q3YNd46/pluto-historia.png" tvg-chno="121",Historia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Misterios Medicos" tvg-logo="https://i.postimg.cc/FKBGF70y/pluto-misterios-medicos.png" group-title="Pluto TV",Misterios Medicos
+#EXTINF:-1  tvg-id="Misterios Medicos" tvg-logo="https://i.postimg.cc/FKBGF70y/pluto-misterios-medicos.png" tvg-chno="121",Misterios Medicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Investiga" tvg-logo="https://i.postimg.cc/bJSgZpRK/pluto-investiga.png" group-title="Pluto TV",Investiga
+#EXTINF:-1  tvg-id="Investiga" tvg-logo="https://i.postimg.cc/bJSgZpRK/pluto-investiga.png" tvg-chno="121",Investiga
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Archivos Forenses" tvg-logo="https://i.postimg.cc/HnG25RZj/pluto-archivos-forenses.png" group-title="Pluto TV",Archivos Forenses
+#EXTINF:-1  tvg-id="Archivos Forenses" tvg-logo="https://i.postimg.cc/HnG25RZj/pluto-archivos-forenses.png" tvg-chno="121",Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-id="Vevo Pop" tvg-title="Vevo Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/vevo.png?raw=true" tvg-chno="121",Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
@@ -387,4 +387,3 @@ http://esfamous.top:8080/es4461731081170001/740e8b1abcb4/32238
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/159953
 #EXTINF:-1  tvg-id="PORNBOX: ADULT TIME" tvg-title="PORNBOX: ADULT TIME" tvg-logo="https://n9.cl/oypf0" tvg-chno="999.14",PORNBOX: ADULT TIME
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/159954
-
