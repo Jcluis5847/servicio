@@ -46,11 +46,11 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1  tvg-id="Canal de la ciudad" tvg-title="Canal de la ciudad" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true" tvg-chno="23",Canal de la ciudad
 http://168.197.196.98:82/stream/channelid/1330348835?profile=pass
 #EXTINF:-1  tvg-id="Claro Sports" tvg-title="Claro Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="24",Claro Sports
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=60108&extension=ts&play_token=1K6Kn3xGYp
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/b5af28fb-1df5-46fe-b8e5-ba85a9aff850.m3u
 #EXTINF:-1  tvg-id="TyC Sports" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="25",TyC Sports
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
 #EXTINF:-1  tvg-id="ESPN Premium" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="26",ESPN Premium
-http://p2premium.club:80/live/Guolee9080/Juan9080/339650.ts
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46727.ts
 #EXTINF:-1  tvg-id="ESPN" tvg-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" tvg-chno="27",ESPN
 http://195.66.210.10:80/PabloMejia08/DYCKV/219173
 #EXTINF:-1  tvg-id="ESPN 2" tvg-title="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" tvg-chno="28",ESPN 2
@@ -60,27 +60,19 @@ http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47104.ts
 #EXTINF:-1  tvg-id="Fox Sports Premium" tvg-title="Fox Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox-sports-premium-lam.png?raw=true" tvg-chno="30",Fox Sports Premium
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47117.ts
 #EXTINF:-1  tvg-id="Fox Sports 1" tvg-title="Fox Sports 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox1.png?raw=true" tvg-chno="31",Fox Sports 1
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=79290&extension=ts&play_token=9Y5lhjBIFu
+http://playtv44.com:8080/scuevas757/123123/52790
 #EXTINF:-1  tvg-id="Fox Sports 2" tvg-title="Fox Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox2.png?raw=true" tvg-chno="32",Fox Sports 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=79289&extension=ts&play_token=kaCyIy196P
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/9a5dfb17-cd9c-4477-b1e1-a2052ffe6e56.m3u
 #EXTINF:-1  tvg-id="Fox Sports 3" tvg-title="Fox Sports 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fox3.png?raw=true" tvg-chno="33",Fox Sports 3
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=79288&extension=ts&play_token=1MbBXsc5EN
+http://mundo2.pro:80/live/NNE5379khh/playec356nm/dd2b0233-443e-4f2c-bfdd-368381df1ab5.m3u
 #EXTINF:-1  tvg-id="TNT Sports Premium" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tntsport.png?raw=true" tvg-chno="34",TNT Sports Premium
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926449&extension=ts&play_token=lXbP5g4CuT
+http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46744.ts
 #EXTINF:-1  tvg-id="DirecTV Sports" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="35",DirecTV Sports
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=75296&extension=ts&play_token=6ui31dio5m
+http://canal-pro.xyz:8080/954177846tv/94oasy1/315
 #EXTINF:-1  tvg-id="DirecTV Sports 2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="36",DirecTV Sports 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=75280&extension=ts&play_token=Cocr8oD4sC
-#EXTINF:-1  tvg-id="TUDN SD" tvg-title="TUDN SD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tudn.png?raw=true" tvg-chno="37",TUDN SD
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=552870&extension=ts&play_token=bLOgqvAjJr
-#EXTINF:-1  tvg-id="Golf Channel" tvg-title="Golf Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLFCHANNEL.png?raw=true" tvg-chno="38",Golf Channel
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=73448&extension=ts&play_token=cZdwLr2wtj
-#EXTINF:-1  tvg-id="beIN Sports Xtra ñ" tvg-title="beIN Sports Xtra ñ" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BEIN.png?raw=true" tvg-chno="39",beIN Sports Xtra ñ
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=1505372&extension=ts&play_token=hUlXG6qNaW
-#EXTINF:-1  tvg-id="Sky Sports La Liga" tvg-title="Sky Sports La Liga" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SKYSPORTS.png?raw=true" tvg-chno="40",Sky Sports La Liga
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=73399&extension=ts&play_token=NEGRA8wYeh
+http://canal-pro.xyz:8080/954177846tv/94oasy1/316
 #EXTINF:-1  tvg-id="Disney Channel" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="41",Disney Channel
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25542&extension=ts&play_token=37pVxFduNM
+http://elitestream.click:8080/ArnGiral749/Giraldo749/150450
 #EXTINF:-1  tvg-id="Nick Jr." tvg-title="Nick Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true" tvg-chno="42",Nick Jr.
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=90314&extension=ts&play_token=ZaJYuZONMK
 #EXTINF:-1  tvg-id="Nickelodeon" tvg-title="Nickelodeon" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKELODEON.png?raw=true" tvg-chno="42",Nickelodeon
