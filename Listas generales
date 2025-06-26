@@ -8,7 +8,14 @@ https://github.com/12iptvok/12iptvok/blob/eb82f10c8fc166d5257ab60ac3da78c72117aa
 
 https://github.com/VC5555/YZ/blob/main/121.m3u
 
-
+#EXTINF:-1  tvg-id="Gran Hermano 1" tvg-title="Gran Hermano 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="8",Gran Hermano 1
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255314.ts
+#EXTINF:-1  tvg-id="Gran Hermano 2" tvg-title="Gran Hermano 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="9",Gran Hermano 2
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255315.ts
+#EXTINF:-1  tvg-id="Gran Hermano 3" tvg-title="Gran Hermano 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="10",Gran Hermano 3
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255316.ts
+#EXTINF:-1  tvg-id="Gran Hermano 4" tvg-title="Gran Hermano 4" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="11",Gran Hermano 4
+http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255317.ts
 
 https://github.com/bodegaacuenta
 https://raw.githubusercontent.com/bodegaacuenta/Moyobambaastral/main/TVCable
