@@ -10,7 +10,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-id="América TV" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="5",América TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164881
 #EXTINF:-1  tvg-id="Canal 8 Mar del Plata" tvg-title="Canal 8 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c8mdp.png?raw=true" tvg-chno="6",Canal 8 Mar del Plata
-https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1748912940&wowzatokenstarttime=0&wowzatokenhash=FaOR5tg1IE04lNzGlF2k2Qwn3FfjuO6v5Swgy2rUCbc=
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1751306580&wowzatokenstarttime=0&wowzatokenhash=AOCndW28EpPcamz_Uxkjay1qMAFB8Y3yhisYo88iUuw=
 #EXTINF:-1  tvg-id="Telefe" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="7",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTINF:-1  tvg-id="Telefe Hits" tvg-title="Telefe Hits" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" tvg-chno="12",Telefe Hits
