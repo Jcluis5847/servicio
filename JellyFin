@@ -16,7 +16,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTINF:-1  tvg-id="Telefe Hits" tvg-title="Telefe Hits" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" tvg-chno="12",Telefe Hits
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-id="Canal 10 Mar del Plata" tvg-title="Canal 10 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="13",Canal 10 Mar del Plata
-https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+https://g3.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1  tvg-id="CANAL 79 Mar del Plata" tvg-title="CANAL 79 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="14",CANAL 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1  tvg-id="TV Publica" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="15",TV Publica
