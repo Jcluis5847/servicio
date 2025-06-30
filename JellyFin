@@ -30,9 +30,13 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926588&ex
 #EXTINF:-1  tvg-id="C5N" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="19",C5N
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46702.ts
 #EXTINF:-1  tvg-id="Cronica HD" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="20",Cronica HD
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=926552&extension=ts&play_token=Lz2EhiMQQT
+https://api.m3use.projectmoose.xyz/m3u/Orange/ListaYT/67fdb8ec613f446caa5987bf.m3u8?uid=Orange&pkey=rCnMmj
 #EXTINF:-1  tvg-id="TN Todo Noticias" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="21",TN Todo Noticias
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164873
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rt.png?raw=true",RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="Telesur" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telesur.png?raw=true",Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1  tvg-id="Ciudad Magazine" tvg-title="Ciudad Magazine" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ciudadmagazine.png?raw=true" tvg-chno="22",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1  tvg-id="Canal de la ciudad" tvg-title="Canal de la ciudad" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true" tvg-chno="23",Canal de la ciudad
