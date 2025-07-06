@@ -8,6 +8,10 @@ https://github.com/12iptvok/12iptvok/blob/eb82f10c8fc166d5257ab60ac3da78c72117aa
 
 https://github.com/VC5555/YZ/blob/main/121.m3u
 
+
+
+#EXTINF:-1  tvg-id="Canal 8 Mar del Plata" tvg-title="Canal 8 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c8mdp.png?raw=true" tvg-chno="6",8 Mar del Plata
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1751332260&wowzatokenstarttime=0&wowzatokenhash=C4Zhn113na-uLDrnB0xi9TQIR8eK-COblUOlLH8vYDY=
 #EXTINF:-1  tvg-id="Gran Hermano 1" tvg-title="Gran Hermano 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="8",Gran Hermano 1
 http://00322.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/255314.ts
 #EXTINF:-1  tvg-id="Gran Hermano 2" tvg-title="Gran Hermano 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gh.png?raw=true" tvg-chno="9",Gran Hermano 2
