@@ -1,43 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BASE1.png?raw=true",|LEER INFORMACIÓN |
+#EXTINF:-1 tvg-id="|LEER INFORMACI�N |"tvg-title="|LEER INFORMACI�N |"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BASE1.png?raw=true"tvg-chno="",|LEER INFORMACI�N |
 https://github.com/Jcluis5847/logos/blob/main/NUEVO.jpg?raw=true
-#EXTINF:-1  tvg-id="Canal 2 Mar del Plata" tvg-title="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="1",Canal 2 Mar del Plata
+#EXTINF:-1 tvg-id="Canal 2 Mar del Plata"tvg-title="Canal 2 Mar del Plata"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true"tvg-chno="1",Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-#EXTINF:-1  tvg-id="Canal 8 Mar del Plata" tvg-title="Canal 8 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c8mdp.png?raw=true" tvg-chno="6",Canal 8 Mar del Plata
-https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1747922820&wowzatokenstarttime=0&wowzatokenhash=E8Zijua78YIXt_lPR09J4nzEElL0TslABxgsB028oK8=
-#EXTINF:-1  tvg-id="Canal 10 Mar del Plata" tvg-title="Canal 10 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="8",Canal 10 Mar del Plata
+#EXTINF:-1 tvg-id="BravoTV"tvg-title="BravoTV"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Bravotv.png?raw=true"tvg-chno="1",BravoTV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+#EXTINF:-1 tvg-id="Canal 10 Mar del Plata"tvg-title="Canal 10 Mar del Plata"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true"tvg-chno="8",Canal 10 Mar del Plata
 https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
-#EXTINF:-1  tvg-id="CANAL 79 Mar del Plata" tvg-title="CANAL 79 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="9",CANAL 79 Mar del Plata
+#EXTINF:-1 tvg-id="CANAL 79 Mar del Plata"tvg-title="CANAL 79 Mar del Plata"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true"tvg-chno="9",CANAL 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
-#EXTINF:-1  tvg-id="Radio 10 AM 710Hz" tvg-title="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" tvg-chno="132",Radio 10 AM 710Hz
+#EXTINF:-1 tvg-id="NET TV"tvg-title="NET TV"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true"tvg-chno="2",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Gen TV"tvg-title="Gen TV"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true"tvg-chno="3",Gen TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+#EXTINF:-1 tvg-id="Am�rica TV"tvg-title="Am�rica TV"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true"tvg-chno="5",Am�rica TV
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164881
+#EXTINF:-1 tvg-id="Telefe"tvg-title="Telefe"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true"tvg-chno="7",Telefe
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1771082818~exp=1771090018~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=f4cf2cb07a60d40f349e4a4a7961a66359738478c11ca3c39e4174fcd3582551
+#EXTINF:-1 tvg-id="TV Publica"tvg-title="TV Publica"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true"tvg-chno="11",TV Publica
+http://tv.nousiptv.com:8080/Dario/Grinspan/8183
+#EXTINF:-1 tvg-id="Argentinisima Satelital"tvg-title="Argentinisima Satelital"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/argentinisimasatelital.png?raw=true"tvg-chno="12",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="el nueve"tvg-title="el nueve"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true"tvg-chno="13",el nueve
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/164869
+#EXTINF:-1 tvg-id="A24"tvg-title="A24"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true"tvg-chno="14",A24
+http://tv.nousiptv.com:8080/Dario/Grinspan/51073
+#EXTINF:-1 tvg-id="Radio 10 AM 710Hz"tvg-title="Radio 10 AM 710Hz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true"tvg-chno="132",Radio 10 AM 710Hz
 https://stream.zeno.fm/4r530f2a9f0uv
-#EXTINF:-1  tvg-id="La Red AM 910" tvg-title="La Red AM 910" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true" tvg-chno="133",La Red AM 910MHz
+#EXTINF:-1 tvg-id="La Red AM 910"tvg-title="La Red AM 910"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true"tvg-chno="133",La Red AM 910MHz
 https://streaming01.shockmedia.com.ar/9926/stream
-#EXTINF:-1  tvg-id="KLA 91.7MHz" tvg-title="KLA 91.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true" tvg-chno="134",KLA 91.7MHz
+#EXTINF:-1 tvg-id="KLA 91.7MHz"tvg-title="KLA 91.7MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true"tvg-chno="134",KLA 91.7MHz
 https://streamconex.com:8104/stream
-#EXTINF:-1  tvg-id="Rock&Pop FM 95.9MHz" tvg-title="Rock&Pop FM 95.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" tvg-chno="135",Rock&Pop FM 95.9MHz
+#EXTINF:-1 tvg-id="Rock&Pop FM 95.9MHz"tvg-title="Rock&Pop FM 95.9MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true"tvg-chno="135",Rock&Pop FM 95.9MHz
 https://27363.live.streamtheworld.com/ROCKANDPOPAAC_SC
-#EXTINF:-1  tvg-id="FM Compacto FM 97.3MHz" tvg-title="FM Compacto FM 97.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true" tvg-chno="136",FM Compacto FM 97.3MHz
+#EXTINF:-1 tvg-id="FM Compacto FM 97.3MHz"tvg-title="FM Compacto FM 97.3MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true"tvg-chno="136",FM Compacto FM 97.3MHz
 http://compactofm.hopto.org:7040/stream.mp3
-#EXTINF:-1  tvg-id="La 97 Siempre FM 97.7MHz" tvg-title="La 97 Siempre FM 97.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true" tvg-chno="137",La 97 Siempre FM 97.7MHz
+#EXTINF:-1 tvg-id="La 97 Siempre FM 97.7MHz"tvg-title="La 97 Siempre FM 97.7MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true"tvg-chno="137",La 97 Siempre FM 97.7MHz
 https://streaming01.shockmedia.com.ar:10586/stream
-#EXTINF:-1  tvg-id="Radio Brisas 98.5MHz" tvg-title="Radio Brisas 98.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radiobrisas.png?raw=true" tvg-chno="138",Radio Brisas 98.5MHz
+#EXTINF:-1 tvg-id="Radio Brisas 98.5MHz"tvg-title="Radio Brisas 98.5MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radiobrisas.png?raw=true"tvg-chno="138",Radio Brisas 98.5MHz
 https://radio.ecolan.com:8443/stream.mp3
-#EXTINF:-1  tvg-id="Radio Mar del Plata 99.9MHz" tvg-title="Radio Mar del Plata 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/999.png?raw=true" tvg-chno="139",Radio Mar del Plata 99.9MHz
+#EXTINF:-1 tvg-id="Radio Mar del Plata 99.9MHz"tvg-title="Radio Mar del Plata 99.9MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/999.png?raw=true"tvg-chno="139",Radio Mar del Plata 99.9MHz
 https://fm999.info/radio.ogg
-#EXTINF:-1  tvg-id="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-title="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true" tvg-chno="140",El ayer / Parte de tu historia personal FM 98.1MHz
+#EXTINF:-1 tvg-id="El ayer / Parte de tu historia personal FM 98.1MHz"tvg-title="El ayer / Parte de tu historia personal FM 98.1MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true"tvg-chno="140",El ayer / Parte de tu historia personal FM 98.1MHz
 https://icecast.unomedios.com.ar/ayer
-#EXTINF:-1  tvg-id="Planet Music 101.1MHz" tvg-title="Planet Music 101.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/planetmusic.png?raw=true" tvg-chno="141",Planet Music 101.1MHz
+#EXTINF:-1 tvg-id="Planet Music 101.1MHz"tvg-title="Planet Music 101.1MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/planetmusic.png?raw=true"tvg-chno="141",Planet Music 101.1MHz
 https://strcdn.klm99.com:10991/planetmdp
-#EXTINF:-1  tvg-id="ACQUA 102.7MHz" tvg-title="ACQUA 102.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/acqua.jpeg?raw=true" tvg-chno="142",ACQUA 102.7MHz
+#EXTINF:-1 tvg-id="ACQUA 102.7MHz"tvg-title="ACQUA 102.7MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/acqua.jpeg?raw=true"tvg-chno="142",ACQUA 102.7MHz
 https://strcdn.klm99.com:10990/acquamdp
-#EXTINF:-1  tvg-id="Universo 103.3MHz" tvg-title="Universo 103.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universo.jpeg?raw=true" tvg-chno="143",Universo 103.3MHz
+#EXTINF:-1 tvg-id="Universo 103.3MHz"tvg-title="Universo 103.3MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universo.jpeg?raw=true"tvg-chno="143",Universo 103.3MHz
 https://servidor1.hostradios.com:8112/stream
-#EXTINF:-1  tvg-id="Los 40 Principales FM 105.5MHz" tvg-title="Los 40 Principales FM 105.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true" tvg-chno="144",Los 40 Principales FM 105.5MHz
+#EXTINF:-1 tvg-id="Los 40 Principales FM 105.5MHz"tvg-title="Los 40 Principales FM 105.5MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true"tvg-chno="144",Los 40 Principales FM 105.5MHz
 https://edge01.radiohdvivo.com/stream/los40
-#EXTINF:-1  tvg-id="Malbec Play" tvg-title="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Amor_logo.png?raw=true" tvg-chno="145",Amor en el aire 105.9MHz
+#EXTINF:-1 tvg-id="Malbec Play"tvg-title="Malbec Play"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Amor_logo.png?raw=true"tvg-chno="145",Amor en el aire 105.9MHz
 https://strcdn.klm99.com:10992/amormdp
-#EXTINF:-1  tvg-id="La 100 con vos FM 99.9MHz" tvg-title="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true" tvg-chno="146",La 100 con vos FM 106.3MHz
+#EXTINF:-1 tvg-id="La 100 con vos FM 99.9MHz"tvg-title="La 100 con vos FM 99.9MHz"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true"tvg-chno="146",La 100 con vos FM 106.3MHz
 https://media425.digitar.net:8221/la100.mp3
-#EXTINF:-1  tvg-id="Buenos Aires DJ Eventos MIX" tvg-title="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true" tvg-chno="147",Buenos Aires DJ Eventos MIX
+#EXTINF:-1 tvg-id="Buenos Aires DJ Eventos MIX"tvg-title="Buenos Aires DJ Eventos MIX"tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true"tvg-chno="147",Buenos Aires DJ Eventos MIX
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
