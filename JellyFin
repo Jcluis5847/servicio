@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U  refresh="0.01" url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina5.xml.gz"
 #EXTINF:-1  tvg-id="BRAVO TV.ar" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Bravotv.png?raw=true" tvg-chno="005" group-title="Noticias",BravoTV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1  tvg-title="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="010" group-title="Noticias",2 Mar del Plata
@@ -17,6 +17,8 @@ http://190.95.60.228:8500/play/a031
 https://g3.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1  tvg-title="CANAL 79 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="045" group-title="Noticias",79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:-1  tvg-title="79 Santa Clara" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="046" group-title="Noticias",79 Santa Clara
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1  tvg-id="TV PUBLICA.ar" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="050" group-title="Noticias",TV Publica
 https://stream.claroh.com/tvpublica/playlist.m3u8
 #EXTINF:-1  tvg-id="ARGENTINISIMA.ar" tvg-title="Argentinisima Satelital" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/argentinisimasatelital.png?raw=true" tvg-chno="055" group-title="Noticias",Argentinisima Satelital
@@ -345,5 +347,8 @@ http://esfamous.top:8080/es4461731081170001/740e8b1abcb4/32245
 http://esfamous.top:8080/es4461731081170001/740e8b1abcb4/32238
 #EXTINF:-1  tvg-id="PORNBOX: A GIRL KNOWS" tvg-title="PORNBOX: A GIRL KNOWS" tvg-logo="https://n9.cl/oypf0" tvg-chno="999.13" group-title="XXX",PORNBOX: A GIRL KNOWS
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/159953
+#EXTINF:-1  tvg-id="PORNBOX: ADULT TIME" tvg-title="PORNBOX: ADULT TIME" tvg-logo="https://n9.cl/oypf0" tvg-chno="999.14" group-title="XXX",PORNBOX: ADULT TIME
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/159954
+
 #EXTINF:-1  tvg-id="PORNBOX: ADULT TIME" tvg-title="PORNBOX: ADULT TIME" tvg-logo="https://n9.cl/oypf0" tvg-chno="999.14" group-title="XXX",PORNBOX: ADULT TIME
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/159954
