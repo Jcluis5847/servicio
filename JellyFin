@@ -1,5 +1,5 @@
 #EXTM3U  refresh="0.01" url-tvg="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/directv.com.ar/directv.com.ar.channels.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina5.xml.gz"
-#EXTINF:-1  tvg-id="Bravo TV (ARG)" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Bravotv.png?raw=true" tvg-chno="005" group-title="Noticias",BravoTV
+#EXTINF:-1  tvg-id="Bravo TV (ARG)" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="005" group-title="Noticias",BravoTV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1  tvg-title="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="010" group-title="Noticias",Canal 2 MDP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
@@ -41,10 +41,12 @@ http://138.121.114.91:8000/play/a05v/index.m3u8
 http://181.13.252.102:8000/play/a01q/index.m3u8
 #EXTINF:-1  tvg-id="TN.ar" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="080" group-title="Noticias",TN Todo Noticias
 http://181.13.252.102:8000/play/a058/index.m3u8
+#EXTINF:-1  tvg-id="721#IP Noticias HD" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="081" group-title="Noticias",Ar|12
+http://190.7.19.197:232/play/a00o/index.m3u8
 #EXTINF:-1  tvg-id="LN+.ar" tvg-title="LN+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LN+.png?raw=true" tvg-chno="081" group-title="Noticias",LN+
 http://138.121.114.91:8000/play/a05y/index.m3u8
 #EXTINF:-1  tvg-id="Canal 26.ar" tvg-title="Canal 26" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true" tvg-chno="085" group-title="Noticias",Canal 26
-http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157568
+http://190.7.19.197:232/play/a042/index.m3u8
 #EXTINF:-1  tvg-id="TELEMAX.ar" tvg-title="Telemax" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telemax-ar.png?raw=true" tvg-chno="090" group-title="Noticias",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1  tvg-id="RTP Internacional" tvg-title="RT" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rt.png?raw=true" tvg-chno="095" group-title="Noticias",RT
@@ -91,12 +93,12 @@ http://190.238.43.117:8000/play/a00t/index.m3u8
 http://190.238.43.117:8000/play/a09t/index.m3u8
 #EXTINF:-1  tvg-id="DISCOVERY KIDS.ar" tvg-title="Discovery Kids" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYKIDS.png?raw=true" tvg-chno="200" group-title="Infantiles",Discovery Kids
 http://181.13.252.102:8000/play/a06t/index.m3u8
-#EXTINF:-1  tvg-id="DISNEY JUNIOR.ar" tvg-title="Disney Junior" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYJUNIORS.png?raw=true" tvg-chno="205" group-title="Infantiles",Disney Junior
-https://broker.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1  tvg-id="DISNEY JUNIOR.ar" tvg-title="Disney Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYJR.png?raw=true" tvg-chno="205" group-title="Infantiles",Disney Jr.
+http://190.7.19.197:232/play/a03d/index.m3u8
 #EXTINF:-1  tvg-id="CARTOON NETWORK.ar" tvg-title="Cartoon Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONN.png?raw=true" tvg-chno="210" group-title="Infantiles",Cartoon Network
 http://181.13.252.102:8000/play/a075/index.m3u8
 #EXTINF:-1  tvg-id="PAKA PAKA.ar" tvg-title="Paka Paka" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/pakapaka.png?raw=true" tvg-chno="215" group-title="Infantiles",Paka Paka
-https://broker.cdn.rcs.net.ar/mnp/pkpk/output.mpd
+http://190.7.19.197:232/play/a08e/index.m3u8
 #EXTINF:-1  tvg-id="Plim Plim.ar" tvg-title="Plim Plim TV" tvg-logo="https://i.postimg.cc/sf96fdZR/Logo.png" tvg-chno="220" group-title="Infantiles",Plim Plim TV
 http://45.5.151.62:8000/play/a00z/index.m3u8
 #EXTINF:-1  tvg-id="Tooncast.ar" tvg-title="Tooncast" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TOONCAST.png?raw=true" tvg-chno="230" group-title="Infantiles",Tooncast
@@ -109,8 +111,6 @@ http://181.209.37.74:8001/play/a069/index.m3u8
 http://181.13.252.102:8000/play/a02w/index.m3u8
 #EXTINF:-1  tvg-id="CINEMAX.ar" tvg-title="Cinemax" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMAX.png?raw=true" tvg-chno="250" group-title="Peliculas",Cinemax
 http://45.5.151.62:8000/play/a012/index.m3u8
-#EXTINF:-1  tvg-id="Paramount Network" tvg-title="Paramount Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PARAMOUNT.png?raw=true" tvg-chno="255" group-title="Peliculas",Paramount Network
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=25534&extension=ts&play_token=0yCj3XdKzn
 #EXTINF:-1  tvg-id="CINECANAL.ar" tvg-title="Cinecanal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true" tvg-chno="260" group-title="Peliculas",Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
 #EXTINF:-1  tvg-id="TNT HD.ar" tvg-title="TNT" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNT.png?raw=true" tvg-chno="265" group-title="Peliculas",TNT
@@ -122,7 +122,7 @@ http://lunar.pm:8080/2052404365/41437862tow/115170
 #EXTINF:-1  tvg-id="FX.ar" tvg-title="FX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fx.png?raw=true" tvg-chno="280" group-title="Peliculas",FX
 http://200.229.147.142:8000/play/a020/index.m3u8
 #EXTINF:-1  tvg-id="STAR CHANNEL HD.ar" tvg-title="Star Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STARCHANNEL.png?raw=true" tvg-chno="285" group-title="Peliculas",Star Channel
-https://broker.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+http://190.7.19.197:232/play/a05w/index.m3u8
 #EXTINF:-1  tvg-id="SONY HD.ar" tvg-title="Sony Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYCHANNEL.png?raw=true" tvg-chno="290" group-title="Peliculas",Sony Channel
 http://181.209.37.74:8001/play/a09c/index.m3u8
 #EXTINF:-1  tvg-id="SONY MOVIES.ar" tvg-title="Sony Movies" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SONYMOVIES.png?raw=true" tvg-chno="295" group-title="Peliculas",Sony Movies
@@ -142,10 +142,10 @@ http://200.229.147.142:8000/play/a03u/index.m3u8
 #EXTINF:-1  tvg-id="Universal Comedy HD" tvg-title="Universal Comedy" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Universal_Comedy_2021.png?raw=true" tvg-chno="330" group-title="Peliculas",Universal Comedy
 http://200.229.147.142:8000/play/a03v/index.m3u8
 #EXTINF:-1  tvg-id="Universal Cinema HD" tvg-title="Universal Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_cinema-mediano.png?raw=true" tvg-chno="335" group-title="Peliculas",Universal Cinema
-http://200.229.147.142:8000/play/a054/index.m3u8
-#EXTINF:-1  tvg-id="HBO Xtreme." tvg-title="HBO Xtreme" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/130px-HBO_Xtreme.svg.png?raw=true" tvg-chno="340" group-title="Peliculas",HBO Xtreme
+http://190.97.183.108:8000/play/a05o/index.m3u8
+#EXTINF:-1  tvg-id="HBO Xtreme." tvg-title="HBO Xtreme" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOXTREME.png?raw=true" tvg-chno="340" group-title="Peliculas",HBO Xtreme
 http://190.238.43.117:8000/play/a010/index.m3u8
-#EXTINF:-1  tvg-id="HBO Pop" tvg-title="HBO Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/130px-HBO_Pop.svg.png?raw=true" tvg-chno="345" group-title="Peliculas",HBO Pop
+#EXTINF:-1  tvg-id="HBO Pop" tvg-title="HBO Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOPOP.png?raw=true" tvg-chno="345" group-title="Peliculas",HBO Pop
 http://190.7.19.197:232/play/a016/index.m3u8
 #EXTINF:-1  tvg-id="HBO FAMILY HD.ar" tvg-title="HBO Family" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_Family.svg.png?raw=true" tvg-chno="350" group-title="Peliculas",HBO Family
 http://181.13.252.102:8000/play/a06r/index.m3u8
@@ -154,9 +154,9 @@ http://45.5.151.147:8000/play/a010/index.m3u8
 #EXTINF:-1  tvg-id="HBO PLUS.ar" tvg-title="HBO+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Logohboplus2019.svg.png?raw=true" tvg-chno="360" group-title="Peliculas",HBO+
 http://45.5.117.57:8999/play/a05s/index.m3u8
 #EXTINF:-1  tvg-id="HBO.ar" tvg-title="HBO" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_logo.svg.png?raw=true" tvg-chno="375" group-title="Peliculas",HBO
-http://190.238.43.117:8000/play/a01h/index.m3u8
+http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:-1  tvg-id="HBO MUNDI.ar" tvg-title="HBO MUNDI" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_MUNDI.png?raw=true" tvg-chno="380" group-title="Peliculas",HBO MUNDI
-https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
+http://190.238.43.117:8000/play/a02r/index.m3u8
 #EXTINF:-1  tvg-id="HBO SIGNATURE.ar" tvg-title="HBO Signature" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOsignature.png?raw=true" tvg-chno="385" group-title="Peliculas",HBO Signature
 http://181.13.252.102:8000/play/a02c/index.m3u8
 #EXTINF:-1  tvg-id="DHE.ar" tvg-title="DHE" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHE.png?raw=true" tvg-chno="390" group-title="Peliculas",DHE
@@ -164,7 +164,7 @@ http://200.229.147.142:8000/play/a023/index.m3u8
 #EXTINF:-1  tvg-id="Multipremier" tvg-title="Multipremier" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Multipremier_logo.svg.png?raw=true" tvg-chno="395" group-title="Peliculas",Multipremier
 http://200.229.147.142:8000/play/a04f/index.m3u8
 #EXTINF:-1  tvg-id="Golden TV" tvg-title="Golden" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Canal_Golden_logo.svg.png?raw=true" tvg-chno="400" group-title="Peliculas",Golden
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/127
+http://190.60.39.195:8000/play/a0xh/index.m3u8
 #EXTINF:-1  tvg-id="Golden Premier" tvg-title="Golden Premier" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLDEN.png?raw=true" tvg-chno="405" group-title="Peliculas",Golden Premier
 http://200.229.147.142:8000/play/a00g/index.m3u8
 #EXTINF:-1  tvg-id="Golden Premier 2" tvg-title="Golden Premier 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GPREMIER2.png?raw=true" tvg-chno="410" group-title="Peliculas",Golden Premier 2
@@ -195,12 +195,12 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://190.238.43.117:8000/play/a00b/index.m3u8
 #EXTINF:-1  tvg-id="Alerta Aeropuerto" tvg-title="Alerta Aeropuerto" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/alertaaeropuerto.jpg?raw=true" tvg-chno="471" group-title="Peliculas",Alerta Aeropuerto
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/583792.ts
-#EXTINF:-1  tvg-id="AandE.ar" tvg-title="A&E" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Aye.png?raw=true" tvg-chno="475" group-title="Peliculas",A&E
+#EXTINF:-1  tvg-id="AandE.ar" tvg-title="A&E" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/A&E.png?raw=true" tvg-chno="475" group-title="Peliculas",A&E
 http://190.7.19.197:232/play/a00c/index.m3u8
 #EXTINF:-1  tvg-id="TCM.ar" tvg-title="TCM" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCM_Latam_logo.svg.png?raw=true" tvg-chno="480" group-title="Peliculas",TCM
 http://190.7.19.197:232/play/a014/index.m3u8
-#EXTINF:-1  tvg-id="AMC.ar" tvg-title="AMC" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AMC_logo_2019.svg.png?raw=true" tvg-chno="485" group-title="Peliculas",AMC
-http://200.229.147.142:8000/play/a01y/index.m3u8
+#EXTINF:-1  tvg-id="AMC.ar" tvg-title="AMC" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AMC.png?raw=true" tvg-chno="485" group-title="Peliculas",AMC
+http://190.238.43.117:8000/play/a039/index.m3u8
 #EXTINF:-1  tvg-id="DISCOVERY ID HD.ar" tvg-title="Investigation Discovery" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ID.png?raw=true" tvg-chno="490" group-title="Peliculas",Investigation Discovery
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/437
 #EXTINF:-1  tvg-id="COMEDY CENTRAL.ar" tvg-title="Comedy Central" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Comedy_Central_2018.svg.png?raw=true" tvg-chno="495" group-title="Peliculas",Comedy Central
@@ -259,9 +259,9 @@ http://compactofm.hopto.org:7040/stream.mp3
 https://streaming01.shockmedia.com.ar:10586/stream
 #EXTINF:-1  tvg-id="Radio Brisas 98.5MHz" tvg-title="Radio Brisas 98.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radiobrisas.png?raw=true" tvg-chno="720" group-title="Musica",Radio Brisas 98.5MHz
 https://radio.ecolan.com:8443/stream.mp3
-#EXTINF:-1  tvg-id="Radio Mar del Plata 99.9MHz" tvg-title="Radio Mar del Plata 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/999.png?raw=true" tvg-chno="725" group-title="Musica",Radio Mar del Plata 99.9MHz
+#EXTINF:-1  tvg-id="Radio Mar del Plata 99.9MHz" tvg-title="Radio Mar del Plata 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/RADIO999.png?raw=true" tvg-chno="725" group-title="Musica",Radio Mar del Plata 99.9MHz
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0155
-#EXTINF:-1  tvg-id="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-title="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/981.png?raw=true" tvg-chno="730" group-title="Musica",El ayer / Parte de tu historia personal FM 98.1MHz
+#EXTINF:-1  tvg-id="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-title="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/RADIO981.png?raw=true" tvg-chno="730" group-title="Musica",El ayer / Parte de tu historia personal FM 98.1MHz
 https://icecast.unomedios.com.ar/ayer
 #EXTINF:-1  tvg-id="Planet Music 101.1MHz" tvg-title="Planet Music 101.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/planetmusic.png?raw=true" tvg-chno="735" group-title="Musica",Planet Music 101.1MHz
 https://strcdn.klm99.com:10991/planetmdp
