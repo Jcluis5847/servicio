@@ -139,9 +139,9 @@ http://200.229.147.142:8000/play/a03u/index.m3u8
 http://200.229.147.142:8000/play/a03v/index.m3u8
 #EXTINF:-1  tvg-id="Universal Cinema HD" tvg-title="Universal Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_cinema-mediano.png?raw=true" tvg-chno="335" group-title="Peliculas",Universal Cinema
 http://190.97.183.108:8000/play/a05o/index.m3u8
-#EXTINF:-1  tvg-id="HBO Xtreme." tvg-title="HBO Xtreme" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOXTREME.png?raw=true" tvg-chno="340" group-title="Peliculas",HBO Xtreme
+#EXTINF:-1  tvg-id="HBO XTREME HD.ar" tvg-title="HBO Xtreme" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOXTREME.png?raw=true" tvg-chno="340" group-title="Peliculas",HBO Xtreme
 http://190.238.43.117:8000/play/a010/index.m3u8
-#EXTINF:-1  tvg-id="HBO Pop" tvg-title="HBO Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOPOP.png?raw=true" tvg-chno="345" group-title="Peliculas",HBO Pop
+#EXTINF:-1  tvg-id="HBO POP HD.ar" tvg-title="HBO Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOPOP.png?raw=true" tvg-chno="345" group-title="Peliculas",HBO Pop
 http://190.7.19.197:232/play/a016/index.m3u8
 #EXTINF:-1  tvg-id="HBO FAMILY HD.ar" tvg-title="HBO Family" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_Family.svg.png?raw=true" tvg-chno="350" group-title="Peliculas",HBO Family
 http://181.13.252.102:8000/play/a06r/index.m3u8
