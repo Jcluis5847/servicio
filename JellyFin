@@ -127,7 +127,7 @@ http://190.7.19.197:232/play/a01i/index.m3u8
 http://181.13.252.102:8000/play/a05e/index.m3u8
 #EXTINF:-1  tvg-id="UNIVERSAL TV.ar" tvg-title="Universal TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/UNIVERSALTV.png?raw=true" tvg-chno="305" group-title="Peliculas",Universal TV
 http://181.13.252.102:8000/play/a05j/index.m3u8
-#EXTINF:-1  tvg-id="Studio Universal HD" tvg-title="Studio Universal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STUDIO.png?raw=true" tvg-chno="310" group-title="Peliculas",Studio Universal
+#EXTINF:-1  tvg-id="STUDIO UNIVERSAL.ar" tvg-title="Studio Universal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STUDIO.png?raw=true" tvg-chno="310" group-title="Peliculas",Studio Universal
 http://181.13.252.102:8000/play/a022/index.m3u8
 #EXTINF:-1  tvg-id="STUDIO UNIVERSAL HD.ar" tvg-title="Universal Reality" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_reality-mediano.png?raw=true" tvg-chno="315" group-title="Peliculas",Universal Reality
 http://200.229.147.142:8000/play/a03t/index.m3u8
