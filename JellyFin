@@ -75,9 +75,9 @@ http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179524
 http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tntsport.png?raw=true" tvg-chno="165" group-title="Deportes",TNT Sports Premium
 http://190.7.19.197:232/play/a037/index.m3u8
-#EXTINF:-1  tvg-id="Directv Sports" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="170" group-title="Deportes",DirecTV Sports
+#EXTINF:-1  tvg-id="179#DTS+" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="170" group-title="Deportes",DirecTV Sports
 http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
-#EXTINF:-1  tvg-id="DIRECTV Sports 3" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="Deportes",DirecTV Sports 2
+#EXTINF:-1  tvg-id="612#DTS2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="Deportes",DirecTV Sports 2
 http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
 #EXTINF:-1  tvg-id="DISNEY CHANNEL.ar" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="180" group-title="Infantiles",Disney Channel
 http://190.7.19.197:232/play/a04v/index.m3u8
