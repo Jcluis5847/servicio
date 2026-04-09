@@ -131,13 +131,13 @@ http://181.13.252.102:8000/play/a05j/index.m3u8
 http://181.13.252.102:8000/play/a022/index.m3u8
 #EXTINF:-1  tvg-id="STUDIO UNIVERSAL HD.ar" tvg-title="Universal Reality" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_reality-mediano.png?raw=true" tvg-chno="315" group-title="Peliculas",Universal Reality
 http://200.229.147.142:8000/play/a03t/index.m3u8
-#EXTINF:-1  tvg-id="Universal Premiere Oeste HD" tvg-title="Universal Premiere" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_premiere-mediano.png?raw=true" tvg-chno="320" group-title="Peliculas",Universal Premiere
+#EXTINF:-1  tvg-id="0844" tvg-title="Universal Premiere" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_premiere-mediano.png?raw=true" tvg-chno="320" group-title="Peliculas",Universal Premiere
 http://200.229.147.142:8000/play/a03r/index.m3u8
-#EXTINF:-1  tvg-id="Universal Crime Oeste HD" tvg-title="Universal Crime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_crime-mediano.png?raw=true" tvg-chno="325" group-title="Peliculas",Universal Crime
+#EXTINF:-1  tvg-id="1842" tvg-title="Universal Crime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_crime-mediano.png?raw=true" tvg-chno="325" group-title="Peliculas",Universal Crime
 http://200.229.147.142:8000/play/a03u/index.m3u8
-#EXTINF:-1  tvg-id="Universal Comedy HD" tvg-title="Universal Comedy" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Universal_Comedy_2021.png?raw=true" tvg-chno="330" group-title="Peliculas",Universal Comedy
+#EXTINF:-1  tvg-id="0845" tvg-title="Universal Comedy" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Universal_Comedy_2021.png?raw=true" tvg-chno="330" group-title="Peliculas",Universal Comedy
 http://200.229.147.142:8000/play/a03v/index.m3u8
-#EXTINF:-1  tvg-id="Universal Cinema HD" tvg-title="Universal Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_cinema-mediano.png?raw=true" tvg-chno="335" group-title="Peliculas",Universal Cinema
+#EXTINF:-1  tvg-id="0841" tvg-title="Universal Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universal_cinema-mediano.png?raw=true" tvg-chno="335" group-title="Peliculas",Universal Cinema
 http://190.97.183.108:8000/play/a05o/index.m3u8
 #EXTINF:-1  tvg-id="HBO XTREME HD.ar" tvg-title="HBO Xtreme" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOXTREME.png?raw=true" tvg-chno="340" group-title="Peliculas",HBO Xtreme
 http://190.238.43.117:8000/play/a010/index.m3u8
@@ -159,7 +159,7 @@ http://181.13.252.102:8000/play/a02c/index.m3u8
 http://200.229.147.142:8000/play/a023/index.m3u8
 #EXTINF:-1  tvg-id="Multipremier" tvg-title="Multipremier" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Multipremier_logo.svg.png?raw=true" tvg-chno="395" group-title="Peliculas",Multipremier
 http://200.229.147.142:8000/play/a04f/index.m3u8
-#EXTINF:-1  tvg-id="Golden TV" tvg-title="Golden" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Canal_Golden_logo.svg.png?raw=true" tvg-chno="400" group-title="Peliculas",Golden
+#EXTINF:-1  tvg-id="0821" tvg-title="Golden" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Canal_Golden_logo.svg.png?raw=true" tvg-chno="400" group-title="Peliculas",Golden
 http://190.60.39.195:8000/play/a0xh/index.m3u8
 #EXTINF:-1  tvg-id="Golden Premier" tvg-title="Golden Premier" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLDEN.png?raw=true" tvg-chno="405" group-title="Peliculas",Golden Premier
 http://200.229.147.142:8000/play/a00g/index.m3u8
@@ -167,7 +167,7 @@ http://200.229.147.142:8000/play/a00g/index.m3u8
 http://200.229.147.142:8000/play/a00h/index.m3u8
 #EXTINF:-1  tvg-id="Golden Plus" tvg-title="Golden Plus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/goldenplus.png?raw=true" tvg-chno="415" group-title="Peliculas",Golden Plus
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65219
-#EXTINF:-1  tvg-id="Golden Edge" tvg-title="Golden Edge" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/golden_edge-mediano.png?raw=true" tvg-chno="420" group-title="Peliculas",Golden Edge
+#EXTINF:-1  tvg-id="0823" tvg-title="Golden Edge" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/golden_edge-mediano.png?raw=true" tvg-chno="420" group-title="Peliculas",Golden Edge
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65217
 #EXTINF:-1  tvg-id="Free TV Accion" tvg-title="Free TV Accion" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FREETVACTION.jpg?raw=true" tvg-chno="425" group-title="Peliculas",Free TV Accion
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
@@ -181,13 +181,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 #EXTINF:-1  tvg-id="Free TV Sureño" tvg-title="Free TV Sureño" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FREETVSURENO.jpg?raw=true" tvg-chno="450" group-title="Peliculas",Free TV Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
-#EXTINF:-1  tvg-id="De Película" tvg-title="De Película" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPELICULA.png?raw=true" tvg-chno="455" group-title="Peliculas",De Película
+#EXTINF:-1  tvg-id="0830" tvg-title="De Película" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPELICULA.png?raw=true" tvg-chno="455" group-title="Peliculas",De Película
 http://190.238.43.117:8000/play/a06q/index.m3u8
 #EXTINF:-1  tvg-id="Cinelatino.ar" tvg-title="Cine Latino" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINELATINO.png?raw=true" tvg-chno="460" group-title="Peliculas",Cine Latino
 http://200.229.147.142:8000/play/a04g/index.m3u8
 #EXTINF:-1  tvg-id="0640" tvg-title="UNIFE" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/UNIFE.png?raw=true" tvg-chno="460" group-title="Peliculas",UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
-#EXTINF:-1  tvg-id="azteca-internacional" tvg-title="Azteca Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMA.png?raw=true" tvg-chno="465" group-title="Peliculas",Azteca Cinema
+#EXTINF:-1  tvg-id="0630" tvg-title="Azteca Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMA.png?raw=true" tvg-chno="465" group-title="Peliculas",Azteca Cinema
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1  tvg-id="AXN HD" tvg-title="AXN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true" tvg-chno="470" group-title="Peliculas",AXN
 http://190.238.43.117:8000/play/a00b/index.m3u8
@@ -213,7 +213,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://200.229.147.142:8000/play/a004/index.m3u8
 #EXTINF:-1  tvg-id="HGTV.ar" tvg-title="HGTV (Home Garden TV)" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HGTV.png?raw=true" tvg-chno="520" group-title="Peliculas",HGTV (Home Garden TV)
 http://190.7.19.197:232/play/a04n/index.m3u8
-#EXTINF:-1  tvg-id="clic" tvg-title="Clic!" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLIC.png?raw=true" tvg-chno="525" group-title="Peliculas",Clic!
+#EXTINF:-1  tvg-id="0635" tvg-title="Clic!" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLIC.png?raw=true" tvg-chno="525" group-title="Peliculas",Clic!
 http://200.229.147.142:8000/play/a024/index.m3u8
 #EXTINF:-1  tvg-id="NATIONAL GEOGRAPHIC.ar" tvg-title="Nat Geo WILD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/natgeowild.png?raw=true" tvg-chno="530" group-title="Peliculas",Nat Geo WILD
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/440
@@ -235,7 +235,7 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/54485
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/431
 #EXTINF:-1  tvg-id="HISTORY 2.ar" tvg-title="History 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/history2.png?raw=true" tvg-chno="575" group-title="Peliculas",History 2
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/54482
-#EXTINF:-1  tvg-id="E! Entertainment" tvg-title="E! Entertainment Televisión" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/E.png?raw=true" tvg-chno="580" group-title="Peliculas",E! Entertainment Televisión
+#EXTINF:-1  tvg-id="0606" tvg-title="E! Entertainment Televisión" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/E.png?raw=true" tvg-chno="580" group-title="Peliculas",E! Entertainment Televisión
 http://190.238.43.117:8000/play/a021/index.m3u8
 #EXTINF:-1  tvg-id="ESBC2100001IU" tvg-title="Vevo Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/VEVOPOP.png?raw=true" tvg-chno="675" group-title="Musica",Vevo Pop
 https://jmp2.uk/stvp-ESBC2100001IU
