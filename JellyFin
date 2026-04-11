@@ -1,5 +1,5 @@
 #EXTM3U  refresh="0.01" url-tvg="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/directv.com.ar/directv.com.ar.channels.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina5.xml.gzhttps://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/reportv.com.ar/reportv.com.ar.channels.xml,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml"
-#EXTINF:-1  tvg-id="0963" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="005" group-title="Noticias",BravoTV
+#EXTINF:-1  tvg-id="Bravo TV (ARG)" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="005" group-title="Noticias",BravoTV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1  tvg-title="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="010" group-title="Noticias",Canal 2 MDP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
@@ -10,7 +10,7 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1  tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="025" group-title="Noticias",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-id="AMERICA TV.ar" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="030" group-title="Noticias",América TV
-http://138.121.114.91:8000/play/a094/index.m3u8
+http://190.7.19.197:232/play/a03b/index.m3u8
 #EXTINF:-1  tvg-id="TELEFE.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="035" group-title="Noticias",Telefe
 http://190.95.60.228:8500/play/a031
 #EXTINF:-1  tvg-id="Canal 10 Mar del Plata.ar" tvg-title="Canal 10 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="036" group-title="Noticias",Canal 10 MDP
@@ -26,11 +26,11 @@ http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1  tvg-id="ARGENTINISIMA.ar" tvg-title="Argentinisima Satelital" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/argentinisimasatelital.png?raw=true" tvg-chno="055" group-title="Noticias",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1  tvg-id="EL NUEVE.ar" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="060" group-title="Noticias",el nueve
-http://138.121.114.91:8000/play/a08k/index.m3u8
+http://190.7.19.197:232/play/a03k/index.m3u8
 #EXTINF:-1  tvg-id="A24.ar" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="065" group-title="Noticias",A24
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157613
 #EXTINF:-1  tvg-id="C5N.ar" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="070" group-title="Noticias",C5N
-http://138.121.114.91:8000/play/a05v/index.m3u8
+http://190.7.19.197:232/play/a040/index.m3u8
 #EXTINF:-1  tvg-id="CRONICA TV.ar" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="075" group-title="Noticias",Cronica HD
 http://181.13.252.102:8000/play/a01q/index.m3u8
 #EXTINF:-1  tvg-id="TN.ar" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="080" group-title="Noticias",TN Todo Noticias
@@ -38,7 +38,7 @@ http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1  tvg-id="ARGENTINA 12.ar" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="081" group-title="Noticias",Ar|12
 http://190.7.19.197:232/play/a00o/index.m3u8
 #EXTINF:-1  tvg-id="LN+.ar" tvg-title="LN+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LN+.png?raw=true" tvg-chno="081" group-title="Noticias",LN+
-http://138.121.114.91:8000/play/a05y/index.m3u8
+http://181.209.37.74:8001/play/a05y/index.m3u8
 #EXTINF:-1  tvg-id="Canal 26.ar" tvg-title="Canal 26" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true" tvg-chno="085" group-title="Noticias",Canal 26
 http://190.7.19.197:232/play/a042/index.m3u8
 #EXTINF:-1  tvg-id="TELEMAX.ar" tvg-title="Telemax" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telemax-ar.png?raw=true" tvg-chno="090" group-title="Noticias",Telemax
@@ -51,12 +51,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://190.7.19.197:232/play/a04l/index.m3u8
 #EXTINF:-1  tvg-id="CANAL DE LA CIUDAD.ar" tvg-title="Canal de la ciudad" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canaldelaciudad.png?raw=true" tvg-chno="110" group-title="Noticias",Canal de la ciudad
 http://168.197.196.98:82/stream/channelid/1330348835?profile=pass
-#EXTINF:-1  tvg-id="Canal 4 Posadas" tvg-title="Canal 4 Posadas" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CANAL4POSADAS.png?raw=true" tvg-chno="111" group-title="Noticias",4 Posadas
-https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
-#EXTINF:-1  tvg-id="Canal 4 Posadas" tvg-title="Canal 4 Posadas" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CANAL7JUJUY.png?raw=true" tvg-chno="112" group-title="Noticias", 7 JUJUY
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1  tvg-title="Claro Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="115" group-title="Deportes",Claro Sports
-http://181.205.130.194:4000/play/a06o
 #EXTINF:-1  tvg-id="TYC SPORTS.ar" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="120" group-title="Deportes",TyC Sports
 http://138.121.114.91:8000/play/a06x/index.m3u8
 #EXTINF:-1  tvg-id="ESPN PREMIUM.ar" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="125" group-title="Deportes",ESPN Premium
@@ -75,10 +69,6 @@ http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179524
 http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tntsport.png?raw=true" tvg-chno="165" group-title="Deportes",TNT Sports Premium
 http://190.7.19.197:232/play/a037/index.m3u8
-#EXTINF:-1  tvg-id="179#DTS+" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="170" group-title="Deportes",DirecTV Sports
-http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
-#EXTINF:-1  tvg-id="612#DTS2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="Deportes",DirecTV Sports 2
-http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
 #EXTINF:-1  tvg-id="DISNEY CHANNEL.ar" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="180" group-title="Infantiles",Disney Channel
 http://190.7.19.197:232/play/a04v/index.m3u8
 #EXTINF:-1  tvg-id="NICK JR.ar" tvg-title="Nick Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true" tvg-chno="185" group-title="Infantiles",Nick Jr.
@@ -169,18 +159,6 @@ http://200.229.147.142:8000/play/a00h/index.m3u8
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65219
 #EXTINF:-1  tvg-id="0823" tvg-title="Golden Edge" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/golden_edge-mediano.png?raw=true" tvg-chno="420" group-title="Peliculas",Golden Edge
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65217
-#EXTINF:-1  tvg-id="Free TV Accion" tvg-title="Free TV Accion" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FREETVACTION.jpg?raw=true" tvg-chno="425" group-title="Peliculas",Free TV Accion
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
-#EXTINF:-1  tvg-id="Free TV Drama" tvg-title="Free TV Drama" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FREETVDRAMA.jpg?raw=true" tvg-chno="430" group-title="Peliculas",Free TV Drama
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
-#EXTINF:-1  tvg-id="Free TV Estelar" tvg-title="Free TV Estelar" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FREETVESTELAR.jpg?raw=true" tvg-chno="435" group-title="Peliculas",Free TV Estelar
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
-#EXTINF:-1  tvg-id="Free TV Live" tvg-title="Free TV Live" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FREETVLIVE.jpg?raw=true" tvg-chno="440" group-title="Peliculas",Free TV Live
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1  tvg-id="Free TV Terror" tvg-title="Free TV Terror" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FREETVTERROR.jpg?raw=true" tvg-chno="445" group-title="Peliculas",Free TV Terror
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
-#EXTINF:-1  tvg-id="Free TV Sureño" tvg-title="Free TV Sureño" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FREETVSURENO.jpg?raw=true" tvg-chno="450" group-title="Peliculas",Free TV Sureño
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 #EXTINF:-1  tvg-id="0830" tvg-title="De Película" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPELICULA.png?raw=true" tvg-chno="455" group-title="Peliculas",De Película
 http://190.238.43.117:8000/play/a06q/index.m3u8
 #EXTINF:-1  tvg-id="Cinelatino.ar" tvg-title="Cine Latino" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINELATINO.png?raw=true" tvg-chno="460" group-title="Peliculas",Cine Latino
@@ -191,8 +169,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1  tvg-id="AXN HD" tvg-title="AXN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true" tvg-chno="470" group-title="Peliculas",AXN
 http://190.238.43.117:8000/play/a00b/index.m3u8
-#EXTINF:-1  tvg-id="Alerta Aeropuerto" tvg-title="Alerta Aeropuerto" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ALERTAEROPUERTO.jpg?raw=true" tvg-chno="471" group-title="Peliculas",Alerta Aeropuerto
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/583792.ts
 #EXTINF:-1  tvg-id="AandE.ar" tvg-title="A&E" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/A&E.png?raw=true" tvg-chno="475" group-title="Peliculas",A&E
 http://190.7.19.197:232/play/a00c/index.m3u8
 #EXTINF:-1  tvg-id="TCM.ar" tvg-title="TCM" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TCM.png?raw=true" tvg-chno="480" group-title="Peliculas",TCM
@@ -321,4 +297,3 @@ http://esfamous.top:8080/es4461731081170001/740e8b1abcb4/32238
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/159953
 #EXTINF:-1  tvg-id="PORNBOX: ADULT TIME" tvg-title="PORNBOX: ADULT TIME" tvg-logo="https://n9.cl/oypf0" tvg-chno="999.14" group-title="XXX",PORNBOX: ADULT TIME
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/159954
-
