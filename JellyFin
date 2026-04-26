@@ -1,7 +1,7 @@
 #EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/merged/argentina.xml.txt,https://raw.githubusercontent.com/Jcluis5847/3P6XML/refs/heads/main/1.xml,https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/directv.com.ar/directv.com.ar.channels.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina5.xml.gzhttps://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/reportv.com.ar/reportv.com.ar.channels.xml,https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml"
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://iptv-epg.org/files/epg-ar.xml.gz" deinterlaced="1"
 #EXTM3U url-epg="https://iptv-epg.org/files/epg-ar.xml,https://raw.githubusercontent.com/Jcluis5847/3P6XML/refs/heads/main/1.xml"
-#EXTINF:-1  tvg-id="Bravo.ar" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="005" group-title="Noticias",BravoTV
+#EXTINF:-1  tvg-id="BravoTv.ar" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="005" group-title="Noticias",BravoTV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1  tvg-title="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="010" group-title="Noticias",Canal 2 MDP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
@@ -52,7 +52,7 @@ http://190.7.19.197:232/play/a040/index.m3u8
 http://181.13.252.102:8000/play/a01q/index.m3u8
 #EXTINF:-1  tvg-id="TN.ar" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="080" group-title="Noticias",TN Todo Noticias
 http://181.13.252.102:8000/play/a058/index.m3u8
-#EXTINF:-1  tvg-id="ARGENTINA 12.ar" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="081" group-title="Noticias",Ar|12
+#EXTINF:-1  tvg-id="Ar12.ar" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="081" group-title="Noticias",Ar|12
 http://190.7.19.197:232/play/a00o/index.m3u8
 #EXTINF:-1  tvg-id="LN+.ar" tvg-title="LN+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LN+.png?raw=true" tvg-chno="081" group-title="Noticias",LN+
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/lntv.playlist.m3u8
