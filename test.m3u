@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1  tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="045" group-title="Noticias",Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="IPTV-EPG.org" source-info-url="https://iptv-epg.org">
+  <channel id="C79MDP">
+    <display-name>Mar del Plata</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true"/>
+  </channel>
+  <programme start="20260425090000 +0000" stop="20260430120000 +0000" channel="C79MDP">
+    <title lang="es">Servicios y Clima</title>
+    <desc lang="es">Musical
+Programa radial, en el cual se mantiene el tradicionalismo Argentino. con una selección musical exclusivamente con musica de Payadas, Milongas, decimas, etc.</desc>
+  </programme>
