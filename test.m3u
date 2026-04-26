@@ -1,3 +1,3 @@
 #EXTM3U  refresh="0.01" url-tvg="https://raw.githubusercontent.com/Jcluis5847/servicio/refs/heads/main/test.xml"
-#EXTINF:-1  tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="045" group-title="Noticias",Mar del Plata
+#EXTINF:-1  tvg-id="C79MDP" tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="001" group-title="Clima",Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
