@@ -16,15 +16,15 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1  tvg-id="TELEFE.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="035" group-title="Noticias",Telefe
 http://190.7.19.197:232/play/a059/index.m3u8
-#EXTINF:-1  tvg-id="GRAN HERMANO MULTICAM" tvg-title="GRAN HERMANO MULTICAM" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="036" group-title="Noticias",GRAN HERMANO MULTICAM
+#EXTINF:-1  tvg-id="GHMC" tvg-title="GRAN HERMANO MULTICAM" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="036" group-title="Noticias",GRAN HERMANO MULTICAM
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749371.ts
-#EXTINF:-1  tvg-id="GRAN HERMANO 24HS" tvg-title="GRAN HERMANO 24HS" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="037" group-title="Noticias",GRAN HERMANO 24HS
+#EXTINF:-1  tvg-id="GH24HS" tvg-title="GRAN HERMANO 24HS" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="037" group-title="Noticias",GRAN HERMANO 24HS
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749367.ts
-#EXTINF:-1  tvg-id="GRAN HERMANO CAM 1" tvg-title="GRAN HERMANO CAM 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="038" group-title="Noticias",GRAN HERMANO CAM 1
+#EXTINF:-1  tvg-id="GHC1" tvg-title="GRAN HERMANO CAM 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="038" group-title="Noticias",GRAN HERMANO CAM 1
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749368.ts
-#EXTINF:-1  tvg-id="GRAN HERMANO CAM 2" tvg-title="GRAN HERMANO CAM 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="039" group-title="Noticias",GRAN HERMANO CAM 2
+#EXTINF:-1  tvg-id="GHC2" tvg-title="GRAN HERMANO CAM 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="039" group-title="Noticias",GRAN HERMANO CAM 2
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749369.ts
-#EXTINF:-1  tvg-id="GRAN HERMANO CAM 3" tvg-title="GRAN HERMANO CAM 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="040" group-title="Noticias",GRAN HERMANO CAM 3
+#EXTINF:-1  tvg-id="GHC3" tvg-title="GRAN HERMANO CAM 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="040" group-title="Noticias",GRAN HERMANO CAM 3
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749370.ts
 #EXTINF:-1  tvg-id="Canal 10 Mar del Plata.ar" tvg-title="Canal 10 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="041" group-title="Noticias",Canal 10 MDP
 #EXTVLCOPT:http-user-agent=Android 8.0.0
