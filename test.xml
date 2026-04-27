@@ -12,8 +12,24 @@
     <title lang="es">Servicios y Clima</title>
     <desc lang="es">Servicios y Clima</desc>
   </programme>
-  <programme start="20260425000000 +0000" stop="20260530000000 +0000" channel="GH2026">
-    <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
+  <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GH24HS">
+    <title lang="es">DGO Presentan: Espiando la casa</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GHMC">
+    <title lang="es">GH MULTICAMARA</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GHC1S">
+    <title lang="es">GH CAMARA 1</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GHC2">
+    <title lang="es">GH CAMARA 2</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GHC3">
+    <title lang="es">GH CAMARA 3</title>
     <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
   </programme>
   </tv>
