@@ -3,13 +3,13 @@
 #EXTM3U url-epg="https://iptv-epg.org/files/epg-ar.xml,https://raw.githubusercontent.com/Jcluis5847/3P6XML/refs/heads/main/1.xml"
 #EXTINF:-1  tvg-id="BravoTv.ar" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="005" group-title="Noticias",BravoTV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
-#EXTINF:-1  tvg-title="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="010" group-title="Noticias",Canal 2 MDP
+#EXTINF:-1  tvg-id="C2MDP" tvg-title="Canal 2 Mar del Plata" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="010" group-title="Noticias",Canal 2 MDP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1  tvg-id="NET TV.ar" tvg-title="NET TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true" tvg-chno="015" group-title="Noticias",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1  tvg-title="Gen TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true" tvg-chno="020" group-title="Noticias",Gen TV
+#EXTINF:-1  tvg-id="GENTV" tvg-title="Gen TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true" tvg-chno="020" group-title="Noticias",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1  tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="025" group-title="Noticias",Neo TV
+#EXTINF:-1  tvg-id="NEOTV" tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="025" group-title="Noticias",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-id="AMERICA TV.ar" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="030" group-title="Noticias",América TV
 #EXTVLCOPT:http-user-agent=Android 8.0.0
