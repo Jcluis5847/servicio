@@ -4,14 +4,16 @@
     <display-name>Mar del Plata</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true"/>
   </channel>
+    <channel id="GH2026">
+    <display-name>Gran Hermano 2026</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
   <programme start="20260425090000 +0000" stop="20260430120000 +0000" channel="C79MDP">
     <title lang="es">Servicios y Clima</title>
-    <desc lang="es">Musical
-Programa radial, en el cual se mantiene el tradicionalismo Argentino. con una selección musical exclusivamente con musica de Payadas, Milongas, decimas, etc.</desc>
+    <desc lang="es">Servicios y Clima</desc>
   </programme>
-    <programme start="20260425021500 +0000" stop="20260428031500 +0000" channel="GH2026">
+  <programme start="20260426021500 +0000" stop="20260426031500 +0000" channel="GH2026">
     <title lang="es">DirecTV - DGO Presentan: Espiando la casa</title>
-    <desc lang="es">Reality
-Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
   </programme>
-</tv>
+  </tv>
