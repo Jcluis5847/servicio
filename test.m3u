@@ -1,3 +1,13 @@
 #EXTM3U  refresh="0.01" url-tvg="https://raw.githubusercontent.com/Jcluis5847/servicio/refs/heads/main/test.xml"
 #EXTINF:-1  tvg-id="C79MDP" tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="001" group-title="Clima",Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:-1  tvg-id="GH2026" tvg-title="GRAN HERMANO MULTICAM" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="002" group-title="Reality",GRAN HERMANO MULTICAM
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749371.ts
+#EXTINF:-1  tvg-id="GH2026" tvg-title="GRAN HERMANO 24HS" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="003" group-title="Reality",GRAN HERMANO 24HS
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749367.ts
+#EXTINF:-1  tvg-id="GH2026" tvg-title="GRAN HERMANO CAM 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="004" group-title="Reality",GRAN HERMANO CAM 1
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749368.ts
+#EXTINF:-1  tvg-id="GH2026" tvg-title="GRAN HERMANO CAM 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="005" group-title="Reality",GRAN HERMANO CAM 2
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749369.ts
+#EXTINF:-1  tvg-id="GH2026" tvg-title="GRAN HERMANO CAM 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="006" group-title="Reality",GRAN HERMANO CAM 3
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749370.ts
