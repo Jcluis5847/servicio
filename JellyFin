@@ -116,7 +116,7 @@ http://45.5.151.62:8000/play/a00z/index.m3u8
 http://magiz.net:8080/live/juarez/12345678/217.ts
 #EXTINF:-1  tvg-id="Dreamworks" tvg-title="DreamWorks" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/dreamworks.png?raw=true" tvg-chno="235" group-title="Peliculas",DreamWorks
 http://45.5.151.62:8000/play/a010/index.m3u8
-#EXTINF:-1  tvg-id="Netflix.ar" tvg-title="Netflix" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NETFLIX.png?raw=true" tvg-chno="236" group-title="Peliculas",Netflix
+#EXTINF:-1  tvg-id="NETFLIX" tvg-title="Netflix" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NETFLIX1.png?raw=true" tvg-chno="236" group-title="Peliculas",Netflix
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/235580.ts
 #EXTINF:-1  tvg-id="CineAr.ar" tvg-title="CineAR" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cinear.png?raw=true" tvg-chno="240" group-title="Peliculas",CineAR
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-20.playlist.m3u8
