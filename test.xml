@@ -4,8 +4,24 @@
     <display-name>Mar del Plata</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true"/>
   </channel>
-    <channel id="GH2026">
-    <display-name>Gran Hermano 2026</display-name>
+    <channel id="GH24HS">
+    <display-name>Gran Hermano 24Hs</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+      <channel id="GHMC">
+    <display-name>Gran Hermano Multicamara</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+      <channel id="GHC1">
+    <display-name>Gran hermano Camara 1</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+      <channel id="GHC2">
+    <display-name>Gran hermano Camara 2</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+      <channel id="GHC3">
+    <display-name>Gran hermano Camara 3</display-name>
     <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
   </channel>
   <programme start="20260425000000 +0000" stop="20260430000000 +0000" channel="C79MDP">
