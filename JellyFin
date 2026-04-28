@@ -90,6 +90,8 @@ http://190.7.19.197:232/play/a04x/index.m3u8
 http://190.7.19.197:232/play/a04w/index.m3u8
 #EXTINF:-1  tvg-id="DSports" tvg-title="DSports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DSPORTS.png?raw=true" tvg-chno="165" group-title="Deportes",DSports
 http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1  tvg-id="0927" tvg-title="DeporTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPORTV1.png?raw=true" tvg-chno="166" group-title="Deportes",DeporTV
+https://tvlibree.com/html/fl/?get=RGVwb3JUVkhE
 #EXTINF:-1  tvg-id="DISNEY CHANNEL.ar" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="180" group-title="Infantiles",Disney Channel
 http://190.7.19.197:232/play/a04v/index.m3u8
 #EXTINF:-1  tvg-id="NICK JR.ar" tvg-title="Nick Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true" tvg-chno="185" group-title="Infantiles",Nick Jr.
