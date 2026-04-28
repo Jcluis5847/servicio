@@ -248,15 +248,15 @@ https://jmp2.uk/stvp-ESBC2100001IU
 https://jmp2.uk/stvp-ESBC2100002LV
 #EXTINF:-1  tvg-id="ESBD230000289" tvg-title="Vevo Retro" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/VEVORETRO.png?raw=true" tvg-chno="685" group-title="Musica",Vevo Retro
 https://jmp2.uk/stvp-ESBD230000289
-#EXTINF:-1  tvg-id="Radio 10 AM 710Hz" tvg-title="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" tvg-chno="690" group-title="Musica",Radio 10 AM 710Hz
+#EXTINF:-1  tvg-id="R10MDP" tvg-title="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" tvg-chno="690" group-title="Musica",Radio 10 AM 710Hz
 https://stream.zeno.fm/4r530f2a9f0uv
-#EXTINF:-1  tvg-id="La Red AM 910" tvg-title="La Red AM 910" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true" tvg-chno="695" group-title="Musica",La Red AM 910MHz
+#EXTINF:-1  tvg-id="R910AM" tvg-title="La Red AM 910" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true" tvg-chno="695" group-title="Musica",La Red AM 910MHz
 https://streaming01.shockmedia.com.ar/9926/stream
-#EXTINF:-1  tvg-id="KLA 91.7MHz" tvg-title="KLA 91.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true" tvg-chno="700" group-title="Musica",KLA 91.7MHz
+#EXTINF:-1  tvg-id="RKLA" tvg-title="KLA 91.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true" tvg-chno="700" group-title="Musica",KLA 91.7MHz
 https://streamconex.com:8104/stream
-#EXTINF:-1  tvg-id="Rock&Pop FM 95.9MHz" tvg-title="Rock&Pop FM 95.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" tvg-chno="705" group-title="Musica",Rock&Pop FM 95.9MHz
+#EXTINF:-1  tvg-id="RYPFM" tvg-title="Rock&Pop FM 95.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" tvg-chno="705" group-title="Musica",Rock&Pop FM 95.9MHz
 https://26583.live.streamtheworld.com/ROCKANDPOPAAC_SC
-#EXTINF:-1  tvg-id="FM Compacto FM 97.3MHz" tvg-title="FM Compacto FM 97.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true" tvg-chno="710" group-title="Musica",FM Compacto FM 97.3MHz
+#EXTINF:-1  tvg-id="FMCOMPACTO" tvg-title="FM Compacto FM 97.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true" tvg-chno="710" group-title="Musica",FM Compacto FM 97.3MHz
 http://compactofm.hopto.org:7040/stream.mp3
 #EXTINF:-1  tvg-id="La 97 Siempre FM 97.7MHz" tvg-title="La 97 Siempre FM 97.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true" tvg-chno="715" group-title="Musica",La 97 Siempre FM 97.7MHz
 https://streaming01.shockmedia.com.ar:10586/stream
