@@ -278,6 +278,8 @@ https://strcdn.klm99.com:10992/amormdp
 https://media425.digitar.net:8221/la100.mp3
 #EXTINF:-1  tvg-id="Buenos Aires DJ Eventos MIX" tvg-title="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true" tvg-chno="765" group-title="Musica",Buenos Aires DJ Eventos MIX
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
+#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" tvg-chno="766",Canal de la Música 
+https://g1.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1  tvg-id="HTV.ar" tvg-title="HTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HTV.png?raw=true" tvg-chno="770" group-title="Musica",HTV
 http://lunar.pm:8080/2052404365/41437862tow/115115
 #EXTINF:-1  tvg-id="QUIERO.ar" tvg-title="Quiero Musica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/quieromusica.png?raw=true" tvg-chno="775" group-title="Musica",Quiero Musica
