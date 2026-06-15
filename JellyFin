@@ -126,8 +126,9 @@ http://45.5.151.62:8000/play/a00z/index.m3u8
 #EXTINF:-1  tvg-id="Netflix" tvg-title="Netflix" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NETFLIX.png?raw=true" tvg-chno="530" group-title="Peliculas",Netflix
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/235580.ts
 
-#EXTINF:-1  tvg-id="Prime" tvg-title="Amazon Prime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NETFLIX.png?raw=true" tvg-chno="530" group-title="Peliculas",Amazon Prime
+#EXTINF:-1  tvg-id="Prime" tvg-title="Amazon Prime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PRIMEVIDEO.png?raw=true" tvg-chno="530" group-title="Peliculas",Amazon Prime
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/164939
+
 #EXTINF:-1  tvg-id="CineAr.ar" tvg-title="CineAR" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cinear.png?raw=true" tvg-chno="540" group-title="Peliculas",CineAR
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-20.playlist.m3u8
 #EXTINF:-1  tvg-id="SPACE.ar" tvg-title="Space" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SPACE.png?raw=true" tvg-chno="550" group-title="Peliculas",Space
@@ -170,9 +171,6 @@ http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-74.playl
 http://190.7.19.197:232/play/a00c/index.m3u8
 #EXTINF:-1  tvg-id="0630" tvg-title="Azteca Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMA.png?raw=true" tvg-chno="910" group-title="Peliculas",Azteca Cinema
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
-
-
-
 
 #EXTINF:-1  tvg-id="UNIVERSAL TV.ar" tvg-title="Universal TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/UNIVERSALTV.png?raw=true" tvg-chno="660" group-title="Peliculas",Universal TV
 http://181.13.252.102:8000/play/a05j/index.m3u8
