@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1  tvg-id="0963" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="010" group-title="Series",BravoTV
+#EXTM3U 
+#EXTINF:-1  tvg-id="0963" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="010" group-title="Noticias",BravoTV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1  tvg-id="C2MDP" tvg-title="Canal 2 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="020" group-title="News",Canal 2 MDP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
@@ -335,3 +335,4 @@ https://g1.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044
 http://lunar.pm:8080/2052404365/41437862tow/115115
 #EXTINF:-1  tvg-id="QUIERO.ar" tvg-title="Quiero Musica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/quieromusica.png?raw=true" tvg-chno="775" group-title="Musica",Quiero Musica
 http://181.209.37.74:8001/play/a06s/index.m3u8
+
