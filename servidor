@@ -230,7 +230,7 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65219
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65217
 
 
-#EXTINF:-1  tvg-id="LIFETIME.ar" tvg-title="Lifetime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true" tvg-chno="795",Lifetime
+#EXTINF:-1  tvg-id="LIFETIME HD.ar" tvg-title="Lifetime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true" tvg-chno="795",Lifetime
 http://190.238.43.117:8000/play/a026/index.m3u8
 #EXTINF:-1  tvg-id="CINECANAL.ar" tvg-title="Cinecanal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true" tvg-chno="570" group-title="Peliculas",Cinecanal
 http://181.13.252.102:8000/play/a07b/index.m3u8
