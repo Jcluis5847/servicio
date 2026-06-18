@@ -47,7 +47,7 @@ http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 
-#EXTINF:-1  tvg-id="247CanaldeNoticias.ar" tvg-title="24/7 Canal de Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/247noticias.png?raw=true" tvg-chno="221" group-title="News",24/7 Canal de Noticias
+#EXTINF:-1  tvg-id="24/7 Canal de Noticias.ar" tvg-title="24/7 Canal de Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/247noticias.png?raw=true" tvg-chno="221" group-title="News",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1  tvg-id="0922" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="200" group-title="News",Ar|12
 http://190.7.19.197:232/play/a00o/index.m3u8
