@@ -4,7 +4,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1  tvg-id="C2MDP" tvg-title="Canal 2 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="020" group-title="News",Canal 2 MDP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1  tvg-id="NET TV.ar" tvg-title="NET TVew" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true" tvg-chno="030" group-title="News",NET TV
-https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=440929625
+https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="GENTV" tvg-title="Gen TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true" tvg-chno="040" group-title="Noticias",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1  tvg-id="NEOTV" tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="050" group-title="Noticias",Neo TV
