@@ -10,7 +10,7 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1  tvg-id="NEOTV" tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="050" group-title="Noticias",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-id="AMERICA TV.ar" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="060" group-title="News",América TV
-https://github.com/12iptvok/12iptvok/blob/main/tvlive
+http://190.7.19.197:232/play/a03b/index.m3u8
 #EXTINF:-1  tvg-id="TELEFE.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="070" group-title="News",Telefe
 http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1  tvg-id="Canal 10 Mar del Plata.ar" tvg-title="Canal 10 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="090" group-title="News",Canal 10 MDP
