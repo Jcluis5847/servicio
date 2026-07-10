@@ -24,7 +24,7 @@ http://190.7.19.197:232/play/a03k/index.m3u8
 #EXTINF:-1  tvg-id="TN.ar" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="060" group-title="News",TN Todo Noticias
 http://190.7.19.197:232/play/a03l/index.m3u8
 #EXTINF:-1  tvg-id="A24.ar" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="065" group-title="News" user-agent="iPhone",A24
-http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157613
+http://45.238.54.67:8000/play/a03g/index.m3u8
 #EXTINF:-1  tvg-id="C5N.ar" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="070" group-title="News",C5N
 http://190.7.19.197:232/play/a040/index.m3u8
 #EXTINF:-1  tvg-id="CRONICA TV.ar" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="075" group-title="News",Cronica HD
