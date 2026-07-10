@@ -63,9 +63,10 @@ http://190.7.19.197:232/play/a03n/index.m3u8
 #EXTINF:-1  tvg-id="ESPN 2.ar" tvg-title="ESPN 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN2.png?raw=true" tvg-chno="203" group-title="sports",ESPN 2
 http://190.7.19.197:232/play/a03m/index.m3u8
 #EXTINF:-1  tvg-id="ESPN 3.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="204" group-title="sports",ESPN 3
-http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/2jxpJxY4/espn-3.png" group-title="Deportes",ESPN 3
+http://190.7.19.197:232/play/a03o/index.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS.ar" tvg-title="Fox Sports 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS.png?raw=true" tvg-chno="205" group-title="sports",Fox Sports 1
-http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/9575
+http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1  tvg-id="FOX SPORTS 2.ar" tvg-title="Fox Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS2.png?raw=true" tvg-chno="206" group-title="sports",Fox Sports 2
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/179524
 #EXTINF:-1  tvg-id="FOX SPORTS 3.ar" tvg-title="Fox Sports 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS3.png?raw=true" tvg-chno="207" group-title="sports",Fox Sports 3
@@ -79,7 +80,7 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1  tvg-id="0419" tvg-title="Claro Sports Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="211" group-title="sports",Claro Sports
 http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:-1  tvg-id="ESPN PREMIUM.ar" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="212" group-title="sports",ESPN Premium
-http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
+http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSPORTSPREMIUM.png?raw=true" tvg-chno="213" group-title="sports",TNT Sports Premium
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1  tvg-id="PAKA PAKA.ar" tvg-title="Paka Paka" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/pakapaka.png?raw=true" tvg-chno="300" group-title="kids",Paka Paka
