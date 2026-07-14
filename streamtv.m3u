@@ -30,8 +30,6 @@ https://broker.cdn.rcs.net.ar/mnp/c5n/output.mpd
 https://access.cdn.rcs.net.ar/mnp/oce000000095ng0pa36h7krinjbeki8f/output.mpd
 #EXTINF:-1  tvg-id="Canal 26.ar" tvg-title="Canal 26" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true" tvg-chno="080" group-title="News",Canal 26
 https://broker.cdn.rcs.net.ar/mnp/kharwzzmy100000012mb517x6muxvpna/output.mpd
-#EXTINF:-1  tvg-id="CanalE.ar" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal-e.jpg?raw=true" tvg-chno="085" group-title="News",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="247CanaldeNoticias.ar" tvg-title="24/7 Canal de Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/247noticias.png?raw=true" tvg-chno="090" group-title="News",24/7 Canal de Noticias
 https://broker.cdn.rcs.net.ar/hub/cn247tv/dash/247.mpd
 #EXTINF:-1  tvg-id="0922" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="095" group-title="News",Ar|12
@@ -166,10 +164,6 @@ https://broker.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1  tvg-id="EL GOURMET.ar" tvg-title="El Gourmet Televisión" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ELGOURMET.png?raw=true" tvg-chno="630" group-title="Peliculas",El Gourmet Televisión
 https://broker.cdn.rcs.net.ar/mnp/gourmet/output.mpd
-#EXTINF:-1  tvg-id="MAS CHIC.ar" tvg-title="Más Chic" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MASCHIC.png?raw=true" tvg-chno="635" group-title="Peliculas",Más Chic
-http://200.229.147.142:8000/play/a004/index.m3u8
-#EXTINF:-1  tvg-id="0635" tvg-title="Clic!" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLIC.png?raw=true" tvg-chno="640" group-title="Peliculas",Clic!
-http://200.229.147.142:8000/play/a024/index.m3u8
 #EXTINF:-1  tvg-id="HGTV.ar" tvg-title="HGTV (Home Garden TV)" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HGTV.png?raw=true" tvg-chno="645" group-title="Peliculas",HGTV (Home Garden TV)
 https://broker.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
 #EXTINF:-1  tvg-id="FOOD NETWORK.ar" tvg-title="Food Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOODNETWORK.png?raw=true" tvg-chno="650" group-title="Peliculas",Food Network
@@ -210,20 +204,6 @@ https://broker.cdn.rcs.net.ar/mnp/history2/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 #EXTINF:-1  tvg-id="COMEDY CENTRAL.ar" tvg-title="Comedy Central" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/COMEDYCENTRAL.png?raw=true" tvg-chno="740" group-title="Peliculas",Comedy Central
 https://access.cdn.rcs.net.ar/mnp/comedy/output.mpd
-#EXTINF:-1  tvg-id="TVE.ar" tvg-title="TVE" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TVE.png?raw=true" tvg-chno="745" group-title="Peliculas",TVE
-http://200.229.147.142:8000/play/a04l/index.m3u8
-#EXTINF:-1  tvg-id="ANTENA3.ar" tvg-title="Antena 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/antena3.png?raw=true" tvg-chno="750" group-title="Peliculas",Antena 3
-http://200.229.147.142:8000/play/a005/index.m3u8
-#EXTINF:-1  tvg-id="Pasiones.ar" tvg-title="Pasiones" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PASIONES.png?raw=true" tvg-chno="755" group-title="Peliculas",Pasiones
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/341
-#EXTINF:-1  tvg-id="Concert Channel" tvg-title="Concert Channel" tvg-logo="https://i.ibb.co/4FHz2zt/concer.png" tvg-chno="900" group-title="Musica",Concert Channel
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/79448.ts
-#EXTINF:-1  tvg-id="ESBC2100001IU" tvg-title="Vevo Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/VEVOPOP.png?raw=true" tvg-chno="905" group-title="Musica",Vevo Pop
-https://jmp2.uk/stvp-ESBC2100001IU
-#EXTINF:-1  tvg-id="ESBC2100002LV" tvg-title="Vevo Latino" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/VEVOLATINO.png?raw=true" tvg-chno="910" group-title="Musica",Vevo Latino
-https://jmp2.uk/stvp-ESBC2100002LV
-#EXTINF:-1  tvg-id="ESBD230000289" tvg-title="Vevo Retro" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/VEVORETRO.png?raw=true" tvg-chno="915" group-title="Musica",Vevo Retro
-https://jmp2.uk/stvp-ESBD230000289
 #EXTINF:-1  tvg-id="R10MDP" tvg-title="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" tvg-type="AUDIO" tvg-chno="920" group-title="Musica",Radio 10 AM 710Hz
 https://stream.zeno.fm/4r530f2a9f0uv
 #EXTINF:-1  tvg-id="R910AM" tvg-title="La Red AM 910" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true" tvg-type="AUDIO" tvg-chno="925" group-title="Musica",La Red AM 910MHz
