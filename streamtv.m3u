@@ -124,16 +124,6 @@ https://broker.cdn.rcs.net.ar/mnp/t8xqrnk00000253cu7nwb24ejzgzxj9d/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1  tvg-id="AMC.ar" tvg-title="AMC" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AMC.png?raw=true" tvg-chno="475" group-title="Peliculas",AMC
 https://broker.cdn.rcs.net.ar/mnp/amc/output.mpd
-#EXTINF:-1  tvg-id="DHE.ar" tvg-title="DHE" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DHE.png?raw=true" tvg-chno="480" group-title="Peliculas",DHE
-http://200.229.147.142:8000/play/a023/index.m3u8
-#EXTINF:-1  tvg-id="Multipremier" tvg-title="Multipremier" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Multipremier_logo.svg.png?raw=true" tvg-chno="485" group-title="Peliculas",Multipremier
-http://200.229.147.142:8000/play/a04f/index.m3u8
-#EXTINF:-1  tvg-id="De Película.ar" tvg-title="De Película" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPELICULA.png?raw=true" tvg-chno="490" group-title="Peliculas",De Película
-http://190.238.43.117:8000/play/a06q/index.m3u8
-#EXTINF:-1  tvg-id="Cinelatino.ar" tvg-title="Cine Latino" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINELATINO.png?raw=true" tvg-chno="495" group-title="Peliculas",Cine Latino
-http://200.229.147.142:8000/play/a04g/index.m3u8
-#EXTINF:-1  tvg-id="Volver.ar" tvg-title="Volver" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/volver-ar.png?raw=true" tvg-chno="500" group-title="Peliculas",Volver
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-74.playlist.m3u8
 #EXTINF:-1  tvg-id="0808" tvg-title="A&E" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/A&E.png?raw=true" tvg-chno="505" group-title="Peliculas",A&E
 https://broker.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e/output.mpd
 #EXTINF:-1  tvg-id="0630" tvg-title="Azteca Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMA.png?raw=true" tvg-chno="510" group-title="Peliculas",Azteca Cinema
