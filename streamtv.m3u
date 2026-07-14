@@ -114,7 +114,7 @@ https://broker.cdn.rcs.net.ar/mnp/sonymovies/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1  tvg-id="AXN HD" tvg-title="AXN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true" tvg-chno="455" group-title="Peliculas",AXN
 https://broker.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1  tvg-id="AXN HD" tvg-title="USA Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/usa.png?raw=true" tvg-chno="460" group-title="Peliculas",USA
+#EXTINF:-1  tvg-id="Syfy.ar" tvg-title="USA Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/usa.png?raw=true" tvg-chno="460" group-title="Peliculas",USA
 https://broker.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1  tvg-id="TNT NOVELAS.ar" tvg-title="TNT Novelas" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTNOVELAS.png?raw=true" tvg-chno="465" group-title="Peliculas",TNT Novelas
 https://broker.cdn.rcs.net.ar/mnp/t8xqrnk00000253cu7nwb24ejzgzxj9d/output.mpd
@@ -156,7 +156,7 @@ http://200.229.147.142:8000/play/a00h/index.m3u8
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65219
 #EXTINF:-1  tvg-id="Golden Edge.ar" tvg-title="Golden Edge" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/golden_edge-mediano.png?raw=true" tvg-chno="610" group-title="Peliculas",Golden Edge
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65217
-#EXTINF:-1  tvg-id="LIFETIME HD.ar" tvg-title="Lifetime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true" tvg-chno="615" group-title="Peliculas",Lifetime
+#EXTINF:-1  tvg-id="Lifetime.ar" tvg-title="Lifetime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true" tvg-chno="615" group-title="Peliculas",Lifetime
 https://broker.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1  tvg-id="CINECANAL.ar" tvg-title="Cinecanal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true" tvg-chno="620" group-title="Peliculas",Cinecanal
 https://broker.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
