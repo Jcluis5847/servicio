@@ -114,7 +114,7 @@ https://broker.cdn.rcs.net.ar/mnp/sonymovies/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1  tvg-id="AXN HD" tvg-title="AXN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true" tvg-chno="455" group-title="Peliculas",AXN
 https://broker.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1  tvg-id="AXN HD" tvg-title="USA Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AXN.png?raw=true" tvg-chno="460" group-title="Peliculas",USA Network
+#EXTINF:-1  tvg-id="AXN HD" tvg-title="USA Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/usa.png?raw=true" tvg-chno="460" group-title="Peliculas",USA
 https://broker.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1  tvg-id="TNT NOVELAS.ar" tvg-title="TNT Novelas" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTNOVELAS.png?raw=true" tvg-chno="465" group-title="Peliculas",TNT Novelas
 https://broker.cdn.rcs.net.ar/mnp/t8xqrnk00000253cu7nwb24ejzgzxj9d/output.mpd
