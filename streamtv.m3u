@@ -124,8 +124,6 @@ https://broker.cdn.rcs.net.ar/mnp/tcm/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1  tvg-id="0808" tvg-title="A&E" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/A&E.png?raw=true" tvg-chno="505" group-title="Peliculas",A&E
 https://broker.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e/output.mpd
-#EXTINF:-1  tvg-id="0630" tvg-title="Azteca Cinema" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMA.png?raw=true" tvg-chno="510" group-title="Peliculas",Azteca Cinema
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1  tvg-id="UNIVERSAL TV.ar" tvg-title="Universal TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/UNIVERSALTV.png?raw=true" tvg-chno="515" group-title="Peliculas",Universal TV
 https://broker.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1  tvg-id="STUDIO UNIVERSAL.ar" tvg-title="Studio Universal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STUDIO.png?raw=true" tvg-chno="520" group-title="Peliculas",Studio Universal
