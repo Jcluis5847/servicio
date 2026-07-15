@@ -229,8 +229,6 @@ https://streaming.evolucionstreaming.com:10833/stream?icy=http
 https://broker.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
 #EXTINF:-1  tvg-id="HTV.ar" tvg-title="HTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HTV.png?raw=true" tvg-chno="993" group-title="Musica",HTV
 https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
-#EXTINF:-1  tvg-id="QUIERO.ar" tvg-title="Quiero Musica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/quieromusica.png?raw=true" tvg-chno="994" group-title="Musica",Quiero Musica
-http://181.209.37.74:8001/play/a06s/index.m3u8
 #EXTINF:-1  tvg-id="Playboy.ar" tvg-title="Playboy TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLAYBOYTVHD-2012.png?raw=true" tvg-lock="true" tvg-chno="999.01" group-title="XXX",Playboy TV
 http://152.231.29.139:8000/play/a0dl/index.m3u8
 #EXTINF:-1  tvg-id="Venus.ar" tvg-title="Venus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Venuspng.png?raw=true" tvg-lock="true" tvg-chno="999.06" group-title="XXX",Venus
