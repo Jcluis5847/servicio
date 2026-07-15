@@ -149,16 +149,6 @@ http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnlt_2OCVTdlDf0KcKJbrptLQcSNrSqJQv2m
 http://190.238.43.117:8000/play/a02r/index.m3u8
 #EXTINF:-1  tvg-id="HBO SIGNATURE.ar" tvg-title="HBO Signature" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOsignature.png?raw=true" tvg-chno="585" group-title="Peliculas",HBO Signature
 http://181.13.252.102:8000/play/a02c/index.m3u8
-#EXTINF:-1  tvg-id="Golden.ar" tvg-title="Golden" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Canal_Golden_logo.svg.png?raw=true" tvg-chno="590" group-title="Peliculas",Golden
-http://190.60.39.195:8000/play/a0xh/index.m3u8
-#EXTINF:-1  tvg-id="Golden Premier" tvg-title="Golden Premier" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLDEN.png?raw=true" tvg-chno="595" group-title="Peliculas",Golden Premier
-http://200.229.147.142:8000/play/a00g/index.m3u8
-#EXTINF:-1  tvg-id="Golden Premier 2" tvg-title="Golden Premier 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GPREMIER2.png?raw=true" tvg-chno="600" group-title="Peliculas",Golden Premier 2
-http://200.229.147.142:8000/play/a00h/index.m3u8
-#EXTINF:-1  tvg-id="Golden Plus" tvg-title="Golden Plus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/goldenplus.png?raw=true" tvg-chno="605" group-title="Peliculas",Golden Plus
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65219
-#EXTINF:-1  tvg-id="Golden Edge.ar" tvg-title="Golden Edge" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/golden_edge-mediano.png?raw=true" tvg-chno="610" group-title="Peliculas",Golden Edge
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65217
 #EXTINF:-1  tvg-id="Lifetime.ar" tvg-title="Lifetime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true" tvg-chno="615" group-title="Peliculas",Lifetime
 https://broker.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1  tvg-id="CINECANAL.ar" tvg-title="Cinecanal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true" tvg-chno="620" group-title="Peliculas",Cinecanal
@@ -246,8 +236,6 @@ https://broker.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1  tvg-id="QUIERO.ar" tvg-title="Quiero Musica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/quieromusica.png?raw=true" tvg-chno="994" group-title="Musica",Quiero Musica
 http://181.209.37.74:8001/play/a06s/index.m3u8
-
-
 #EXTINF:-1  tvg-id="Playboy.ar" tvg-title="Playboy TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLAYBOYTVHD-2012.png?raw=true" tvg-lock="true" tvg-chno="999.01" group-title="XXX",Playboy TV
 http://152.231.29.139:8000/play/a0dl/index.m3u8
 #EXTINF:-1  tvg-id="Venus.ar" tvg-title="Venus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Venuspng.png?raw=true" tvg-lock="true" tvg-chno="999.06" group-title="XXX",Venus
