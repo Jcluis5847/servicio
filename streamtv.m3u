@@ -11,9 +11,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://broker.cdn.rcs.net.ar/mnp/qm88dp4x00000002jpgb20pm1djqsool/output.mpd
 #EXTINF:-1  tvg-id="Telefe.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="035" group-title="News",Telefe
 https://broker.cdn.rcs.net.ar/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
-#EXTINF:-1  tvg-id="Telefe.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="035" group-title="News",C8MDP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenendtime=1784076776&wowzatokenstarttime=0&wowzatokenhash=mXuBi-GhQ8UxJ4hMq1fp6rpzWKeNa9WzEK5uDxVl44c=
 #EXTINF:-1  tvg-id="Canal 10 Mar del Plata.ar" tvg-title="Canal 10 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="040" group-title="News",Canal 10 MDP
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
