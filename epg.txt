@@ -1,4 +1,4 @@
-#EXTEPG: https://raw.githubusercontent.com/Jcluis5847/3P6XML/refs/heads/main/1.xml
+#EXTEPG: https://raw.githubusercontent.com/Jcluis5847/servicio/refs/heads/main/epg.xml
 #EXTEPG: https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml
 #EXTEPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/es.xml
 #EXTEPG: https://iptv-epg.org/files/epg-ar.xml
