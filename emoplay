@@ -66,7 +66,7 @@ https://broker.cdn.rcs.net.ar/mnp/hz6t5c9mz68wy00000276ouv9qqhfwbr/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/garage/output.mpd
 #EXTINF:-1  tvg-id="DiscoveryTurbo.ar" tvg-title="Discovery Turbo" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_Turbo_logo.svg.png?raw=true" tvg-chno="209" group-title="Deportes",Discovery Turbo
 https://access.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1  tvg-id="DSports" tvg-title="DSports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DSPORTS.png?raw=true" tvg-chno="210" group-title="Deportes",DSports
+#EXTINF:-1  tvg-id="0431" tvg-title="DSports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DSPORTS.png?raw=true" tvg-chno="210" group-title="Deportes",DSports
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1  tvg-id="0419" tvg-title="Claro Sports Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="211" group-title="Deportes",Claro Sports
 http://45.5.119.43:4000/play/a024/index.m3u8
@@ -248,33 +248,17 @@ https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
 http://152.231.29.139:8000/play/a0dl/index.m3u8
 #EXTINF:-1  tvg-id="Venus.ar" tvg-title="Venus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Venuspng.png?raw=true" tvg-lock="true" tvg-chno="987" group-title="XXX",Venus
 http://152.231.29.139:8000/play/a0f1/index.m3u8
-#EXTINF:-1  tvg-id="Penthouse Gold.ar" tvg-title="Penthause Gold" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/penthousegold.png?raw=true" tvg-lock="true" tvg-chno="988" group-title="XXX",Penthause Gold
-https://github.com/Jcluis5847/logos/blob/main/contenidobloqueado.jpg?raw=true
 #EXTINF:-1  tvg-id="XXX5" tvg-title="Brazzers TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Brazzers%20TV%20europe.png?raw=true" tvg-lock="true" tvg-chno="989" group-title="XXX",Brazzers TV
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-id="XXX4" tvg-title="Hustler HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HUSTLER_TV_HD.png?raw=true" tvg-lock="true" tvg-chno="990" group-title="XXX",Hustler HD
-https://github.com/Jcluis5847/logos/blob/main/contenidobloqueado.jpg?raw=true
 #EXTINF:-1  tvg-id="XXX8" tvg-title="Extasy HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/extasyhd.png?raw=true" tvg-lock="true" tvg-chno="991" group-title="XXX",Extasy HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-id="Erox" tvg-title="Erox" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Erox.png?raw=true" tvg-lock="true" tvg-chno="992" group-title="XXX",Erox
-https://github.com/Jcluis5847/logos/blob/main/contenidobloqueado.jpg?raw=true
 #EXTINF:-1  tvg-id="EroXXX HD" tvg-title="EroXXX HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eroxxx-hd.png?raw=true" tvg-lock="true" tvg-chno="993" group-title="XXX",EroXXX HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1  tvg-id="Desire HD" tvg-title="Desire HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Desire%20Film.png?raw=true" tvg-lock="true" tvg-chno="994" group-title="XXX",Desire HD
-https://github.com/Jcluis5847/logos/blob/main/contenidobloqueado.jpg?raw=true
-#EXTINF:-1  tvg-id="Hustler TV" tvg-title="[ESHUSTL].Hustler.TV.uy" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HustlerTV.svg.png?raw=true" tvg-lock="true" tvg-chno="995" group-title="XXX",Hustler TV
-https://github.com/Jcluis5847/logos/blob/main/contenidobloqueado.jpg?raw=true
-#EXTINF:-1  tvg-id="Private HD" tvg-title="Private HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Private_TV_29.png?raw=true" tvg-lock="true" tvg-chno="996" group-title="XXX",Private HD
-https://github.com/Jcluis5847/logos/blob/main/contenidobloqueado.jpg?raw=true
 #EXTINF:-1  tvg-id="Redlight" tvg-title="Redlight" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/redlight.png?raw=true" tvg-lock="true" tvg-chno="997" group-title="XXX",Redlight
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/242/index.m3u8
-#EXTINF:-1  tvg-id="PORNBOX: A GIRL KNOWS" tvg-title="PORNBOX: A GIRL KNOWS" tvg-logo="https://n9.cl/oypf0" tvg-chno="998" tvg-lock="true" group-title="XXX",PORNBOX: A GIRL KNOWS
-https://github.com/Jcluis5847/logos/blob/main/contenidobloqueado.jpg?raw=true
-#EXTINF:-1  tvg-id="PORNBOX: ADULT TIME" tvg-title="PORNBOX: ADULT TIME" tvg-logo="https://n9.cl/oypf0" tvg-chno="999" tvg-lock="true" group-title="XXX",PORNBOX: ADULT TIME
-https://github.com/Jcluis5847/logos/blob/main/contenidobloqueado.jpg?raw=true
 
 
 
