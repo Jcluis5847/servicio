@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="IPTV-EPG.org" source-info-url="https://iptv-epg.org">
+  <channel id="C79MDP">
+    <display-name>Mar del Plata</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" />
+  </channel>
+  <channel id="C2MDP">
+    <display-name> Canal 2 MDP</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" />
+  </channel>
+  <channel id="GENTV">
+    <display-name>Gen TV</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true" />
+  </channel>
+  <channel id="NEOTV">
+    <display-name>Neo TV</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" />
+  </channel>
+  <channel id="NETFLIX">
+    <display-name>Netflix</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/NETFLIX1.png?raw=true" />
+  </channel>
+    <channel id="PRIME">
+    <display-name>Prime Video</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/PRIMEVIDEO.png?raw=true" />
+  </channel>
+  <channel id="GH24HS">
+    <display-name>Gran Hermano 24Hs</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+  <channel id="GHMC">
+    <display-name>Gran Hermano Multicamara</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+  <channel id="GHC1">
+    <display-name>Gran hermano Camara 1</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+  <channel id="GHC2">
+    <display-name>Gran hermano Camara 2</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+  <channel id="GHC3">
+    <display-name>Gran hermano Camara 3</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" />
+  </channel>
+    <channel id="CanalE.ar">
+    <display-name>Canal E Periodismo sin grieta</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/canal-e.jpg?raw=true" />
+  </channel>
+  <channel id="R10MDP">
+    <display-name>Radio 10 Mar del Plata</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" />
+  </channel>
+  <channel id="R910AM">
+    <display-name>Radio La Red AM910</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true" />
+  </channel>
+  <channel id="RKLA">
+    <display-name>Radio KLA 91.7 FM</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true" />
+  </channel>
+  <channel id="RYPFM">
+    <display-name>Rock and Pop FM 95.9MHz</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" />
+  </channel>
+  <channel id="FMCOMPACTO">
+    <display-name>FM Compacto FM 97.3MHz</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" />
+  </channel>
+  <channel id="LA97">
+    <display-name>La 97 - Siempre tu musica</display-name>
+    <icon src="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" />
+  </channel>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="C79MDP">
+    <title lang="es">Servicios y Clima</title>
+    <desc lang="es">Servicios y Clima</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="C2MDP">
+    <title lang="es">Canal 2 Mar del Plata</title>
+    <desc lang="es">Canal 2 Mar del Plata</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="GENTV">
+    <title lang="es">Gen TV</title>
+    <desc lang="es">Gen TV</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="NEOTV">
+    <title lang="es">Neo TV</title>
+    <desc lang="es">NEO TV</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="NETFLIX">
+    <title lang="es">Pulse OK para acceder a NETFLIX</title>
+    <desc lang="es">Pulse OK para acceder a NETFLIX</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="PRIME">
+    <title lang="es">Pulse OK para acceder a PrimeVideo</title>
+    <desc lang="es">Pulse OK para acceder a PrimeVideo</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GH24HS">
+    <title lang="es">DGO Presentan: Espiando la casa</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GHMC">
+    <title lang="es">GH MULTICAMARA</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GHC1">
+    <title lang="es">GH CAMARA 1</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GHC2">
+    <title lang="es">GH CAMARA 2</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="GHC3">
+    <title lang="es">GH CAMARA 3</title>
+    <desc lang="es">Un espacio para ver lo que está ocurriendo en la casa más famosa del país.</desc>
+  </programme>
+      <programme start="20260425000000 +0000" stop="20270530000000 +0000" channel="CanalE.ar">
+    <title lang="es">Canal E Periodismo sin grieta</title>
+    <desc lang="es">Canal E Periodismo sin grieta</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="R10MDP">
+    <title lang="es">Radio 10 Mar del Plata info@radio10mardelplata.com.ar</title>
+    <desc lang="es">Radio 10 Mar del Plata info@radio10mardelplata.com.ar</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="R910AM">
+    <title lang="es">Radio La Red AM910</title>
+    <desc lang="es">Radio La Red AM910</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="RKLA">
+    <title lang="es">KLA Rock Y Opinion</title>
+    <desc lang="es">KLA Rock Y Opinion</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="RYPFM">
+    <title lang="es">ROCK and POP 95.9FM NOSGUSTAELROCK</title>
+    <desc lang="es">ROCK and POP 95.9FM NOSGUSTAELROCK</desc>
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="FMCOMPACTO">
+    <title lang="es">FM Compacto ¡Tu Radio!</title>
+    <desc lang="es">FM Compacto ¡Tu Radio!</desc>
+    <icon src="" />
+  </programme>
+    <programme start="20260425000000 +0000" stop="20270430000000 +0000" channel="LA97">
+    <title lang="es">La 97 - Siempre tu musica</title>
+    <desc lang="es">La 97 - Siempre tu musica</desc>
+  </programme>
+</tv>
