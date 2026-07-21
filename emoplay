@@ -193,10 +193,10 @@ https://broker.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 #EXTINF:-1  tvg-id="COMEDY CENTRAL.ar" tvg-title="Comedy Central" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/COMEDYCENTRAL.png?raw=true" tvg-chno="740" group-title="Series",Comedy Central
 https://access.cdn.rcs.net.ar/mnp/comedy/output.mpd
 #EXTINF:-1  tvg-id="R10MDP" tvg-title="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" tvg-type="AUDIO" tvg-chno="920" group-title="Musica",Radio 10 AM 710Hz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://stream.zeno.fm/4r530f2a9f0uv
 #EXTINF:-1  tvg-id="R910AM" tvg-title="La Red AM 910" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true" tvg-type="AUDIO" tvg-chno="921" group-title="Musica",La Red AM 910MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://streaming01.shockmedia.com.ar/9926/stream
 #EXTINF:-1  tvg-id="RKLA" tvg-title="KLA 91.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true" tvg-chno="930" tvg-type="AUDIO" group-title="Musica",KLA 91.7MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
@@ -207,9 +207,9 @@ https://26583.live.streamtheworld.com/ROCKANDPOPAAC_SC
 #EXTINF:-1  tvg-id="FMCOMPACTO" tvg-title="FM Compacto FM 97.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true" tvg-type="AUDIO" tvg-chno="923" group-title="Musica",FM Compacto FM 97.3MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
 http://compactofm.hopto.org:7040/stream.mp3
-#EXTINF:-1  tvg-id="LA97" tvg-title="La 97 Siempre FM 97.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true" tvg-type="AUDIO" tvg-chno="924" group-title="Musica",La 97 Siempre FM 97.7MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
-https://streaming01.shockmedia.com.ar:10586/stream
+#EXTINF:-1  tvg-id="LA97" tvg-title="La 97 Siempre FM 97.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true" tvg-type="AUDIO+VIDEO" tvg-chno="924" group-title="Musica",La 97 Siempre FM 97.7MHz
+URLAUDIO: https://streaming01.shockmedia.com.ar:10586/stream
+URLVIDEO: https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1  tvg-id="RBRISAS" tvg-title="Radio Brisas 98.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radiobrisas.png?raw=true" tvg-type="AUDIO" tvg-chno="925" group-title="Musica",Radio Brisas 98.5MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
 https://radio.ecolan.com:8443/stream.mp3
