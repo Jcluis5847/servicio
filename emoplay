@@ -231,7 +231,7 @@ https://servidor1.hostradios.com:8112/stream
 #EXTINF:-1  tvg-id="LOS40" tvg-title="Los 40 Principales FM 105.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true" tvg-type="AUDIO" tvg-chno="930" group-title="Musica",Los 40 Principales FM 105.5MHz
 #EXTBACKGROUND https://raw.githubusercontent.com/Jcluis5847/logos/refs/heads/main/background_cli.bmp
 https://edge01.radiohdvivo.com/stream/los40
-#EXTINF:-1  tvg-id="Malbec Play" tvg-title="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Amor_logo.png?raw=true" tvg-type="AUDIO" tvg-chno="931" group-title="Musica",Amor en el aire 105.9MHz
+#EXTINF:-1  tvg-id="Malbec Play" tvg-title="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/amorenelaire.png?raw=true" tvg-type="AUDIO" tvg-chno="931" group-title="Musica",Amor en el aire 105.9MHz
 #EXTBACKGROUND https://raw.githubusercontent.com/Jcluis5847/logos/refs/heads/main/background_cli.bmp
 https://strcdn.klm99.com:10992/amormdp
 #EXTINF:-1  tvg-id="LA100FM" tvg-title="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true" tvg-type="AUDIO" tvg-chno="932" group-title="Musica",La 100 con vos FM 106.3MHz
