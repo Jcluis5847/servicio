@@ -232,7 +232,7 @@ https://servidor1.hostradios.com:8112/stream
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
 https://edge01.radiohdvivo.com/stream/los40
 #EXTINF:-1  tvg-id="Malbec Play" tvg-title="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/amorenelaire.png?raw=true" tvg-type="AUDIO" tvg-chno="931" group-title="Musica",Amor en el aire 105.9MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/amorenelairebachpng.png?raw=true
 https://strcdn.klm99.com:10992/amormdp
 #EXTINF:-1  tvg-id="LA100FM" tvg-title="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true" tvg-type="AUDIO" tvg-chno="932" group-title="Musica",La 100 con vos FM 106.3MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/background.jpg?raw=true
