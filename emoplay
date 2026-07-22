@@ -42,12 +42,18 @@ https://broker.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 #EXTINF:-1  tvg-id="Telemax.ar" tvg-title="Telemax" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telemax-ar.png?raw=true" tvg-chno="115" group-title="Noticias",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1  tvg-id="Telesur.ar" tvg-title="TeleSur" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telesur.png?raw=true" tvg-chno="116" group-title="Noticias",TeleSur
+https://broker.cdn.rcs.net.ar/mnp/canalstafe/output.mpd
+#EXTINF:-1  tvg-id="Cnn.ar" tvg-title="CNN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telesur.png?raw=true" tvg-chno="116" group-title="Noticias",CNN
+https://broker.cdn.rcs.net.ar/mnp/cnne/output.mpd
 #EXTINF:-1  tvg-id="C79MDP" tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="120" group-title="Noticias",Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1  tvg-id="C79MDP" tvg-title="Santa Clara" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="125" group-title="Noticias",Santa Clara
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1  tvg-id="C79MDP" tvg-title="La Costa" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="126" group-title="Noticias",La Costa
 https://streamconex.com:19360/lacosta/lacosta.m3u8
+#EXTINF:-1  tvg-id="Construir.ar" tvg-title="Construir" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/construirtv.png?raw=true" tvg-chno="199" group-title="Deportes",Construir
+https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 #EXTINF:-1  tvg-id="0927" tvg-title="DeporTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPORTV1.png?raw=true" tvg-chno="200" group-title="Deportes",DeporTV
 https://broker.cdn.rcs.net.ar/mnp/g5p2zrzqrj8jzcte7q5nrlh00000022k/output.mpd
 #EXTINF:-1  tvg-id="TyCSports.ar" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="201" group-title="Deportes",TyC Sports
@@ -58,23 +64,29 @@ https://broker.cdn.rcs.net.ar/mnp/asmvm6rkjqeyv00000263v47eydhvgcf/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
 #EXTINF:-1  tvg-id="ESPN3.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="204" group-title="Deportes",ESPN 3
 https://broker.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
-#EXTINF:-1  tvg-id="FOXSportsConoSur.ar" tvg-title="Fox Sports 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS.png?raw=true" tvg-chno="205" group-title="Deportes",Fox Sports 1
+#EXTINF:-1  tvg-id="ESPN3.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="205" group-title="Deportes",ESPN 4
+https://broker.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
+#EXTINF:-1  tvg-id="FOXSportsConoSur.ar" tvg-title="Fox Sports 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS.png?raw=true" tvg-chno="206" group-title="Deportes",Fox Sports 1
 https://broker.cdn.rcs.net.ar/mnp/a00000051gf3shbt38aw9jj01yqlyvzh/output.mpd
-#EXTINF:-1  tvg-id="FOXSports2.ar" tvg-title="Fox Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS2.png?raw=true" tvg-chno="206" group-title="Deportes",Fox Sports 2
+#EXTINF:-1  tvg-id="FOXSports2.ar" tvg-title="Fox Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS2.png?raw=true" tvg-chno="207" group-title="Deportes",Fox Sports 2
 https://broker.cdn.rcs.net.ar/mnp/whq00000275x8ol6uzpdl14b9mhb6loc/output.mpd
-#EXTINF:-1  tvg-id="FOXSports3.ar" tvg-title="Fox Sports 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS3.png?raw=true" tvg-chno="207" group-title="Deportes",Fox Sports 3
+#EXTINF:-1  tvg-id="FOXSports3.ar" tvg-title="Fox Sports 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS3.png?raw=true" tvg-chno="208" group-title="Deportes",Fox Sports 3
 https://broker.cdn.rcs.net.ar/mnp/hz6t5c9mz68wy00000276ouv9qqhfwbr/output.mpd
-#EXTINF:-1  tvg-id="ElGarageTv.ar" tvg-title="El Garage TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ELGARAGE.png?raw=true" tvg-chno="208" group-title="Deportes",El Garage TV
+#EXTINF:-1  tvg-id="ElGarageTv.ar" tvg-title="El Garage TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ELGARAGE.png?raw=true" tvg-chno="209" group-title="Deportes",El Garage TV
 https://broker.cdn.rcs.net.ar/mnp/garage/output.mpd
-#EXTINF:-1  tvg-id="DiscoveryTurbo.ar" tvg-title="Discovery Turbo" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_Turbo_logo.svg.png?raw=true" tvg-chno="209" group-title="Deportes",Discovery Turbo
+#EXTINF:-1  tvg-id="GolfChannel" tvg-title="GolfChannel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLFCHANNEL.png?raw=true" tvg-chno="210" group-title="Deportes",GolfChannel
+https://broker.cdn.rcs.net.ar/mnp/golf/output.mpd
+
+
+#EXTINF:-1  tvg-id="DiscoveryTurbo.ar" tvg-title="Discovery Turbo" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_Turbo_logo.svg.png?raw=true" tvg-chno="211" group-title="Deportes",Discovery Turbo
 https://access.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1  tvg-id="0431" tvg-title="DSports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DSPORTS.png?raw=true" tvg-chno="210" group-title="Deportes",DSports
+#EXTINF:-1  tvg-id="0431" tvg-title="DSports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DSPORTS.png?raw=true" tvg-chno="212" group-title="Deportes",DSports
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1  tvg-id="0419" tvg-title="Claro Sports Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="211" group-title="Deportes",Claro Sports
+#EXTINF:-1  tvg-id="0419" tvg-title="Claro Sports Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="213" group-title="Deportes",Claro Sports
 http://45.5.119.43:4000/play/a024/index.m3u8
-#EXTINF:-1  tvg-id="ESPN PREMIUM.ar" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="212" group-title="Deportes",ESPN Premium
+#EXTINF:-1  tvg-id="ESPN PREMIUM.ar" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="214" group-title="Deportes",ESPN Premium
 https://broker.cdn.rcs.net.ar/mnp/k5ponh1vs9tpet3c1mbh00000811lgzw/output.mpd
-#EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSPORTSPREMIUM.png?raw=true" tvg-chno="213" group-title="Deportes",TNT Sports Premium
+#EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSPORTSPREMIUM.png?raw=true" tvg-chno="215" group-title="Deportes",TNT Sports Premium
 https://broker.cdn.rcs.net.ar/mnp/ogyv7712m4k7000000810xsk8utl0vak/output.mpd
 #EXTINF:-1  tvg-id="Pakapaka.ar" tvg-title="Paka Paka" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/pakapaka.png?raw=true" tvg-chno="300" group-title="Infantiles",Paka Paka
 https://broker.cdn.rcs.net.ar/mnp/pkpk/output.mpd
@@ -194,6 +206,17 @@ https://broker.cdn.rcs.net.ar/mnp/history2/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 #EXTINF:-1  tvg-id="COMEDY CENTRAL.ar" tvg-title="Comedy Central" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/COMEDYCENTRAL.png?raw=true" tvg-chno="740" group-title="Series",Comedy Central
 https://access.cdn.rcs.net.ar/mnp/comedy/output.mpd
+
+
+#EXTINF:-1  tvg-id="MTV.ar" tvg-title="MTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/MTV.png?raw=true" tvg-chno="934" group-title="Musica",MTV
+https://broker.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1  tvg-id="0534" tvg-title="Canal de la Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" tvg-chno="934" group-title="Musica",Canal de la Música
+https://broker.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
+#EXTINF:-1  tvg-id="HTV.ar" tvg-title="HTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HTV.png?raw=true" tvg-chno="935" group-title="Musica",HTV
+https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
+
+
+
 #EXTINF:-1  tvg-id="R10MDP" tvg-title="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" tvg-type="AUDIO" tvg-chno="920" group-title="Musica",Radio 10 AM 710Hz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://stream.zeno.fm/4r530f2a9f0uv
@@ -241,10 +264,6 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1  tvg-id="DJKAIRUZ" tvg-title="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true" tvg-type="AUDIO" tvg-chno="933" group-title="Musica",Buenos Aires DJ Eventos MIX
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
-#EXTINF:-1  tvg-id="0534" tvg-title="Canal de la Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" tvg-chno="934" group-title="Musica",Canal de la Música
-https://broker.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
-#EXTINF:-1  tvg-id="HTV.ar" tvg-title="HTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HTV.png?raw=true" tvg-chno="935" group-title="Musica",HTV
-https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1  tvg-id="Playboy.ar" tvg-title="Playboy TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLAYBOYTVHD-2012.png?raw=true" tvg-lock="true" tvg-chno="986" group-title="XXX",Playboy TV
 http://152.231.29.139:8000/play/a0dl/index.m3u8
 #EXTINF:-1  tvg-id="Venus.ar" tvg-title="Venus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Venuspng.png?raw=true" tvg-lock="true" tvg-chno="987" group-title="XXX",Venus
