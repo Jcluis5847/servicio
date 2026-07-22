@@ -46,6 +46,8 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1  tvg-id="C79MDP" tvg-title="Santa Clara" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="125" group-title="Noticias",Santa Clara
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1  tvg-id="C79MDP" tvg-title="La Costa" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="126" group-title="Noticias",La Costa
+https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1  tvg-id="0927" tvg-title="DeporTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPORTV1.png?raw=true" tvg-chno="200" group-title="Deportes",DeporTV
 https://broker.cdn.rcs.net.ar/mnp/g5p2zrzqrj8jzcte7q5nrlh00000022k/output.mpd
 #EXTINF:-1  tvg-id="TyCSports.ar" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="201" group-title="Deportes",TyC Sports
