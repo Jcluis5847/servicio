@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="C2MDP" tvg-title="Canal 2 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="009" group-title="News",Canal 2 MDP
-https://github.com/Jcluis5847/logos/raw/refs/heads/main/novideo.mp4
 #EXTINF:-1  tvg-id="C2MDP" tvg-title="Canal 2 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="010" group-title="News",Canal 2 MDP
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1  tvg-id="NET TV.ar" tvg-title="NET TVew" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true" tvg-chno="015" group-title="Noticias",NET TV
