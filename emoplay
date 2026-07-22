@@ -236,9 +236,8 @@ https://edge01.radiohdvivo.com/stream/los40
 #EXTINF:-1  tvg-id="Malbec Play" tvg-title="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/amorenelaire.png?raw=true" tvg-type="AUDIO" tvg-chno="931" group-title="Musica",Amor en el aire 105.9MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://strcdn.klm99.com:10992/amormdp
-#EXTINF:-1  tvg-id="LA100FM" tvg-title="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true" tvg-type="AUDIO" tvg-chno="932" group-title="Musica",La 100 con vos FM 106.3MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
-https://media425.digitar.net:8221/la100.mp3
+#EXTINF:-1  tvg-id="LA100FM" tvg-title="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true" tvg-type="VIDEO" tvg-chno="932" group-title="Musica",La 100 con vos FM 106.3MHz
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1  tvg-id="DJKAIRUZ" tvg-title="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true" tvg-type="AUDIO" tvg-chno="933" group-title="Musica",Buenos Aires DJ Eventos MIX
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://streaming.evolucionstreaming.com:10833/stream?icy=http
