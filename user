@@ -1,5 +1,6 @@
 //User/NombredeUsuario/Estado/IPFija/FechadeExpiracion/Contenido:Noticias-Deportes-Infantiles-Series-Musica-Adultos
-
+//Luis
+<User
 #INF-USER:Luismdp8@hmail.com
 #INFDISPLAY-NAME: Jose Luis
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/naniel-@hotmail.com.jpg?raw=true
@@ -15,7 +16,9 @@
 #Musica: True
 #tvg-lock: True
 #ID (:)
-
+>
+//Usuario de prueba
+<User
 #INF-USER:Test
 #INFDISPLAY-NAME:Tester
 #ESTADO: activado
@@ -30,7 +33,9 @@
 #Musica: False
 #tvg-lock: True
 #ID (test:1234)
-
+>
+//Daniel Alzogaray
+<User
 #INF-USER:naniel-@hotmail.com
 #INFDISPLAY-NAME: Daniel Alzogaray
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/naniel-@hotmail.com.jpg?raw=true
@@ -46,7 +51,9 @@
 #Musica: True
 #tvg-lock: True
 #ID (:)
-
+>
+//Leandro Malespina
+<User
 #INF-USER:malespinaleandro37@gmail.com
 #INFDISPLAY-NAME: Leandro Malespina
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/malespinaleandro37@gmail.com.jpg?raw=true
@@ -62,4 +69,4 @@
 #Musica: True
 #tvg-lock: True
 #ID (:)
-
+>
