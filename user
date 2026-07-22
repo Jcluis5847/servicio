@@ -2,6 +2,7 @@
 
 #INF-USER:Luismdp8@hmail.com
 #INFDISPLAY-NAME: Jose Luis
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/naniel-@hotmail.com.jpg?raw=true
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 12:00 31/12/2030
@@ -15,14 +16,11 @@
 #tvg-lock: True
 #ID (:)
 
-
-
-
 #INF-USER:Test
-#INFDISPLAY-NAME:Tester
+#INFDISPLAY-NAME:Jose Luis
 #ESTADO: activado
 #DIRIP: 186.122.41.216
-#EXPI: 12:00 30/01/2026
+#EXPI: 12:00 30/12/2026
 #AUTO-LOGIN: True
 //Group-Tittle
 #Noticias: True
@@ -33,6 +31,35 @@
 #tvg-lock: True
 #ID (test:1234)
 
+#INF-USER:naniel-@hotmail.com
+#INFDISPLAY-NAME: Daniel Alzogaray
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/naniel-@hotmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: False
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (:)
 
-
+#INF-USER:malespinaleandro37@gmail.com
+#INFDISPLAY-NAME: Leandro Malespina
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/malespinaleandro37@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: False
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (:)
 
