@@ -44,7 +44,7 @@ https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1  tvg-id="Telesur.ar" tvg-title="TeleSur" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telesur.png?raw=true" tvg-chno="116" group-title="Noticias",TeleSur
 https://broker.cdn.rcs.net.ar/mnp/canalstafe/output.mpd
-#EXTINF:-1  tvg-id="Cnn.ar" tvg-title="CNN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telesur.png?raw=true" tvg-chno="116" group-title="Noticias",CNN
+#EXTINF:-1  tvg-id="Cnn.ar" tvg-title="CNN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cnn.png?raw=true" tvg-chno="116" group-title="Noticias",CNN
 https://broker.cdn.rcs.net.ar/mnp/cnne/output.mpd
 #EXTINF:-1  tvg-id="C79MDP" tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="120" group-title="Noticias",Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
