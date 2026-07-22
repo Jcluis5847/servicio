@@ -1,5 +1,23 @@
 //User/NombredeUsuario/Estado/IPFija/FechadeExpiracion/Contenido:Noticias-Deportes-Infantiles-Series-Musica-Adultos
 
+#INF-USER:Luismdp8@hmail.com
+#INFDISPLAY-NAME: Jose Luis
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 12:00 31/12/2030
+#AUTO-LOGIN: False
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (:)
+
+
+
+
 #INF-USER:Test
 #INFDISPLAY-NAME:Tester
 #ESTADO: activado
