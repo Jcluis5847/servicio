@@ -1,13 +1,13 @@
 //User/NombredeUsuario/Estado/IPFija/FechadeExpiracion/Contenido:Noticias-Deportes-Infantiles-Series-Musica-Adultos
 //Luis
 <User
-#INF-USER:Luismdp8@hmail.com
+#INF-USER:Luismdp8@gmail.com
 #INFDISPLAY-NAME: Jose Luis
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/naniel-@hotmail.com.jpg?raw=true
 #ESTADO: activado
-#DIRIP: allip
+#DIRIP: 181.116.47.34
 #EXPI: 12:00 31/12/2030
-#AUTO-LOGIN: False
+#AUTO-LOGIN: True
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -15,7 +15,7 @@
 #Series: True
 #Musica: True
 #tvg-lock: True
-#ID (:)
+#ID (Luismdp8@gmail.com:40A944b677.)
 >
 //Usuario de prueba
 <User
