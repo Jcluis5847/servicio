@@ -71,3 +71,75 @@
 #tvg-lock: True
 #ID (:)
 >
+
+<User
+#INF-USER:Rodritorres
+#INFDISPLAY-NAME: Rodrigo Pavon
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Rodritorres.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (Rodritorres:12345678)
+>
+
+<User
+#INF-USER:cs514662@gmail.com
+#INFDISPLAY-NAME: Camila Sanchez
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Rodritorres.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (cs514662@gmail.com:12345678)
+>
+
+<User
+#INF-USER:lore93373@gmail.com
+#INFDISPLAY-NAME: Laura Garcia
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/lore93373@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (lore93373@gmail.com:12345678)
+>
+
+<User
+#INF-USER:Familia
+#INFDISPLAY-NAME: Familia
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Familia.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (Familia:12345678)
+>
