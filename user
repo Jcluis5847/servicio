@@ -79,7 +79,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -97,7 +97,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -115,7 +115,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -133,7 +133,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -151,7 +151,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -169,7 +169,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -187,7 +187,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -205,7 +205,7 @@
 #ESTADO: activado
 #DIRIP: 201.179.29.217
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -223,7 +223,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -239,7 +239,7 @@
 #INFDISPLAY-NAME: Brenda Mendoza
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/steef3741@gmail.com.jpg?raw=true
 #ESTADO: activado
-#DIRIP: allip
+#DIRIP: 160.20.80.45
 #EXPI: 23:59 31/12/2050
 #AUTO-LOGIN: True
 //Group-Tittle
@@ -254,12 +254,12 @@
 
 <User
 #INF-USER:alejandrojavierluna8@gmail.com
-#INFDISPLAY-NAME: Brenda Mendoza
+#INFDISPLAY-NAME: Alejandro Luna
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/alejandrojavierluna8@gmail.com.jpg?raw=true
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -277,7 +277,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN: False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -295,7 +295,7 @@
 #ESTADO: activado
 #DIRIP: allip
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: True
+#AUTO-LOGIN:  False
 //Group-Tittle
 #Noticias: True
 #Deportes: True
