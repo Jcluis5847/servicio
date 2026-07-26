@@ -82,8 +82,6 @@ https://broker.cdn.rcs.net.ar/mnp/golf/output.mpd
 https://access.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 #EXTINF:-1  tvg-id="0431" tvg-title="DSports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DSPORTS.png?raw=true" tvg-chno="212" group-title="Deportes",DSports
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1  tvg-id="0419" tvg-title="Claro Sports Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="213" group-title="Deportes",Claro Sports
-http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:-1  tvg-id="ESPN PREMIUM.ar" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="214" group-title="Deportes",ESPN Premium
 https://broker.cdn.rcs.net.ar/mnp/k5ponh1vs9tpet3c1mbh00000811lgzw/output.mpd
 #EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSPORTSPREMIUM.png?raw=true" tvg-chno="215" group-title="Deportes",TNT Sports Premium
