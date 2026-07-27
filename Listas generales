@@ -3,6 +3,9 @@ https://github.com/tv-logo/tv-logos/tree/main/countries/argentina
 M3U de Argentina
 https://github.com/12iptvok/12iptvok/blob/main/tvlive
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
+#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 
 listas:
 https://github.com/BrianRVP/Bflix34567/blob/main/IPTV
