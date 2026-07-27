@@ -8,81 +8,43 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1  tvg-id="NEOTV" tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="025" group-title="Noticias",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-id="AmericaTV.ar" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="030" group-title="Noticias",América TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/z6dvn63g3s00000002pek8z593pbgi2x/output.mpd
 #EXTINF:-1  tvg-id="Telefe.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="035" group-title="Noticias",Telefe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
 #EXTINF:-1  tvg-id="Canal 10 Mar del Plata.ar" tvg-title="Canal 10 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="040" group-title="Noticias",Canal 10 MDP
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1  tvg-id="TelevisionPublica.ar" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="045" group-title="Noticias",TV Publica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/f7ajxs0in8hdhyp75lz00000005je16i/output.mpd
 #EXTINF:-1  tvg-id="ELTrece.ar" tvg-title="El Trece" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrece.png?raw=true" tvg-chno="050" group-title="Noticias",El Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/t0i1o7528g7ef00000006ok69ikbp24i/output.mpd
 #EXTINF:-1  tvg-id="ELNueve.ar" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="055" group-title="Noticias",el nueve
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1  tvg-id="TN.ar" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="060" group-title="Noticias",TN Todo Noticias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/z3yr000000792oqkpjzgz53bii53nrik/output.mpd
 #EXTINF:-1  tvg-id="A24.ar" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="065" group-title="Noticias",A24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/f4i30000001178tfvf222zer6o7mwgdd/output.mpd
 #EXTINF:-1  tvg-id="C5N.ar" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="070" group-title="Noticias",C5N
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1  tvg-id="CronicaTV.ar" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="075" group-title="Noticias",Cronica HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://access.cdn.rcs.net.ar/mnp/oce000000095ng0pa36h7krinjbeki8f/output.mpd
 #EXTINF:-1  tvg-id="Canal26.ar" tvg-title="Canal 26" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true" tvg-chno="080" group-title="Noticias",Canal 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Referer:https://play.rocstar.tv
-#EXTVLCOPT:http-header=Origin:https://play.rocstar.tv
 https://broker.cdn.rcs.net.ar/mnp/kharwzzmy100000012mb517x6muxvpna/output.mpd
 #EXTINF:-1  tvg-id="24/7CanaldeNoticias.ar" tvg-title="24/7 Canal de Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/247noticias.png?raw=true" tvg-chno="090" group-title="Noticias",24/7 Canal de Noticias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/hub/cn247tv/dash/247.mpd
 #EXTINF:-1  tvg-id="0922" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="095" group-title="Noticias",Ar|12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/mnp/ip/output.mpd
 #EXTINF:-1  tvg-id="LN+.ar" tvg-title="LN+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LN+.png?raw=true" tvg-chno="100" group-title="Noticias",LN+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1  tvg-id="Encuentro.ar" tvg-title="encuentro" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/encuentro.png?raw=true" tvg-chno="105" group-title="Noticias",encuentro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTINF:-1  tvg-id="TECtv.ar" tvg-title="TecTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TECTV.png?raw=true" tvg-chno="110" group-title="Noticias",TecTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 #EXTINF:-1  tvg-id="Telemax.ar" tvg-title="Telemax" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telemax-ar.png?raw=true" tvg-chno="115" group-title="Noticias",Telemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1  tvg-id="0122" tvg-title="TeleSur" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telesur.png?raw=true" tvg-chno="116" group-title="Noticias",TeleSur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/mnp/canalstafe/output.mpd
 #EXTINF:-1  tvg-id="0202" tvg-title="CNN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cnn.png?raw=true" tvg-chno="116" group-title="Noticias",CNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/mnp/cnne/output.mpd
 #EXTINF:-1  tvg-id="C79MDP" tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="120" group-title="Noticias",Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
@@ -91,10 +53,8 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1  tvg-id="C79MDP" tvg-title="La Costa" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="126" group-title="Noticias",La Costa
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1  tvg-id="Construir.ar" tvg-title="Construir" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/construirtv.png?raw=true" tvg-chno="199" group-title="Deportes",Construir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 #EXTINF:-1  tvg-id="0927" tvg-title="DeporTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPORTV1.png?raw=true" tvg-chno="200" group-title="Deportes",DeporTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://broker.cdn.rcs.net.ar/mnp/g5p2zrzqrj8jzcte7q5nrlh00000022k/output.mpd
 #EXTINF:-1  tvg-id="TyCSports.ar" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="201" group-title="Deportes",TyC Sports
 https://broker.cdn.rcs.net.ar/mnp/gzq5h400000052hwepofodn3w6lod4zh/output.mpd
