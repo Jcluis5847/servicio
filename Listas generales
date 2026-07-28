@@ -6,7 +6,7 @@ logos:
 #EXTVLCOPT:http-referrer=https://play.rocstar.tv
 #EXTVLCOPT:http-origin=https://play.rocstar.tv
 #EXTVLCOPT:http-header=Custom-Header:Valor
-#EXTVLCOPT:http-fallback-url=https://emotls.ddns.net:8080/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
+#EXTVLCOPT:http-fallback-url=http://emotls.ddns.net:8080/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
 #EXTVLCOPT:http-fallback-timeout=2000
 https://broker.cdn.rcs.net.ar/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
 
