@@ -30,6 +30,12 @@ https://cdn.cvattv.com.ar/live/
 Canal 8 Mar del Plata
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc_C/Telefe_MDQ_HD.mpd
 
+C8MDP
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 Mar del Plata - Buenos Aires" tvg-logo="" group-title="⭐️ Argentina Regionales",Canal 8 Mar del Plata - Buenos Aires
+http://rlatinop.com:8880/live/Jeferson/UQZru627xJWd/359928.m3u8
+http://rlatinop.com:8880
+
+
 Sensa
 https://cdn.sensa.com.ar/live
 
