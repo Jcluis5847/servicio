@@ -229,21 +229,21 @@ https://broker.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1  tvg-id="STUDIO UNIVERSAL.ar" tvg-title="Studio Universal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STUDIO.png?raw=true" tvg-chno="520" group-title="Series",Studio Universal
 https://broker.cdn.rcs.net.ar/mnp/st_universal/output.mpd
 #EXTINF:-1  tvg-id="HBO.ar" tvg-title="HBO" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_logo.svg.png?raw=true" tvg-chno="550" group-title="Series",HBO
-http://45.5.118.152:8000/play/a0bm/index.m3u8
+https://broker.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1  tvg-id="HBO 2 HD.ar" tvg-title="HBO 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/hbo2.png?raw=true" tvg-chno="555" group-title="Series",HBO 2
-http://45.5.151.147:8000/play/a010/index.m3u8
+https://broker.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 #EXTINF:-1  tvg-id="HBO PLUS.ar" tvg-title="HBO+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Logohboplus2019.svg.png?raw=true" tvg-chno="560" group-title="Series",HBO+
-http://45.5.117.57:8999/play/a05s/index.m3u8
+https://broker.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1  tvg-id="HBO POP HD.ar" tvg-title="HBO Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOPOP.png?raw=true" tvg-chno="565" group-title="Series",HBO Pop
-http://190.7.19.197:232/play/a016/index.m3u8
+https://broker.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1  tvg-id="HBO FAMILY HD.ar" tvg-title="HBO Family" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_Family.svg.png?raw=true" tvg-chno="570" group-title="Series",HBO Family
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnlt_2OCVTdlDf0KcKJbrptKChwBmq7OrLc1ThnSqyyci/ts
+https://broker.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1  tvg-id="HBO XTREME HD.ar" tvg-title="HBO Xtreme" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOXTREME.png?raw=true" tvg-chno="575" group-title="Series",HBO Xtreme
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnlt_2OCVTdlDf0KcKJbrptLQcSNrSqJQv2m9P511KnA9/ts
+https://broker.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 #EXTINF:-1  tvg-id="HBO MUNDI.ar" tvg-title="HBO MUNDI" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_MUNDI.png?raw=true" tvg-chno="580" group-title="Series",HBO MUNDI
-http://190.238.43.117:8000/play/a02r/index.m3u8
+https://broker.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 #EXTINF:-1  tvg-id="HBO SIGNATURE.ar" tvg-title="HBO Signature" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOsignature.png?raw=true" tvg-chno="585" group-title="Series",HBO Signature
-http://181.13.252.102:8000/play/a02c/index.m3u8
+https://broker.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1  tvg-id="0609" tvg-title="Lifetime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true" tvg-chno="615" group-title="Series",Lifetime
 https://broker.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1  tvg-id="CINECANAL.ar" tvg-title="Cinecanal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true" tvg-chno="620" group-title="Series",Cinecanal
@@ -299,34 +299,33 @@ https://broker.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
 #EXTINF:-1  tvg-id="0504" tvg-title="HTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HTV.png?raw=true" tvg-chno="935" group-title="Musica",HTV
 https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1  tvg-id="R10MDP" tvg-title="Radio 10 AM 710Hz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radio10.png?raw=true" tvg-type="AUDIO" tvg-chno="920" group-title="Musica",Radio 10 AM 710Hz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/radio10fondo.jpeg?raw=true
 https://stream.zeno.fm/4r530f2a9f0uv
 #EXTINF:-1  tvg-id="R910AM" tvg-title="La Red AM 910" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Radiolared910.png?raw=true" tvg-type="AUDIO" tvg-chno="921" group-title="Musica",La Red AM 910MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/radiolaredfondo.jpeg?raw=true
 https://streaming01.shockmedia.com.ar/9926/stream
 #EXTINF:-1  tvg-id="RKLA" tvg-title="KLA 91.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/KLA.png?raw=true" tvg-chno="930" tvg-type="AUDIO" group-title="Musica",KLA 91.7MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/klafondo.jpg?raw=true
 https://streamconex.com:8104/stream
 #EXTINF:-1  tvg-id="RYPFM" tvg-title="Rock&Pop FM 95.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/rockandpop.png?raw=true" tvg-type="AUDIO" tvg-chno="922" group-title="Musica",Rock&Pop FM 95.9MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/rypfondo.jpg?raw=true
 https://26583.live.streamtheworld.com/ROCKANDPOPAAC_SC
-#EXTINF:-1  tvg-id="FMCOMPACTO" tvg-title="FM Compacto FM 97.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true" tvg-type="AUDIO" tvg-chno="923" group-title="Musica",FM Compacto FM 97.3MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
-http://compactofm.hopto.org:7040/stream.mp3
-#EXTINF:-1  tvg-id="LA97" tvg-title="La 97 Siempre FM 97.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true" tvg-type="AUDIO" tvg-chno="924" group-title="Musica",La 97 Siempre FM 97.7MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+#EXTINF:-1  tvg-id="FMCOMPACTO" tvg-title="FM Compacto FM 97.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la977.png?raw=true" tvg-type="AUDIO" tvg-chno="923" group-title="Musica", La 97 Siempre 97.3MHz
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/la97siemprefondojpg.jpg?raw=true
 https://streaming01.shockmedia.com.ar:10586/stream
+#EXTINF:-1  tvg-id="LA97" tvg-title="La 97 Siempre FM 97.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/fmcompacto.png?raw=true" tvg-type="AUDIO" tvg-chno="924" group-title="Musica",FM Compacto FM 97.7MHz
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/compactofondo.jpg?raw=true
+https://streaming.radiosenlinea.com.ar:10298/stream
 #EXTINF:-1  tvg-id="RBRISAS" tvg-title="Radio Brisas 98.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/radiobrisas.png?raw=true" tvg-type="AUDIO" tvg-chno="925" group-title="Musica",Radio Brisas 98.5MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/radiobrisasfondo.jpg?raw=true
 https://radio.ecolan.com:8443/stream.mp3
-#EXTINF:-1  tvg-id="RMDP999" tvg-title="Radio Mar del Plata 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/RADIO999.png?raw=true" tvg-type="AUDIO" tvg-chno="926" group-title="Musica",Radio Mar del Plata 99.9MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0155
+#EXTINF:-1  tvg-id="RMDP999" tvg-title="Radio Mar del Plata 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/RADIO999.png?raw=true" tvg-type="VIDEO" tvg-chno="926" group-title="Musica",Radio Mar del Plata 99.9MHz
+https://fm999.info/test/index.m3u8
 #EXTINF:-1  tvg-id="ELAYER981" tvg-title="El ayer / Parte de tu historia personal FM 98.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/RADIO981.png?raw=true" tvg-type="AUDIO" tvg-chno="927" group-title="Musica",El ayer / Parte de tu historia personal FM 98.1MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://icecast.unomedios.com.ar/ayer
-#EXTINF:-1  tvg-id="PLANETMUSIC" tvg-title="Planet Music 101.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/planetmusic.png?raw=true" tvg-type="AUDIO" tvg-chno="928" group-title="Musica",Planet Music 101.1MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+#EXTINF:-1  tvg-id="PLANETMUSIC" tvg-title="Planet Music 101.1MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Planet_logo.png?raw=true" tvg-type="AUDIO" tvg-chno="928" group-title="Musica",Planet Music 101.1MHz
+#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/planetmusicfondo.jpg?raw=true
 https://strcdn.klm99.com:10991/planetmdp
 #EXTINF:-1  tvg-id="ACQUA" tvg-title="ACQUA 102.7MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/acqua.jpeg?raw=true" tvg-type="AUDIO" tvg-chno="929" group-title="Musica",ACQUA 102.7MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
@@ -336,7 +335,7 @@ https://strcdn.klm99.com:10990/acquamdp
 https://servidor1.hostradios.com:8112/stream
 #EXTINF:-1  tvg-id="LOS40" tvg-title="Los 40 Principales FM 105.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true" tvg-type="AUDIO" tvg-chno="930" group-title="Musica",Los 40 Principales FM 105.5MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
-https://edge01.radiohdvivo.com/stream/los40
+https://edge02.radiohdvivo.com/los40
 #EXTINF:-1  tvg-id="Malbec Play" tvg-title="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/amorenelaire.png?raw=true" tvg-type="AUDIO" tvg-chno="931" group-title="Musica",Amor en el aire 105.9MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://strcdn.klm99.com:10992/amormdp
