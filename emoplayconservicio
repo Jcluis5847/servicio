@@ -246,17 +246,17 @@ https://strcdn.klm99.com:10990/acquamdp
 #EXTINF:-1  tvg-id="UNIVERSO" tvg-title="Universo 103.3MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/universo.jpeg?raw=true" tvg-type="AUDIO" tvg-chno="930" group-title="Musica",Universo 103.3MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://servidor1.hostradios.com:8112/stream
-#EXTINF:-1  tvg-id="LOS40" tvg-title="Los 40 Principales FM 105.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true" tvg-type="AUDIO" tvg-chno="930" group-title="Musica",Los 40 Principales FM 105.5MHz
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
-https://edge01.radiohdvivo.com/stream/los40
+//#EXTINF:-1  tvg-id="LOS40" tvg-title="Los 40 Principales FM 105.5MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/los40principales.png?raw=true" tvg-type="AUDIO" tvg-chno="930" group-title="Musica",Los 40 Principales FM 105.5MHz
+//#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+//https://edge01.radiohdvivo.com/stream/los40
 #EXTINF:-1  tvg-id="Malbec Play" tvg-title="Malbec Play" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/amorenelaire.png?raw=true" tvg-type="AUDIO" tvg-chno="931" group-title="Musica",Amor en el aire 105.9MHz
 #EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
 https://strcdn.klm99.com:10992/amormdp
 #EXTINF:-1  tvg-id="LA100FM" tvg-title="La 100 con vos FM 99.9MHz" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/la100convos.png?raw=true" tvg-type="VIDEO" tvg-chno="932" group-title="Musica",La 100 con vos FM 106.3MHz
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-#EXTINF:-1  tvg-id="DJKAIRUZ" tvg-title="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true" tvg-type="AUDIO" tvg-chno="933" group-title="Musica",Buenos Aires DJ Eventos MIX
-#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
-https://streaming.evolucionstreaming.com:10833/stream?icy=http
+//#EXTINF:-1  tvg-id="DJKAIRUZ" tvg-title="Buenos Aires DJ Eventos MIX" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/bsaseventosdj.jpg?raw=true" tvg-type="AUDIO" tvg-chno="933" group-title="Musica",Buenos Aires DJ Eventos MIX
+//#EXTBACKGROUND https://github.com/Jcluis5847/logos/blob/main/MDP2.jpeg?raw=true
+//https://streaming.evolucionstreaming.com:10833/stream?icy=http
 #EXTINF:-1  tvg-id="Playboy.ar" tvg-title="Playboy TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/PLAYBOYTVHD-2012.png?raw=true" tvg-lock="true" tvg-chno="986" group-title="XXX",Playboy TV
 http://152.231.29.139:8000/play/a0dl/index.m3u8
 #EXTINF:-1  tvg-id="Venus.ar" tvg-title="Venus" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Venuspng.png?raw=true" tvg-lock="true" tvg-chno="987" group-title="XXX",Venus
