@@ -1,109 +1,153 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="C2MDP" tvg-title="Canal 2 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="010" group-title="News",Canal 2 MDP
-https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-#EXTINF:-1  tvg-id="NET TV.ar" tvg-title="NET TVew" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true" tvg-chno="015" group-title="Noticias",NET TV
-https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
 #EXTINF:-1  tvg-id="GENTV" tvg-title="Gen TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true" tvg-chno="020" group-title="Noticias",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1  tvg-id="NEOTV" tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="025" group-title="Noticias",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1  tvg-id="AmericaTV.ar" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="030" group-title="Noticias",América TV
+#EXTINF:-1  tvg-id="AmericaTV.ar" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="008" group-title="Noticias",América TV
 https://broker.cdn.rcs.net.ar/mnp/qm88dp4x00000002jpgb20pm1djqsool/output.mpd
-#EXTINF:-1  tvg-id="Telefe.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="035" group-title="Noticias",Telefe
+#EXTINF:-1  tvg-id="Telefe.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="009" group-title="Noticias",Telefe
 https://broker.cdn.rcs.net.ar/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
-#EXTINF:-1  tvg-id="Canal 10 Mar del Plata.ar" tvg-title="Canal 10 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="040" group-title="Noticias",Canal 10 MDP
+#EXTINF:-1  tvg-id="TelevisionPublica.ar" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="010" group-title="Noticias",TV Publica
+https://broker.cdn.rcs.net.ar/mnp/f7ajxs0in8hdhyp75lz00000005je16i/output.mpd
+#EXTINF:-1  tvg-id="Canal 10 Mar del Plata.ar" tvg-title="Canal 10 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c10.png?raw=true" tvg-chno="011" group-title="Noticias",Canal 10 MDP
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
-#EXTINF:-1  tvg-id="TelevisionPublica.ar" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="045" group-title="Noticias",TV Publica
-https://broker.cdn.rcs.net.ar/mnp/f7ajxs0in8hdhyp75lz00000005je16i/output.mpd
-#EXTINF:-1  tvg-id="ELTrece.ar" tvg-title="El Trece" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrece.png?raw=true" tvg-chno="050" group-title="Noticias",El Trece
+#EXTINF:-1  tvg-id="ELTrece.ar" tvg-title="El Trece" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrece.png?raw=true" tvg-chno="012" group-title="Noticias",El Trece
 https://broker.cdn.rcs.net.ar/mnp/t0i1o7528g7ef00000006ok69ikbp24i/output.mpd
-#EXTINF:-1  tvg-id="ELNueve.ar" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="055" group-title="Noticias",el nueve
+#EXTINF:-1  tvg-id="ELNueve.ar" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="013" group-title="Noticias",el nueve
 https://broker.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1  tvg-id="TN.ar" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="060" group-title="Noticias",TN Todo Noticias
+#EXTINF:-1  tvg-id="TN.ar" tvg-title="TN Todo Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tn.png?raw=true" tvg-chno="014" group-title="Noticias",TN Todo Noticias
 https://broker.cdn.rcs.net.ar/mnp/z3yr000000792oqkpjzgz53bii53nrik/output.mpd
-#EXTINF:-1  tvg-id="A24.ar" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="065" group-title="Noticias",A24
+#EXTINF:-1  tvg-id="A24.ar" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="015" group-title="Noticias",A24
 https://broker.cdn.rcs.net.ar/mnp/f4i30000001178tfvf222zer6o7mwgdd/output.mpd
-#EXTINF:-1  tvg-id="C5N.ar" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="070" group-title="Noticias",C5N
+#EXTINF:-1  tvg-id="C5N.ar" tvg-title="C5N" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c5n.png?raw=true" tvg-chno="016" group-title="Noticias",C5N
 https://broker.cdn.rcs.net.ar/mnp/c5n/output.mpd
-#EXTINF:-1  tvg-id="CronicaTV.ar" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="075" group-title="Noticias",Cronica HD
+#EXTINF:-1  tvg-id="CronicaTV.ar" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="017" group-title="Noticias",Cronica HD
 https://access.cdn.rcs.net.ar/mnp/oce000000095ng0pa36h7krinjbeki8f/output.mpd
-#EXTINF:-1  tvg-id="Canal26.ar" tvg-title="Canal 26" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true" tvg-chno="080" group-title="Noticias",Canal 26
+#EXTINF:-1  tvg-id="Canal26.ar" tvg-title="Canal 26" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c26tv.png?raw=true" tvg-chno="018" group-title="Noticias",Canal 26
 https://broker.cdn.rcs.net.ar/mnp/kharwzzmy100000012mb517x6muxvpna/output.mpd
-#EXTINF:-1  tvg-id="24/7CanaldeNoticias.ar" tvg-title="24/7 Canal de Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/247noticias.png?raw=true" tvg-chno="090" group-title="Noticias",24/7 Canal de Noticias
-https://broker.cdn.rcs.net.ar/hub/cn247tv/dash/247.mpd
-#EXTINF:-1  tvg-id="0922" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="095" group-title="Noticias",Ar|12
-https://broker.cdn.rcs.net.ar/mnp/ip/output.mpd
-#EXTINF:-1  tvg-id="LN+.ar" tvg-title="LN+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LN+.png?raw=true" tvg-chno="100" group-title="Noticias",LN+
+#EXTINF:-1  tvg-id="LN+.ar" tvg-title="LN+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LN+.png?raw=true" tvg-chno="019" group-title="Noticias",LN+
 https://broker.cdn.rcs.net.ar/mnp/lnmas/output.mpd
-#EXTINF:-1  tvg-id="Encuentro.ar" tvg-title="encuentro" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/encuentro.png?raw=true" tvg-chno="105" group-title="Noticias",encuentro
+
+
+#EXTINF:-1  tvg-id="NET TV.ar" tvg-title="NET TVew" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/nett.png?raw=true" tvg-chno="021" group-title="Noticias",NET TV
+https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="Encuentro.ar" tvg-title="encuentro" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/encuentro.png?raw=true" tvg-chno="022" group-title="Noticias",encuentro
 https://broker.cdn.rcs.net.ar/mnp/encuentro/output.mpd
-#EXTINF:-1  tvg-id="TECtv.ar" tvg-title="TecTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TECTV.png?raw=true" tvg-chno="110" group-title="Noticias",TecTV
-https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
-#EXTINF:-1  tvg-id="Telemax.ar" tvg-title="Telemax" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telemax-ar.png?raw=true" tvg-chno="115" group-title="Noticias",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1  tvg-id="0122" tvg-title="TeleSur" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telesur.png?raw=true" tvg-chno="116" group-title="Noticias",TeleSur
-https://broker.cdn.rcs.net.ar/mnp/canalstafe/output.mpd
-#EXTINF:-1  tvg-id="0202" tvg-title="CNN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cnn.png?raw=true" tvg-chno="116" group-title="Noticias",CNN
+#EXTINF:-1  tvg-id="0202" tvg-title="CNN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cnn.png?raw=true" tvg-chno="023" group-title="Noticias",CNN
 https://broker.cdn.rcs.net.ar/mnp/cnne/output.mpd
-#EXTINF:-1  tvg-id="C79MDP" tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="120" group-title="Noticias",Mar del Plata
-https://streamconex.com:19360/mardelplata/mardelplata.m3u8
-#EXTINF:-1  tvg-id="C79MDP" tvg-title="Santa Clara" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="125" group-title="Noticias",Santa Clara
-https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
-#EXTINF:-1  tvg-id="C79MDP" tvg-title="La Costa" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="126" group-title="Noticias",La Costa
-https://streamconex.com:19360/lacosta/lacosta.m3u8
-#EXTINF:-1  tvg-id="Construir.ar" tvg-title="Construir" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/construirtv.png?raw=true" tvg-chno="199" group-title="Deportes",Construir
+#EXTINF:-1  tvg-id="0922" tvg-title="Ar|12" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/AR12.png?raw=true" tvg-chno="024" group-title="Noticias",Ar|12
+https://broker.cdn.rcs.net.ar/mnp/ip/output.mpd
+#EXTINF:-1  tvg-id="0963" tvg-title="BravoTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BRAVOTV.png?raw=true" tvg-chno="025" group-title="Noticias",BravoTV
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8?ndvc=0&dpssid=r1us1905248546c8b496fb8fa868fd8cca0d5a47b4e4b3&sid=ba5t1l1xb21101094586ab1a5ffa9455
+#EXTINF:-1  tvg-id="C2MDP" tvg-title="Canal 2 MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/canal2.png?raw=true" tvg-chno="031" group-title="News",Canal 2 MDP
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1  tvg-id="24/7CanaldeNoticias.ar" tvg-title="24/7 Canal de Noticias" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/247noticias.png?raw=true" tvg-chno="032" group-title="Noticias",24/7 Canal de Noticias
+https://broker.cdn.rcs.net.ar/hub/cn247tv/dash/247.mpd
+#EXTINF:-1  tvg-id="TECtv.ar" tvg-title="TecTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TECTV.png?raw=true" tvg-chno="033" group-title="Noticias",TecTV
+https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
+#EXTINF:-1  tvg-id="Telemax.ar" tvg-title="Telemax" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telemax-ar.png?raw=true" tvg-chno="034" group-title="Noticias",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1  tvg-id="0122" tvg-title="TeleSur" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telesur.png?raw=true" tvg-chno="035" group-title="Noticias",TeleSur
+https://broker.cdn.rcs.net.ar/mnp/canalstafe/output.mpd
+#EXTINF:-1  tvg-id="Construir.ar" tvg-title="Construir" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/construirtv.png?raw=true" tvg-chno="036" group-title="Deportes",Construir
 https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
-#EXTINF:-1  tvg-id="0927" tvg-title="DeporTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPORTV1.png?raw=true" tvg-chno="200" group-title="Deportes",DeporTV
+#EXTINF:-1  tvg-id="C79MDP" tvg-title="C79MDP" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="079" group-title="Noticias",Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:-1  tvg-id="C79MDP" tvg-title="Santa Clara" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="080" group-title="Noticias",Santa Clara
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1  tvg-id="C79MDP" tvg-title="La Costa" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/c79.png?raw=true" tvg-chno="081" group-title="Noticias",La Costa
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+#EXTINF:-1  tvg-id="0927" tvg-title="DeporTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DEPORTV1.png?raw=true" tvg-chno="100" group-title="Deportes",DeporTV
 https://broker.cdn.rcs.net.ar/mnp/g5p2zrzqrj8jzcte7q5nrlh00000022k/output.mpd
-#EXTINF:-1  tvg-id="TyCSports.ar" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="201" group-title="Deportes",TyC Sports
+#EXTINF:-1  tvg-id="TyCSports.ar" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="101" group-title="Deportes",TyC Sports
 https://broker.cdn.rcs.net.ar/mnp/gzq5h400000052hwepofodn3w6lod4zh/output.mpd
-#EXTINF:-1  tvg-id="ESPN.ar" tvg-title="ESPN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN.png?raw=true" tvg-chno="202" group-title="Deportes",ESPN
+#EXTINF:-1  tvg-id="ESPN.ar" tvg-title="ESPN" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN.png?raw=true" tvg-chno="102" group-title="Deportes",ESPN
 https://broker.cdn.rcs.net.ar/mnp/asmvm6rkjqeyv00000263v47eydhvgcf/output.mpd
-#EXTINF:-1  tvg-id="ESPN2.ar" tvg-title="ESPN 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN2.png?raw=true" tvg-chno="203" group-title="Deportes",ESPN 2
+#EXTINF:-1  tvg-id="ESPN2.ar" tvg-title="ESPN 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN2.png?raw=true" tvg-chno="103" group-title="Deportes",ESPN 2
 https://broker.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
-#EXTINF:-1  tvg-id="ESPN3.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="204" group-title="Deportes",ESPN 3
+#EXTINF:-1  tvg-id="ESPN3.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="104" group-title="Deportes",ESPN 3
 https://broker.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
-#EXTINF:-1  tvg-id="ESPN4.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="205" group-title="Deportes",ESPN 4
+#EXTINF:-1  tvg-id="ESPN4.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="105" group-title="Deportes",ESPN 4
 https://broker.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
-#EXTINF:-1  tvg-id="FOXSportsConoSur.ar" tvg-title="Fox Sports 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS.png?raw=true" tvg-chno="206" group-title="Deportes",Fox Sports 1
+#EXTINF:-1  tvg-id="FOXSportsConoSur.ar" tvg-title="Fox Sports 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS.png?raw=true" tvg-chno="106" group-title="Deportes",Fox Sports 1
 https://broker.cdn.rcs.net.ar/mnp/a00000051gf3shbt38aw9jj01yqlyvzh/output.mpd
-#EXTINF:-1  tvg-id="FOXSports2.ar" tvg-title="Fox Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS2.png?raw=true" tvg-chno="207" group-title="Deportes",Fox Sports 2
+#EXTINF:-1  tvg-id="FOXSports2.ar" tvg-title="Fox Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS2.png?raw=true" tvg-chno="107" group-title="Deportes",Fox Sports 2
 https://broker.cdn.rcs.net.ar/mnp/whq00000275x8ol6uzpdl14b9mhb6loc/output.mpd
-#EXTINF:-1  tvg-id="FOXSports3.ar" tvg-title="Fox Sports 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS3.png?raw=true" tvg-chno="208" group-title="Deportes",Fox Sports 3
+#EXTINF:-1  tvg-id="FOXSports3.ar" tvg-title="Fox Sports 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/FOXSPORTS3.png?raw=true" tvg-chno="108" group-title="Deportes",Fox Sports 3
 https://broker.cdn.rcs.net.ar/mnp/hz6t5c9mz68wy00000276ouv9qqhfwbr/output.mpd
-#EXTINF:-1  tvg-id="ElGarageTv.ar" tvg-title="El Garage TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ELGARAGE.png?raw=true" tvg-chno="209" group-title="Deportes",El Garage TV
+#EXTINF:-1  tvg-id="ElGarageTv.ar" tvg-title="El Garage TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ELGARAGE.png?raw=true" tvg-chno="109" group-title="Deportes",El Garage TV
 https://broker.cdn.rcs.net.ar/mnp/garage/output.mpd
-#EXTINF:-1  tvg-id="0446" tvg-title="GolfChannel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLFCHANNEL.png?raw=true" tvg-chno="210" group-title="Deportes",GolfChannel
+#EXTINF:-1  tvg-id="0446" tvg-title="GolfChannel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GOLFCHANNEL.png?raw=true" tvg-chno="110" group-title="Deportes",GolfChannel
 https://broker.cdn.rcs.net.ar/mnp/golf/output.mpd
-#EXTINF:-1  tvg-id="DiscoveryTurbo.ar" tvg-title="Discovery Turbo" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_Turbo_logo.svg.png?raw=true" tvg-chno="211" group-title="Deportes",Discovery Turbo
+#EXTINF:-1  tvg-id="DiscoveryTurbo.ar" tvg-title="Discovery Turbo" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Discovery_Turbo_logo.svg.png?raw=true" tvg-chno="111" group-title="Deportes",Discovery Turbo
 https://access.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1  tvg-id="0431" tvg-title="DSports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DSPORTS.png?raw=true" tvg-chno="212" group-title="Deportes",DSports
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1  tvg-id="ESPN PREMIUM.ar" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="214" group-title="Deportes",ESPN Premium
+#EXTINF:-1  tvg-id="0431" tvg-title="DSports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DSPORTS.png?raw=true" tvg-chno="112" group-title="Deportes",DSports
+https://bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="ESPN PREMIUM.ar" tvg-title="ESPN Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/espnpremium.png?raw=true" tvg-chno="123" group-title="Deportes",ESPN Premium
 https://broker.cdn.rcs.net.ar/mnp/k5ponh1vs9tpet3c1mbh00000811lgzw/output.mpd
-#EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSPORTSPREMIUM.png?raw=true" tvg-chno="215" group-title="Deportes",TNT Sports Premium
+#EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSPORTSPREMIUM.png?raw=true" tvg-chno="124" group-title="Deportes",TNT Sports Premium
 https://broker.cdn.rcs.net.ar/mnp/ogyv7712m4k7000000810xsk8utl0vak/output.mpd
-#EXTINF:-1  tvg-id="Pakapaka.ar" tvg-title="Paka Paka" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/pakapaka.png?raw=true" tvg-chno="300" group-title="Infantiles",Paka Paka
+
+
+#EXTINF:-1  tvg-id="Pakapaka.ar" tvg-title="Paka Paka" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/pakapaka.png?raw=true" tvg-chno="200" group-title="Infantiles",Paka Paka
 https://broker.cdn.rcs.net.ar/mnp/pkpk/output.mpd
-#EXTINF:-1  tvg-id="DisneyChannel.ar" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="301" group-title="Infantiles",Disney Channel
+#EXTINF:-1  tvg-id="DisneyChannel.ar" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="201" group-title="Infantiles",Disney Channel
 https://broker.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1  tvg-id="NICKELODEON.ar" tvg-title="Nickelodeon" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKELODEON.png?raw=true" tvg-chno="302" group-title="Infantiles",Nickelodeon
 https://broker.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1  tvg-id="CARTOON NETWORK.ar" tvg-title="Cartoon Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONN.png?raw=true" tvg-chno="303" group-title="Infantiles",Cartoon Network
+#EXTINF:-1  tvg-id="CARTOON NETWORK.ar" tvg-title="Cartoon Network" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONN.png?raw=true" tvg-chno="203" group-title="Infantiles",Cartoon Network
 https://broker.cdn.rcs.net.ar/mnp/cartoon/output.mpd
-#EXTINF:-1  tvg-id="DISCOVERY KIDS.ar" tvg-title="Discovery Kids" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYKIDS.png?raw=true" tvg-chno="304" group-title="Infantiles",Discovery Kids
-https://broker.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
-#EXTINF:-1  tvg-id="0324" tvg-title="Cartoonito" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONITO1.png?raw=true" tvg-chno="305" group-title="Infantiles",Cartoonito
-https://broker.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1  tvg-id="Tooncast.ar" tvg-title="Tooncast" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TOONCAST.png?raw=true" tvg-chno="306" group-title="Infantiles",Tooncast
-https://broker.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-#EXTINF:-1  tvg-id="NICK JR.ar" tvg-title="Nick Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true" tvg-chno="307" group-title="Infantiles",Nick Jr.
-https://broker.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-#EXTINF:-1  tvg-id="0309" tvg-title="DreamWorks" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/dreamworks.png?raw=true" tvg-chno="308" group-title="Infantiles",DreamWorks
+#EXTINF:-1  tvg-id="0309" tvg-title="DreamWorks" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/dreamworks.png?raw=true" tvg-chno="204" group-title="Infantiles",DreamWorks
 https://broker.cdn.rcs.net.ar/mnp/dreamworks/output.mpd
-#EXTINF:-1  tvg-id="DISNEY JUNIOR.ar" tvg-title="Disney Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYJR.png?raw=true" tvg-chno="309" group-title="Infantiles",Disney Jr.
+#EXTINF:-1  tvg-id="DISCOVERY KIDS.ar" tvg-title="Discovery Kids" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISCOVERYKIDS.png?raw=true" tvg-chno="205" group-title="Infantiles",Discovery Kids
+https://broker.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
+#EXTINF:-1  tvg-id="0324" tvg-title="Cartoonito" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CARTOONITO1.png?raw=true" tvg-chno="206" group-title="Infantiles",Cartoonito
+https://broker.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1  tvg-id="DISNEY JUNIOR.ar" tvg-title="Disney Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYJR.png?raw=true" tvg-chno="207" group-title="Infantiles",Disney Jr.
 https://broker.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1  tvg-id="Tooncast.ar" tvg-title="Tooncast" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TOONCAST.png?raw=true" tvg-chno="209" group-title="Infantiles",Tooncast
+https://broker.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1  tvg-id="NICK JR.ar" tvg-title="Nick Jr." tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NICKJR.png?raw=true" tvg-chno="210" group-title="Infantiles",Nick Jr.
+https://broker.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1  tvg-id="BabyTV.ar" tvg-title="BabyTV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/BABYTV.png?raw=true" tvg-chno="211" group-title="Infantiles",BabyTV.
+https://broker.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1  tvg-id="HBO.ar" tvg-title="HBO" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_logo.svg.png?raw=true" tvg-chno="250" group-title="Series",HBO
+https://broker.cdn.rcs.net.ar/mnp/hbo/output.mpd
+#EXTINF:-1  tvg-id="HBO 2 HD.ar" tvg-title="HBO 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/hbo2.png?raw=true" tvg-chno="251" group-title="Series",HBO 2
+https://broker.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+#EXTINF:-1  tvg-id="HBO PLUS.ar" tvg-title="HBO+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Logohboplus2019.svg.png?raw=true" tvg-chno="252" group-title="Series",HBO+
+https://broker.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+#EXTINF:-1  tvg-id="HBO POP HD.ar" tvg-title="HBO Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOPOP.png?raw=true" tvg-chno="253" group-title="Series",HBO Pop
+https://broker.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1  tvg-id="HBO FAMILY HD.ar" tvg-title="HBO Family" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_Family.svg.png?raw=true" tvg-chno="254" group-title="Series",HBO Family
+https://broker.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+#EXTINF:-1  tvg-id="HBO XTREME HD.ar" tvg-title="HBO Xtreme" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOXTREME.png?raw=true" tvg-chno="255" group-title="Series",HBO Xtreme
+https://broker.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+#EXTINF:-1  tvg-id="HBO MUNDI.ar" tvg-title="HBO MUNDI" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_MUNDI.png?raw=true" tvg-chno="256" group-title="Series",HBO MUNDI
+https://broker.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+#EXTINF:-1  tvg-id="HBO SIGNATURE.ar" tvg-title="HBO Signature" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOsignature.png?raw=true" tvg-chno="256" group-title="Series",HBO Signature
+https://broker.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="CineAr.ar" tvg-title="CineAR" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cinear.png?raw=true" tvg-chno="410" group-title="Series",CineAR
 https://broker.cdn.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1  tvg-id="SPACE.ar" tvg-title="Space" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/SPACE.png?raw=true" tvg-chno="415" group-title="Series",Space
@@ -138,22 +182,7 @@ https://broker.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1  tvg-id="STUDIO UNIVERSAL.ar" tvg-title="Studio Universal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/STUDIO.png?raw=true" tvg-chno="520" group-title="Series",Studio Universal
 https://broker.cdn.rcs.net.ar/mnp/st_universal/output.mpd
-#EXTINF:-1  tvg-id="HBO.ar" tvg-title="HBO" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_logo.svg.png?raw=true" tvg-chno="550" group-title="Series",HBO
-http://45.5.118.152:8000/play/a0bm/index.m3u8
-#EXTINF:-1  tvg-id="HBO 2 HD.ar" tvg-title="HBO 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/hbo2.png?raw=true" tvg-chno="555" group-title="Series",HBO 2
-http://45.5.151.147:8000/play/a010/index.m3u8
-#EXTINF:-1  tvg-id="HBO PLUS.ar" tvg-title="HBO+" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/Logohboplus2019.svg.png?raw=true" tvg-chno="560" group-title="Series",HBO+
-http://45.5.117.57:8999/play/a05s/index.m3u8
-#EXTINF:-1  tvg-id="HBO POP HD.ar" tvg-title="HBO Pop" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOPOP.png?raw=true" tvg-chno="565" group-title="Series",HBO Pop
-http://190.7.19.197:232/play/a016/index.m3u8
-#EXTINF:-1  tvg-id="HBO FAMILY HD.ar" tvg-title="HBO Family" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_Family.svg.png?raw=true" tvg-chno="570" group-title="Series",HBO Family
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnlt_2OCVTdlDf0KcKJbrptKChwBmq7OrLc1ThnSqyyci/ts
-#EXTINF:-1  tvg-id="HBO XTREME HD.ar" tvg-title="HBO Xtreme" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOXTREME.png?raw=true" tvg-chno="575" group-title="Series",HBO Xtreme
-http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnlt_2OCVTdlDf0KcKJbrptLQcSNrSqJQv2m9P511KnA9/ts
-#EXTINF:-1  tvg-id="HBO MUNDI.ar" tvg-title="HBO MUNDI" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBO_MUNDI.png?raw=true" tvg-chno="580" group-title="Series",HBO MUNDI
-http://190.238.43.117:8000/play/a02r/index.m3u8
-#EXTINF:-1  tvg-id="HBO SIGNATURE.ar" tvg-title="HBO Signature" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/HBOsignature.png?raw=true" tvg-chno="585" group-title="Series",HBO Signature
-http://181.13.252.102:8000/play/a02c/index.m3u8
+
 #EXTINF:-1  tvg-id="0609" tvg-title="Lifetime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true" tvg-chno="615" group-title="Series",Lifetime
 https://broker.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1  tvg-id="CINECANAL.ar" tvg-title="Cinecanal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true" tvg-chno="620" group-title="Series",Cinecanal
