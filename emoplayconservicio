@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1  tvg-id="GENTV" tvg-title="Gen TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true" tvg-chno="020" group-title="Noticias",Gen TV
+#EXTINF:-1  tvg-id="GENTV" tvg-title="Gen TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/gentv.png?raw=true" tvg-chno="006" group-title="Noticias",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1  tvg-id="NEOTV" tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="025" group-title="Noticias",Neo TV
+#EXTINF:-1  tvg-id="NEOTV" tvg-title="Neo TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/neotv.png?raw=true" tvg-chno="007" group-title="Noticias",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1  tvg-id="AmericaTV.ar" tvg-title="América TV" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/americatv1.png?raw=true" tvg-chno="008" group-title="Noticias",América TV
 https://broker.cdn.rcs.net.ar/mnp/qm88dp4x00000002jpgb20pm1djqsool/output.mpd
