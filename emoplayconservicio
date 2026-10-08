@@ -185,6 +185,12 @@ https://broker.cdn.rcs.net.ar/mnp/st_universal/output.mpd
 
 #EXTINF:-1  tvg-id="0609" tvg-title="Lifetime" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/LIFERIME.png?raw=true" tvg-chno="615" group-title="Series",Lifetime
 https://broker.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+
+
+#EXTINF:-1  tvg-id="0609" tvg-title="AdultSwim" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945580" tvg-chno="616" group-title="Series",Adult Swim
+https://broker.cdn.rcs.net.ar/mnp/trutv/output.mpd
+
+
 #EXTINF:-1  tvg-id="CINECANAL.ar" tvg-title="Cinecanal" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINECANAL.png?raw=true" tvg-chno="620" group-title="Series",Cinecanal
 https://broker.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1  tvg-id="CINEMAX.ar" tvg-title="Cinemax" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CINEMAX.png?raw=true" tvg-chno="625" group-title="Series",Cinemax
