@@ -92,6 +92,10 @@ https://broker.cdn.rcs.net.ar/mnp/k5ponh1vs9tpet3c1mbh00000811lgzw/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/ogyv7712m4k7000000810xsk8utl0vak/output.mpd
 
 
+
+//https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
+
+
 #EXTINF:-1  tvg-id="Pakapaka.ar" tvg-title="Paka Paka" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/pakapaka.png?raw=true" tvg-chno="200" group-title="Infantiles",Paka Paka
 https://broker.cdn.rcs.net.ar/mnp/pkpk/output.mpd
 #EXTINF:-1  tvg-id="DisneyChannel.ar" tvg-title="Disney Channel" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/DISNEYCHANNEL.png?raw=true" tvg-chno="201" group-title="Infantiles",Disney Channel
