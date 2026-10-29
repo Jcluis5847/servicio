@@ -1,5 +1,6 @@
 logos:   
 
+https://www.free-epg.de/playlists/ar
 
 #EXTINF:-1  tvg-id="Telefe.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="035" group-title="Noticias",Telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
